@@ -1,0 +1,116 @@
+{
+  "metas": [
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "El Pingüino",
+      "posterShape": "poster",
+      "description": "La lucha por el poder en el crimen organizado de Gotham, con el mismo peso moral que ya viste en El padrino.\n\nSimilar a tus gustos",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_268"
+        }
+      ]
+    },
+    {
+      "id": "tt0303461",
+      "type": "series",
+      "name": "Firefly",
+      "posterShape": "poster",
+      "description": "Una tripulación fuera de la ley cruzando la galaxia, con ese mundo propio que te enganchó en Blade Runner o Alien.\n\nSimilar a tus gustos",
+      "releaseInfo": "2002",
+      "poster": "https://image.tmdb.org/t/p/w342/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_269"
+        }
+      ]
+    },
+    {
+      "id": "tt9253284",
+      "type": "series",
+      "name": "Andor",
+      "posterShape": "poster",
+      "description": "Star Wars se vuelve thriller político y serio, con la tensión paciente que ya disfrutaste en Slow Horses.\n\nSimilar a tus gustos",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_271"
+        }
+      ]
+    },
+    {
+      "id": "tt4301160",
+      "type": "series",
+      "name": "Encerrado con el diablo",
+      "posterShape": "poster",
+      "description": "Un preso debe sacarle una confesión a un asesino: un duelo mental que recuerda la reconstrucción de El secreto de sus ojos.\n\nSimilar a tus gustos",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/6ZalUWRabIM2HehTDv8eqffqD4g.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_273"
+        }
+      ]
+    },
+    {
+      "id": "tt2049116",
+      "type": "series",
+      "name": "Gomorra",
+      "posterShape": "poster",
+      "description": "El crimen organizado contado sin glamour ni heroísmo, con el mismo peso que tanto te atrapa en el cine de mafia.\n\nSimilar a tus gustos",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_275"
+        }
+      ]
+    },
+    {
+      "id": "tt5348176",
+      "type": "series",
+      "name": "Barry",
+      "posterShape": "poster",
+      "description": "Un asesino a sueldo metido en clases de interpretación: crimen y humor negro con ese mismo gusto absurdo que te gusta.\n\nSimilar a tus gustos",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_277"
+        }
+      ]
+    },
+    {
+      "id": "tt1399664",
+      "type": "series",
+      "name": "El infiltrado",
+      "posterShape": "poster",
+      "description": "Un espía se infiltra en una red de tráfico de armas, con el suspense paciente y elegante que tanto disfrutas.\n\nSimilar a tus gustos",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/mpegR0goWmr1uBZ5DaPGIQDvMHg.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_279"
+        }
+      ]
+    }
+  ]
+}

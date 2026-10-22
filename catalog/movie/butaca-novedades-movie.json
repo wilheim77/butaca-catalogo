@@ -1,0 +1,132 @@
+{
+  "metas": [
+    {
+      "id": "tt35511966",
+      "type": "movie",
+      "name": "La bola negra",
+      "posterShape": "poster",
+      "description": "Como en El secreto de sus ojos, aquí tres épocas distintas de la Guerra Civil se entrelazan en una sola historia.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_250"
+        }
+      ]
+    },
+    {
+      "id": "tt36983905",
+      "type": "movie",
+      "name": "El hombre que desafió al rey",
+      "posterShape": "poster",
+      "description": "Una rebelión campesina contra la corona, con el pulso moral de Braveheart y Gladiator que tanto te gusta.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_252"
+        }
+      ]
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "El día de la revelación",
+      "posterShape": "poster",
+      "description": "Invasión alienígena a gran escala con la ambición de mundo propio que te enganchó en Blade Runner y Matrix.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_254"
+        }
+      ]
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "El final de Oak Street",
+      "posterShape": "poster",
+      "description": "Un barrio entero transportado a un lugar desconocido, con el misterio de supervivencia que te atrapa en los puzzles bien armados.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_256"
+        }
+      ]
+    },
+    {
+      "id": "tt18259538",
+      "type": "movie",
+      "name": "Avatar Aang: El último maestro del aire",
+      "posterShape": "poster",
+      "description": "Aventura de artes marciales y mundo propio, en la línea de Dragon Ball o El señor de los anillos que tanto disfrutas.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/gXyICsxc1amVyziopCT4yhnelNv.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_258"
+        }
+      ]
+    },
+    {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "You Can See Everything",
+      "posterShape": "poster",
+      "description": "Un documental sobre el ascenso y la caída de una fundadora que mintió a todos, con el peso moral de Scorsese.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_260"
+        }
+      ]
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "posterShape": "poster",
+      "description": "Una expedición real al Everest con la épica de conflicto humano que valoras en Gladiator o Doce del patíbulo.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_262"
+        }
+      ]
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Entrega al límite",
+      "posterShape": "poster",
+      "description": "Una entrega médica se convierte en persecución contra un cártel, con humor y acción sin pausa.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_264"
+        }
+      ]
+    }
+  ]
+}

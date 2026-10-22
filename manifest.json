@@ -1,0 +1,111 @@
+{
+  "id": "com.willy.butaca",
+  "version": "0.1.1",
+  "name": "Butaca",
+  "description": "Recomendaciones personales de cine y series para Willy.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "butaca-novedades-movie",
+      "name": "Para Willy · Novedades",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-novedades-show",
+      "name": "Para Willy · Novedades",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-temporadas-show",
+      "name": "Para Willy · Nuevas temporadas",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-similar-movie",
+      "name": "Para Willy · Similar a tus gustos",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-similar-show",
+      "name": "Para Willy · Similar a tus gustos",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-clasicos-movie",
+      "name": "Para Willy · Clásicos que te faltan",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-clasicos-show",
+      "name": "Para Willy · Clásicos que te faltan",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-poco_conocidas-movie",
+      "name": "Para Willy · Poco conocidas",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-poco_conocidas-show",
+      "name": "Para Willy · Poco conocidas",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-nuevo-movie",
+      "name": "Para Willy · Algo nuevo",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-nuevo-show",
+      "name": "Para Willy · Algo nuevo",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-pareja-movie",
+      "name": "Para Willy · Para ver en pareja",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-pareja-show",
+      "name": "Para Willy · Para ver en pareja",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "butaca-familia-movie",
+      "name": "Para Willy · En familia",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "butaca-familia-show",
+      "name": "Para Willy · En familia",
+      "extra": []
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "metas": [
+    {
+      "id": "tt0338564",
+      "type": "movie",
+      "name": "Juego sucio (Infernal Affairs)",
+      "posterShape": "poster",
+      "description": "La historia de Hong Kong que inspiró Infiltrados: dos topos infiltrados y la misma tensión moral que tanto te gustó de Scorsese.\n\nAlgo nuevo",
+      "releaseInfo": "2002",
+      "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_226"
+        }
+      ]
+    },
+    {
+      "id": "tt0036775",
+      "type": "movie",
+      "name": "Perdición",
+      "posterShape": "poster",
+      "description": "Noir clásico de 1944: un plan de seguro tan calculado como El golpe, con la tensión fría que tanto disfrutas en Hitchcock.\n\nAlgo nuevo",
+      "releaseInfo": "1944",
+      "poster": "https://image.tmdb.org/t/p/w342/wiFsjxbmlyP7O8PMASPh18ftRez.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_310"
+        }
+      ]
+    },
+    {
+      "id": "tt0048021",
+      "type": "movie",
+      "name": "Rififi",
+      "posterShape": "poster",
+      "description": "Atraco francés de los 50 con el plan perfecto que tanto te gusta en Snatch, ahora en blanco y negro.\n\nAlgo nuevo",
+      "releaseInfo": "1955",
+      "poster": "https://image.tmdb.org/t/p/w342/kKGrux7ERvRY84uOV5TV9Pi15cf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_311"
+        }
+      ]
+    },
+    {
+      "id": "tt0120324",
+      "type": "movie",
+      "name": "Un plan sencillo",
+      "posterShape": "poster",
+      "description": "Un hallazgo de dinero que se complica como en Fargo, pero sin humor: solo codicia y nieve cerrándose sobre tres amigos.\n\nAlgo nuevo",
+      "releaseInfo": "1998",
+      "poster": "https://image.tmdb.org/t/p/w342/6XRRlddL9uph530perpvhFtjyNu.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_312"
+        }
+      ]
+    }
+  ]
+}

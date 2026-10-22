@@ -1,0 +1,148 @@
+{
+  "metas": [
+    {
+      "id": "tt0877057",
+      "type": "series",
+      "name": "Death Note",
+      "posterShape": "poster",
+      "description": "Un juego del gato y el ratón entre un asesino genio y un detective, puzzle mental con la tensión de reconstruir la verdad que te atrapó en Memento.\n\nEn familia",
+      "releaseInfo": "2006",
+      "poster": "https://image.tmdb.org/t/p/w342/cFirFPdzle2QYyjFlLVwWUP5YAo.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_323"
+        }
+      ]
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "posterShape": "poster",
+      "description": "Mutantes, humor y acción ochentera animada, el mismo terreno de superhéroes que te engancha sin pedir perdón.\n\nEn familia",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_325"
+        }
+      ]
+    },
+    {
+      "id": "tt5607976",
+      "type": "series",
+      "name": "La materia oscura",
+      "posterShape": "poster",
+      "description": "Una adolescente cruzando universos paralelos entre brujas y dæmons, fantasía con la construcción de mundo que tanto disfrutas.\n\nEn familia",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_215"
+        }
+      ]
+    },
+    {
+      "id": "tt1236246",
+      "type": "series",
+      "name": "Runaways",
+      "posterShape": "poster",
+      "description": "Un grupo de adolescentes descubre que sus padres son los villanos, aventura de superhéroes contada desde su misma edad.\n\nEn familia",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_327"
+        }
+      ]
+    },
+    {
+      "id": "tt5232792",
+      "type": "series",
+      "name": "Lost in Space",
+      "posterShape": "poster",
+      "description": "Una familia perdida en un planeta desconocido luchando por sobrevivir, ciencia ficción familiar con el mismo espíritu aventurero.\n\nEn familia",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/qv2PvsVjLttp4FmUUJ1G9d11qTe.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_329"
+        }
+      ]
+    },
+    {
+      "id": "tt17220216",
+      "type": "series",
+      "name": "Monarch: El legado de los monstruos",
+      "posterShape": "poster",
+      "description": "Secretos familiares y titanes kaiju entrelazados, la misma mitología de monstruos que conecta con tu gusto por los mundos de ciencia ficción.\n\nEn familia",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/ufFSOyMYcuPhZpVs1obeYIzcnYY.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_331"
+        }
+      ]
+    },
+    {
+      "id": "tt1888075",
+      "type": "series",
+      "name": "Crimen en el paraíso",
+      "posterShape": "poster",
+      "description": "Un inspector huraño resolviendo crímenes en una isla caribeña, misterio ligero con el mismo ingenio que disfrutas en las tramas de detective.\n\nEn familia",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_332"
+        }
+      ]
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Materia oscura",
+      "posterShape": "poster",
+      "description": "Un hombre atrapado en una versión alternativa de su vida, puzzle de identidad con la misma necesidad de reconstruirlo todo que en Memento.\n\nEn familia",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_333"
+        }
+      ]
+    },
+    {
+      "id": "tt5165368",
+      "type": "series",
+      "name": "Cuentos asombrosos",
+      "posterShape": "poster",
+      "description": "Antología de Spielberg que lleva a gente corriente a mundos asombrosos, fantasía e imaginación en dosis cortas para ver juntos.\n\nEn familia",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/alNBohs3NLzWCEh4t1wad60hI5d.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_334"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt0056923",
+      "type": "movie",
+      "name": "Charada",
+      "posterShape": "poster",
+      "description": "Si te gustó la tensión elegante de Con la muerte en los talones, aquí hay misterio y complicidad parisina para ver juntos.\n\nPara ver en pareja",
+      "releaseInfo": "1963",
+      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_109"
+        }
+      ]
+    },
+    {
+      "id": "tt0088930",
+      "type": "movie",
+      "name": "El juego de la sospecha (Cluedo)",
+      "posterShape": "poster",
+      "description": "Como Puñales por la espalda pero en una mansión victoriana: sospechosos, chantajes y un asesinato que resolver juntos.\n\nPara ver en pareja",
+      "releaseInfo": "1985",
+      "poster": "https://image.tmdb.org/t/p/w342/vhrmZCkFkg2rtn7laiFzqwyVxky.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_316"
+        }
+      ]
+    },
+    {
+      "id": "tt2278388",
+      "type": "movie",
+      "name": "El gran hotel Budapest",
+      "posterShape": "poster",
+      "description": "Un robo con mucho ingenio y humor absurdo, al estilo de los líos que tanto disfrutas en Snatch o The Gentlemen.\n\nPara ver en pareja",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/1wk0vpNCX5T40KsGQKjfoDAhmJw.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_318"
+        }
+      ]
+    },
+    {
+      "id": "tt0988045",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "posterShape": "poster",
+      "description": "Deducción, acción y la química de un dúo de detectives, perfecta para una noche de misterio sin complicaciones.\n\nPara ver en pareja",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_320"
+        }
+      ]
+    },
+    {
+      "id": "tt7668870",
+      "type": "movie",
+      "name": "Searching",
+      "posterShape": "poster",
+      "description": "Un padre busca a su hija a través de pantallas con la tensión de un misterio que se resuelve pieza a pieza.\n\nPara ver en pareja",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/dhluarMp34GfG369Y1aH2F6lAvC.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_205"
+        }
+      ]
+    }
+  ]
+}

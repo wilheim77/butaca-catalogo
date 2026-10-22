@@ -1,0 +1,36 @@
+{
+  "metas": [
+    {
+      "id": "tt6788942",
+      "type": "movie",
+      "name": "Bad Genius",
+      "posterShape": "poster",
+      "description": "Como el ingenio de Lupin pero en un examen: un plan tan calculado que se siente un auténtico golpe.\n\nPoco conocidas",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/gMjFHzyhamOKdqMhrT4cJ5Hp0cb.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_301"
+        }
+      ]
+    },
+    {
+      "id": "tt31450459",
+      "type": "movie",
+      "name": "Digger",
+      "posterShape": "poster",
+      "description": "Si disfrutaste la sátira mordaz de ¿Teléfono rojo?: un multimillonario que quiere salvar el mundo a su manera.\n\nPoco conocidas",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_175"
+        }
+      ]
+    }
+  ]
+}

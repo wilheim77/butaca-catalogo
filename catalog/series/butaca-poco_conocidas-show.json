@@ -1,0 +1,148 @@
+{
+  "metas": [
+    {
+      "id": "tt1506339",
+      "type": "series",
+      "name": "Eve no Jikan",
+      "posterShape": "poster",
+      "description": "Si te fascinó Blade Runner: androides casi humanos y un mundo que invita a pensar, con mucha más calma.\n\nPoco conocidas",
+      "releaseInfo": "2008",
+      "poster": "https://image.tmdb.org/t/p/w342/dlHmKCDZOFq9CIHC0samQJ42nbr.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_302"
+        }
+      ]
+    },
+    {
+      "id": "tt20600022",
+      "type": "series",
+      "name": "El peor de los males",
+      "posterShape": "poster",
+      "description": "Con el pulso de Infiltrados: un policía se adentra en el cártel y la línea moral se desdibuja.\n\nPoco conocidas",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/7ixsMc0ww13xRUjoAOk61NrxA7h.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_303"
+        }
+      ]
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "posterShape": "poster",
+      "description": "Como en Blade Runner, una IA que busca su propio propósito, pero en clave Marvel y formato breve.\n\nPoco conocidas",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_304"
+        }
+      ]
+    },
+    {
+      "id": "tt0086661",
+      "type": "series",
+      "name": "Las aventuras de Sherlock Holmes",
+      "posterShape": "poster",
+      "description": "Para seguir enganchado a los casos al estilo Sospechosos Habituales: deducción pura en la Inglaterra victoriana.\n\nPoco conocidas",
+      "releaseInfo": "1984",
+      "poster": "https://image.tmdb.org/t/p/w342/mVmGmdfdWxVZ2vSbC8De0UG5QJW.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_245"
+        }
+      ]
+    },
+    {
+      "id": "tt0111873",
+      "type": "series",
+      "name": "Æon Flux",
+      "posterShape": "poster",
+      "description": "Con la estética cyberpunk de Matrix o Blade Runner, pero en animación de culto de los noventa.\n\nPoco conocidas",
+      "releaseInfo": "1991",
+      "poster": "https://image.tmdb.org/t/p/w342/3745n05zXNMfWwkXMcCiF64838s.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_305"
+        }
+      ]
+    },
+    {
+      "id": "tt0101049",
+      "type": "series",
+      "name": "Un poco de Fry y Laurie",
+      "posterShape": "poster",
+      "description": "Si te ríes con Los Monty Python: sketches absurdos de dos cómicos británicos en estado puro.\n\nPoco conocidas",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/69vY25JVf3b34zAMFxlso78Lw82.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_306"
+        }
+      ]
+    },
+    {
+      "id": "tt0437745",
+      "type": "series",
+      "name": "Robot Chicken",
+      "posterShape": "poster",
+      "description": "Con el humor gamberro y sin filtro de Futurama o South Park, pero en stop-motion disparatado.\n\nPoco conocidas",
+      "releaseInfo": "2005",
+      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_307"
+        }
+      ]
+    },
+    {
+      "id": "tt9612102",
+      "type": "series",
+      "name": "Exit",
+      "posterShape": "poster",
+      "description": "Con el tono gris de Fargo: cuatro millonarios noruegos que se hunden en sus propios excesos.\n\nPoco conocidas",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/rRnNTiwwQG6rtjh2QUPEuINY1HR.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_308"
+        }
+      ]
+    },
+    {
+      "id": "tt1235547",
+      "type": "series",
+      "name": "Better Off Ted",
+      "posterShape": "poster",
+      "description": "Si te entretiene el absurdo de empresas sin escrúpulos, como en ¿Teléfono rojo?, pero en clave de oficina.\n\nPoco conocidas",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/tvmafNGqMFA03fJcbUXxjgzSToX.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_309"
+        }
+      ]
+    }
+  ]
+}

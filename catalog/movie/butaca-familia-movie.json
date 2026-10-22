@@ -1,0 +1,116 @@
+{
+  "metas": [
+    {
+      "id": "tt1201607",
+      "type": "movie",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "posterShape": "poster",
+      "description": "Como El señor de los anillos, cierra una saga de fantasía épica con la misma ambición de mundo que tanto disfrutas.\n\nEn familia",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_212"
+        }
+      ]
+    },
+    {
+      "id": "tt4698684",
+      "type": "movie",
+      "name": "A la caza de los ñumanos",
+      "posterShape": "poster",
+      "description": "Una aventura con humor gamberro y corazón entre un chaval rebelde y un solitario, perfecta para ver juntos y reíros.\n\nEn familia",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/rzu1NT7TXVY1DBxfHEX5yaeOFkC.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_324"
+        }
+      ]
+    },
+    {
+      "id": "tt0446029",
+      "type": "movie",
+      "name": "Scott Pilgrim contra el mundo",
+      "posterShape": "poster",
+      "description": "Peleas estilizadas, videojuegos y un humor desbordante que conecta con tu gusto por la comedia que no se toma en serio a sí misma.\n\nEn familia",
+      "releaseInfo": "2010",
+      "poster": "https://image.tmdb.org/t/p/w342/fgrVbga0oZQNeljO6dyoWknjOzJ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_326"
+        }
+      ]
+    },
+    {
+      "id": "tt2310332",
+      "type": "movie",
+      "name": "El hobbit: La batalla de los cinco ejércitos",
+      "posterShape": "poster",
+      "description": "El cierre de la trilogía del Hobbit, la misma fantasía de mundo propio que te enganchó en El señor de los anillos.\n\nEn familia",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_216"
+        }
+      ]
+    },
+    {
+      "id": "tt14539740",
+      "type": "movie",
+      "name": "Godzilla y Kong: El nuevo imperio",
+      "posterShape": "poster",
+      "description": "Titanes gigantes chocando en pantalla grande, espectáculo de ciencia ficción con monstruos que conecta con tu gusto por los mundos propios.\n\nEn familia",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_328"
+        }
+      ]
+    },
+    {
+      "id": "tt0393109",
+      "type": "movie",
+      "name": "Brick",
+      "posterShape": "poster",
+      "description": "Un instituto convertido en escenario de novela negra, diálogo afilado y un misterio que hay que reconstruir pieza a pieza, como te gusta.\n\nEn familia",
+      "releaseInfo": "2006",
+      "poster": "https://image.tmdb.org/t/p/w342/roC592ikm9eN6gmrndU3ZxsmaiH.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_330"
+        }
+      ]
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "name": "Pesadilla antes de Navidad",
+      "posterShape": "poster",
+      "description": "Fantasía gótica y musical con el mismo humor absurdo y visual que disfrutas en el cine que no pide perdón.\n\nEn familia",
+      "releaseInfo": "1993",
+      "poster": "https://image.tmdb.org/t/p/w342/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_220"
+        }
+      ]
+    }
+  ]
+}

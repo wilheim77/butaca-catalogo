@@ -1,0 +1,100 @@
+{
+  "metas": [
+    {
+      "id": "tt1358522",
+      "type": "series",
+      "name": "Ladrón de guante blanco",
+      "posterShape": "poster",
+      "description": "Un estafador encantador y un agente del FBI atrapados en un juego de ingenio, con el tono ligero de un buen caper.\n\nPara ver en pareja",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/zBPtDQhzQIul3q1URdaNt51Kuw8.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_315"
+        }
+      ]
+    },
+    {
+      "id": "tt1830617",
+      "type": "series",
+      "name": "Grimm",
+      "posterShape": "poster",
+      "description": "Un detective que empieza a ver criaturas de cuento tras los crímenes que investiga, mezcla de policial y fantasía oscura.\n\nPara ver en pareja",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_317"
+        }
+      ]
+    },
+    {
+      "id": "tt2235759",
+      "type": "series",
+      "name": "The Great",
+      "posterShape": "poster",
+      "description": "Sátira histórica feroz sobre el ascenso de Catalina la Grande, con el humor afilado que te gusta en Monty Python.\n\nPara ver en pareja",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/AlTkcgEmw25OFYyrBbjEbez5kk1.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_319"
+        }
+      ]
+    },
+    {
+      "id": "tt2249364",
+      "type": "series",
+      "name": "Broadchurch",
+      "posterShape": "poster",
+      "description": "La desaparición de un niño destapa secretos de un pueblo costero, con la misma pausa reflexiva de El secreto de sus ojos.\n\nPara ver en pareja",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_108"
+        }
+      ]
+    },
+    {
+      "id": "tt0118363",
+      "type": "series",
+      "name": "Jonathan Creek",
+      "posterShape": "poster",
+      "description": "Un mago retirado resuelve crímenes imposibles con lógica y humor británico, puro cosy crime para ver en pareja.\n\nPara ver en pareja",
+      "releaseInfo": "1997",
+      "poster": "https://image.tmdb.org/t/p/w342/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_321"
+        }
+      ]
+    },
+    {
+      "id": "tt0367279",
+      "type": "series",
+      "name": "Arrested Development",
+      "posterShape": "poster",
+      "description": "Una familia disfuncional se hunde entre líos absurdos y humor negro, con el tono gamberro que disfrutas en El gran Lebowski.\n\nPara ver en pareja",
+      "releaseInfo": "2003",
+      "poster": "https://image.tmdb.org/t/p/w342/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_322"
+        }
+      ]
+    }
+  ]
+}
