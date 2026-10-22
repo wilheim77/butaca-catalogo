@@ -1,18 +1,50 @@
 {
   "metas": [
     {
-      "id": "tt8001106",
+      "id": "tt5332206",
       "type": "series",
-      "name": "Giri/Haji: Deber/Deshonor",
+      "name": "Señal",
       "posterShape": "poster",
-      "description": "Policía japonés busca a su hermano criminal en Londres: dos culturas, bandas y un cruce de tramas al estilo Snatch.\n\nAlgo nuevo",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
+      "description": "Un detective coreano reconstruye crímenes a través de un walkie-talkie que conecta dos épocas, con el mismo gusto por atar cabos.\n\nAlgo nuevo",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/mB6FlHFK0A4DPyuGTrlM4QgEkIH.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_231"
+          "url": "https://t.me/Butacawillybot?start=seen_406"
+        }
+      ]
+    },
+    {
+      "id": "tt1733785",
+      "type": "series",
+      "name": "El puente",
+      "posterShape": "poster",
+      "description": "Un crimen en la frontera entre Suecia y Dinamarca: el mismo suspense frío de Hitchcock, ahora en clave nórdica.\n\nAlgo nuevo",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/glYSKWScEO8SxbrKUlUsbz8lNMS.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_408"
+        }
+      ]
+    },
+    {
+      "id": "tt4063800",
+      "type": "series",
+      "name": "Oficina de infiltrados",
+      "posterShape": "poster",
+      "description": "Un espía encubierto que vuelve a casa sin poder soltar su identidad: la misma ironía gris que te enganchó en Slow Horses.\n\nAlgo nuevo",
+      "releaseInfo": "2015",
+      "poster": "https://image.tmdb.org/t/p/w342/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_314"
         }
       ]
     },
@@ -21,7 +53,7 @@
       "type": "series",
       "name": "Babylon Berlin",
       "posterShape": "poster",
-      "description": "Misterio de época en el Berlín de los años 20, con la ambición narrativa de Uno de los nuestros, pero en alemán.\n\nAlgo nuevo",
+      "description": "Crimen y corrupción en el Berlín de los años 20, con la misma ambición coral y el pulso histórico de Scorsese.\n\nAlgo nuevo",
       "releaseInfo": "2017",
       "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
       "links": [
@@ -33,50 +65,18 @@
       ]
     },
     {
-      "id": "tt3561180",
+      "id": "tt8001106",
       "type": "series",
-      "name": "Atrapados",
+      "name": "Giri/Haji: Deber/Deshonor",
       "posterShape": "poster",
-      "description": "Nordic noir islandés: un pueblo aislado por la nieve y un asesinato con la misma tensión fría que tanto disfrutas en Hitchcock.\n\nAlgo nuevo",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/ycGb9HJN2ea8u5lcR3BCSyQM7aD.jpg",
+      "description": "Un policía busca a su hermano asesino entre Tokio y Londres: crimen organizado con la ambición moral de Uno de los nuestros.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_227"
-        }
-      ]
-    },
-    {
-      "id": "tt5290382",
-      "type": "series",
-      "name": "MINDHUNTER",
-      "posterShape": "poster",
-      "description": "Entrevistas reales a asesinos en serie en los 70: un puzzle psicológico que recuerda a El secreto de sus ojos.\n\nAlgo nuevo",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/fbKE87mojpIETWepSbD5Qt741fp.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_313"
-        }
-      ]
-    },
-    {
-      "id": "tt4063800",
-      "type": "series",
-      "name": "Oficina de infiltrados",
-      "posterShape": "poster",
-      "description": "Un espía francés encubierto en Siria: la misma doble identidad y peso moral que tanto te gustó en Infiltrados, con acento europeo.\n\nAlgo nuevo",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_314"
+          "url": "https://t.me/Butacawillybot?start=seen_231"
         }
       ]
     }

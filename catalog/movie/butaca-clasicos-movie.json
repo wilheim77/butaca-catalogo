@@ -1,66 +1,50 @@
 {
   "metas": [
     {
-      "id": "tt0050083",
+      "id": "tt0049406",
       "type": "movie",
-      "name": "Doce hombres sin piedad",
+      "name": "Atraco perfecto",
       "posterShape": "poster",
-      "description": "Como en Sospechosos habituales, doce voces chocan en una sala y la verdad se reconstruye discutiendo, no investigando.\n\nClásicos que te faltan",
-      "releaseInfo": "1957",
-      "poster": "https://image.tmdb.org/t/p/w342/t88XfoxO5cX3f0qaSxWsBS0Lc3.jpg",
+      "description": "Antes de La naranja mecánica, Kubrick ya montaba un golpe de precisión: el mismo pulso que tanto te gustó en Reservoir Dogs.\n\nClásicos que te faltan",
+      "releaseInfo": "1956",
+      "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_283"
+          "url": "https://t.me/Butacawillybot?start=seen_370"
         }
       ]
     },
     {
-      "id": "tt0042876",
+      "id": "tt0047396",
       "type": "movie",
-      "name": "Rashomon",
+      "name": "La ventana indiscreta",
       "posterShape": "poster",
-      "description": "Como El secreto de sus ojos, un mismo crimen contado desde varios ángulos que no terminan de coincidir.\n\nClásicos que te faltan",
-      "releaseInfo": "1950",
-      "poster": "https://image.tmdb.org/t/p/w342/hTzw4ectHlJw1gZciFNsemTPARM.jpg",
+      "description": "El Hitchcock más puro: un hombre inmóvil, unos prismáticos y la sospecha de un crimen al otro lado del patio.\n\nClásicos que te faltan",
+      "releaseInfo": "1954",
+      "poster": "https://image.tmdb.org/t/p/w342/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_285"
+          "url": "https://t.me/Butacawillybot?start=seen_371"
         }
       ]
     },
     {
-      "id": "tt0051201",
+      "id": "tt0048021",
       "type": "movie",
-      "name": "Testigo de cargo",
+      "name": "Rififi",
       "posterShape": "poster",
-      "description": "Billy Wilder monta un juicio que te obliga a rehacer todo lo que creías saber del caso.\n\nClásicos que te faltan",
-      "releaseInfo": "1957",
-      "poster": "https://image.tmdb.org/t/p/w342/zvhSdC8NmanfKdmE2em57Eei5TG.jpg",
+      "description": "El atraco silencioso que inventó el género: la paciencia meticulosa que ya te enganchó en La gran evasión, aplicada al robo perfecto.\n\nClásicos que te faltan",
+      "releaseInfo": "1955",
+      "poster": "https://image.tmdb.org/t/p/w342/kKGrux7ERvRY84uOV5TV9Pi15cf.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_287"
-        }
-      ]
-    },
-    {
-      "id": "tt0043014",
-      "type": "movie",
-      "name": "El crepúsculo de los dioses",
-      "posterShape": "poster",
-      "description": "Una diva olvidada de Hollywood narra su propia caída con la ironía gris que tanto disfrutas en Slow Horses.\n\nClásicos que te faltan",
-      "releaseInfo": "1950",
-      "poster": "https://image.tmdb.org/t/p/w342/sVILYytrnjsEXBcZyxHMJ5jP74t.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_289"
+          "url": "https://t.me/Butacawillybot?start=seen_373"
         }
       ]
     },
@@ -69,7 +53,7 @@
       "type": "movie",
       "name": "Chinatown",
       "posterShape": "poster",
-      "description": "Un detective tira del hilo de un caso de agua y poder que se enreda más con cada pista, puro cine negro.\n\nClásicos que te faltan",
+      "description": "Un detective tira del hilo equivocado en el Los Ángeles de los años 30: el mismo misterio clásico que disfrutas en Poirot.\n\nClásicos que te faltan",
       "releaseInfo": "1974",
       "poster": "https://image.tmdb.org/t/p/w342/1wO2OmUCWButQyVPGWQEZn5twca.jpg",
       "links": [
@@ -81,11 +65,27 @@
       ]
     },
     {
+      "id": "tt0087843",
+      "type": "movie",
+      "name": "Érase una vez en América",
+      "posterShape": "poster",
+      "description": "Ascenso y caída del crimen organizado contado con la épica de Leone, el mismo terreno moral que te atrapó en El padrino.\n\nClásicos que te faltan",
+      "releaseInfo": "1984",
+      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_375"
+        }
+      ]
+    },
+    {
       "id": "tt0057565",
       "type": "movie",
       "name": "El infierno del odio",
       "posterShape": "poster",
-      "description": "Kurosawa convierte un secuestro en un dilema moral tenso, el tipo de suspense sin sangre que te atrapa como Hitchcock.\n\nClásicos que te faltan",
+      "description": "Kurosawa convierte un secuestro en un dilema moral de una hora de duración: suspense denso con la firma del cine negro.\n\nClásicos que te faltan",
       "releaseInfo": "1963",
       "poster": "https://image.tmdb.org/t/p/w342/9c87PSaPcoZzAGbJKQLAcYiqGRy.jpg",
       "links": [
@@ -97,50 +97,82 @@
       ]
     },
     {
-      "id": "tt0065531",
+      "id": "tt0056058",
       "type": "movie",
-      "name": "Círculo rojo",
+      "name": "Harakiri",
       "posterShape": "poster",
-      "description": "Melville reúne a un grupo de ladrones franceses para un golpe de precisión silenciosa, en la línea de El golpe.\n\nClásicos que te faltan",
-      "releaseInfo": "1970",
-      "poster": "https://image.tmdb.org/t/p/w342/ezov5DqBaCnXR7nPwpqqQ01Iavy.jpg",
+      "description": "Un samurai pide permiso para morir y cuenta su historia completa: el mismo gusto por reconstruir un caso que tienes con Poirot.\n\nClásicos que te faltan",
+      "releaseInfo": "1962",
+      "poster": "https://image.tmdb.org/t/p/w342/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_295"
+          "url": "https://t.me/Butacawillybot?start=seen_376"
         }
       ]
     },
     {
-      "id": "tt0054407",
+      "id": "tt0052311",
       "type": "movie",
-      "name": "La evasión",
+      "name": "Sed de mal",
       "posterShape": "poster",
-      "description": "Un grupo de presos planea una fuga meticulosa, tensión pura sin un gramo de violencia gratuita.\n\nClásicos que te faltan",
-      "releaseInfo": "1960",
-      "poster": "https://image.tmdb.org/t/p/w342/Al1F9o6fDkOBRngeG2FTJ0f9xTv.jpg",
+      "description": "Welles en la frontera México-Estados Unidos: corrupción, policías turbios y una tensión que no necesita violencia explícita para atraparte.\n\nClásicos que te faltan",
+      "releaseInfo": "1958",
+      "poster": "https://image.tmdb.org/t/p/w342/vTJXbaDIsJVO2L2IyHLqalRogwu.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_297"
+          "url": "https://t.me/Butacawillybot?start=seen_378"
         }
       ]
     },
     {
-      "id": "tt0076759",
+      "id": "tt0072890",
       "type": "movie",
-      "name": "La guerra de las galaxias",
+      "name": "Tarde de perros",
       "posterShape": "poster",
-      "description": "La space opera original, con ese mundo propio tan sólido que tanto te atrapó en Blade Runner o Alien.\n\nClásicos que te faltan",
-      "releaseInfo": "1977",
-      "poster": "https://image.tmdb.org/t/p/w342/4hOUzmButYUeON0prG3RpbqS7ag.jpg",
+      "description": "Un atraco de poca monta se tuerce en directo, con el mismo caos coral y la tensión que tanto disfrutas en Fargo.\n\nClásicos que te faltan",
+      "releaseInfo": "1975",
+      "poster": "https://image.tmdb.org/t/p/w342/ctcUXNlnddo9ndUK0w7w6CZQpig.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_299"
+          "url": "https://t.me/Butacawillybot?start=seen_380"
+        }
+      ]
+    },
+    {
+      "id": "tt27449259",
+      "type": "movie",
+      "name": "Asesinato en Twin Peaks",
+      "posterShape": "poster",
+      "description": "Un pueblo pequeño, un cadáver y una investigación que destapa la podredumbre bajo la superficie, pieza a pieza.\n\nClásicos que te faltan",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/Apg4fMfr1Wi19Ilu5HXh4nClCv9.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_381"
+        }
+      ]
+    },
+    {
+      "id": "tt0027977",
+      "type": "movie",
+      "name": "Tiempos modernos",
+      "posterShape": "poster",
+      "description": "Chaplin satiriza la cadena de montaje con el mismo humor que no pide perdón que disfrutas en Monty Python.\n\nClásicos que te faltan",
+      "releaseInfo": "1936",
+      "poster": "https://image.tmdb.org/t/p/w342/f3uOJseH4oPEo0Sq7WyQ6IwMG4l.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_382"
         }
       ]
     },
@@ -149,7 +181,7 @@
       "type": "movie",
       "name": "Investigación sobre un ciudadano libre de toda sospecha",
       "posterShape": "poster",
-      "description": "Sátira política italiana sobre un policía que se cree intocable, con el mismo humor negro afilado que Dr. Insólito.\n\nClásicos que te faltan",
+      "description": "Un policía italiano se cree intocable y lo demuestra con sarcasmo: sátira política con el mismo mordiente que El gran Lebowski.\n\nClásicos que te faltan",
       "releaseInfo": "1970",
       "poster": "https://image.tmdb.org/t/p/w342/5eUBcyilUy0sy6AcqNpjgXQX4A4.jpg",
       "links": [
@@ -157,6 +189,54 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_300"
+        }
+      ]
+    },
+    {
+      "id": "tt0091251",
+      "type": "movie",
+      "name": "Masacre (Ven y mira)",
+      "posterShape": "poster",
+      "description": "La guerra vista desde dentro sin un respiro, con el mismo peso moral que ya te marcó en Apocalypse Now.\n\nClásicos que te faltan",
+      "releaseInfo": "1985",
+      "poster": "https://image.tmdb.org/t/p/w342/j2hzNkmwYT184eP9qYdjViiYxCO.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_383"
+        }
+      ]
+    },
+    {
+      "id": "tt0092965",
+      "type": "movie",
+      "name": "El imperio del sol",
+      "posterShape": "poster",
+      "description": "Un niño queda atrapado en la Segunda Guerra Mundial, con el mismo conflicto moral de fondo que buscas en Doce del patíbulo.\n\nClásicos que te faltan",
+      "releaseInfo": "1987",
+      "poster": "https://image.tmdb.org/t/p/w342/6SSK8aSYTJMLogy9I6CGSmVnPeb.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_384"
+        }
+      ]
+    },
+    {
+      "id": "tt0080684",
+      "type": "movie",
+      "name": "El imperio contraataca",
+      "posterShape": "poster",
+      "description": "Más galaxia, más Imperio, más Yoda: la space opera que ya sabes que es terreno seguro para ti.\n\nClásicos que te faltan",
+      "releaseInfo": "1980",
+      "poster": "https://image.tmdb.org/t/p/w342/eU7KcNAOeZj9PBIcGUMSsuJz8qj.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_385"
         }
       ]
     }

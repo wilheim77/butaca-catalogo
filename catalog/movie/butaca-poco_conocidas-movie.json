@@ -1,18 +1,66 @@
 {
   "metas": [
     {
-      "id": "tt6788942",
+      "id": "tt0020629",
       "type": "movie",
-      "name": "Bad Genius",
+      "name": "Sin novedad en el frente",
       "posterShape": "poster",
-      "description": "Como el ingenio de Lupin pero en un examen: un plan tan calculado que se siente un auténtico golpe.\n\nPoco conocidas",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/gMjFHzyhamOKdqMhrT4cJ5Hp0cb.jpg",
+      "description": "Como Apocalypse Now o La chaqueta metálica, esta clásica antibélica pone el peso moral de la guerra por delante de la batalla.\n\nPoco conocidas",
+      "releaseInfo": "1930",
+      "poster": "https://image.tmdb.org/t/p/w342/whhnoAEoobX7dasproRpBipHXJT.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_301"
+          "url": "https://t.me/Butacawillybot?start=seen_386"
+        }
+      ]
+    },
+    {
+      "id": "tt0259534",
+      "type": "movie",
+      "name": "Ramayana, Shree Ram Katha",
+      "posterShape": "poster",
+      "description": "Si Avatar Aang te enganchó por su mundo propio, esta epopeya animada indojaponesa narra la mitología hindú con la misma ambición.\n\nPoco conocidas",
+      "releaseInfo": "1997",
+      "poster": "https://image.tmdb.org/t/p/w342/yqcdzIgsYdaIY2CNtDyWshuLdq0.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_388"
+        }
+      ]
+    },
+    {
+      "id": "tt4920274",
+      "type": "movie",
+      "name": "Historias corrientes: La película",
+      "posterShape": "poster",
+      "description": "Con el espíritu gamberro de Futurama, Mordecai y Rigby se meten en un viaje en el tiempo sin pedir perdón.\n\nPoco conocidas",
+      "releaseInfo": "2015",
+      "poster": "https://image.tmdb.org/t/p/w342/7eWLv7mxAKnFPqbtPOJy6iHb2Bx.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_390"
+        }
+      ]
+    },
+    {
+      "id": "tt0103671",
+      "type": "movie",
+      "name": "American Me (Sin remisión)",
+      "posterShape": "poster",
+      "description": "Como El padrino o Uno de los nuestros, sigue el ascenso y la caída de un líder dentro de una pandilla chicana.\n\nPoco conocidas",
+      "releaseInfo": "1992",
+      "poster": "https://image.tmdb.org/t/p/w342/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_392"
         }
       ]
     },
@@ -21,7 +69,7 @@
       "type": "movie",
       "name": "Digger",
       "posterShape": "poster",
-      "description": "Si disfrutaste la sátira mordaz de ¿Teléfono rojo?: un multimillonario que quiere salvar el mundo a su manera.\n\nPoco conocidas",
+      "description": "Con la misma mala leche satírica de La vida de Brian, esta comedia negra se ríe del poder y la codicia.\n\nPoco conocidas",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
       "links": [
@@ -29,6 +77,22 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_175"
+        }
+      ]
+    },
+    {
+      "id": "tt7903530",
+      "type": "movie",
+      "name": "La ley de la calle",
+      "posterShape": "poster",
+      "description": "Como en El precio del poder, las calles y el narco atrapan a un chaval que solo quiere proteger a su hermano.\n\nPoco conocidas",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/pkSxhYn2eCW50c3C53Q2DArdtT4.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_395"
         }
       ]
     }

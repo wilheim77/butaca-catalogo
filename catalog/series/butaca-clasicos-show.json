@@ -1,59 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0052520",
-      "type": "series",
-      "name": "La dimensión desconocida",
-      "posterShape": "poster",
-      "description": "Cada episodio es un giro que te obliga a replantear todo, como te pasó con El hombre de la tierra.\n\nClásicos que te faltan",
-      "releaseInfo": "1959",
-      "poster": "https://image.tmdb.org/t/p/w342/hCkoDjeFF3G619EQ58vCkYoIPsB.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_284"
-        }
-      ]
-    },
-    {
-      "id": "tt1466074",
-      "type": "series",
-      "name": "Colombo",
-      "posterShape": "poster",
-      "description": "Un detective desaliñado que ya sabe quién es el culpable; la gracia está en verlo reconstruir el cómo.\n\nClásicos que te faltan",
-      "releaseInfo": "1971",
-      "poster": "https://image.tmdb.org/t/p/w342/10AFO1tXhQWXrqPyyeSzk3E2ciu.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_286"
-        }
-      ]
-    },
-    {
-      "id": "tt0094525",
-      "type": "series",
-      "name": "Agatha Christie: Poirot",
-      "posterShape": "poster",
-      "description": "Casos cerrados con la misma precisión de rompecabezas que disfrutaste resolviendo en Puñales por la espalda.\n\nClásicos que te faltan",
-      "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/vWxDau7LyMhy6Te0jLIybyoxhSP.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_288"
-        }
-      ]
-    },
-    {
       "id": "tt0072500",
       "type": "series",
       "name": "Hotel Fawlty",
       "posterShape": "poster",
-      "description": "John Cleese al mando de un hotel que se incendia de absurdo en cada episodio, puro humor sin disculpas.\n\nClásicos que te faltan",
+      "description": "John Cleese al mando de un hotel catastrófico: el mismo humor absurdo y muy serio de Monty Python.\n\nClásicos que te faltan",
       "releaseInfo": "1975",
       "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
       "links": [
@@ -65,11 +17,59 @@
       ]
     },
     {
+      "id": "tt0083466",
+      "type": "series",
+      "name": "Police Squad!",
+      "posterShape": "poster",
+      "description": "De los mismos creadores de ¿Teléfono rojo? Volamos hacia Moscú, aquí el chiste visual y el disparate no paran nunca.\n\nClásicos que te faltan",
+      "releaseInfo": "1982",
+      "poster": "https://image.tmdb.org/t/p/w342/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_372"
+        }
+      ]
+    },
+    {
+      "id": "tt0056751",
+      "type": "series",
+      "name": "Doctor Who",
+      "posterShape": "poster",
+      "description": "Un viajero del tiempo con una nave imposible: la construcción de mundo que te enganchó en Blade Runner, ahora en serie clásica.\n\nClásicos que te faltan",
+      "releaseInfo": "1963",
+      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_298"
+        }
+      ]
+    },
+    {
+      "id": "tt0060009",
+      "type": "series",
+      "name": "Misión. Imposible",
+      "posterShape": "poster",
+      "description": "Un equipo de especialistas monta un golpe de guante blanco cada semana: el mismo ingenio de Lupin, sesenta años antes.\n\nClásicos que te faltan",
+      "releaseInfo": "1966",
+      "poster": "https://image.tmdb.org/t/p/w342/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_374"
+        }
+      ]
+    },
+    {
       "id": "tt0084988",
       "type": "series",
       "name": "La víbora negra",
       "posterShape": "poster",
-      "description": "Sátira histórica con la vena ácida de Monty Python, encarnada esta vez en un cortesano sin escrúpulos.\n\nClásicos que te faltan",
+      "description": "Rowan Atkinson antes de Mr. Bean, haciendo sátira histórica con el mismo filo del humor británico absurdo que te gusta.\n\nClásicos que te faltan",
       "releaseInfo": "1983",
       "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
       "links": [
@@ -85,7 +85,7 @@
       "type": "series",
       "name": "Enano rojo",
       "posterShape": "poster",
-      "description": "Comedia absurda en una nave perdida en el espacio, con el mismo descaro gamberro que La vida de Brian.\n\nClásicos que te faltan",
+      "description": "Sátira espacial con tripulación mínima y mala suerte máxima: el mismo tono gamberro que te encanta en Futurama.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
       "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
       "links": [
@@ -97,34 +97,34 @@
       ]
     },
     {
-      "id": "tt0092455",
+      "id": "tt0096684",
       "type": "series",
-      "name": "Star Trek: La nueva generación",
+      "name": "A través del tiempo",
       "posterShape": "poster",
-      "description": "Exploración espacial con la misma construcción de mundo sólida que te enganchó en Blade Runner o Alien.\n\nClásicos que te faltan",
-      "releaseInfo": "1987",
-      "poster": "https://image.tmdb.org/t/p/w342/b19xiXgf47zT53j5EcSKA0UYCED.jpg",
+      "description": "Un científico salta de cuerpo en cuerpo arreglando el pasado: viaje en el tiempo clásico, con un dilema moral en cada episodio.\n\nClásicos que te faltan",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_296"
+          "url": "https://t.me/Butacawillybot?start=seen_377"
         }
       ]
     },
     {
-      "id": "tt0056751",
+      "id": "tt0096708",
       "type": "series",
-      "name": "Doctor Who",
+      "name": "Historias de la cripta",
       "posterShape": "poster",
-      "description": "El Doctor viaja en el tiempo y el espacio con el mismo espíritu de aventura que El señor de los anillos.\n\nClásicos que te faltan",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "description": "Antología de crimen y humor negro con un titiritero siniestro de presentador: el mismo gusto por lo retorcido que tienes con Fargo.\n\nClásicos que te faltan",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/sKhEcYlHSpLuodvr3wX6Q9QfFv0.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_298"
+          "url": "https://t.me/Butacawillybot?start=seen_379"
         }
       ]
     }
