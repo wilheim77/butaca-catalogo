@@ -1,11 +1,75 @@
 {
   "metas": [
     {
+      "id": "tt1493239",
+      "type": "series",
+      "name": "Terriers",
+      "posterShape": "poster",
+      "description": "Dos investigadores sin licencia y mucho ingenio, con el mismo tono gris y ácido que atrapó en Slow Horses.\n\nPoco conocidas",
+      "releaseInfo": "2010",
+      "poster": "https://image.tmdb.org/t/p/w342/51T6VEO74kijlt2SDowGiiq0Cti.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_468"
+        }
+      ]
+    },
+    {
+      "id": "tt1334722",
+      "type": "series",
+      "name": "Baccano!",
+      "posterShape": "poster",
+      "description": "Gánsteres de los años treinta, estructura que salta en el tiempo y humor negro, como si Tarantino hiciera anime.\n\nPoco conocidas",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_470"
+        }
+      ]
+    },
+    {
+      "id": "tt5820976",
+      "type": "series",
+      "name": "El marginal",
+      "posterShape": "poster",
+      "description": "Un expolicía se infiltra en una cárcel para resolver un secuestro, con la tensión que atrapó en Infiltrados.\n\nPoco conocidas",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/p1GFsUK5nCVHYNtjRxoGyfGdD9C.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_472"
+        }
+      ]
+    },
+    {
+      "id": "tt4445154",
+      "type": "series",
+      "name": "Deutschland 83",
+      "posterShape": "poster",
+      "description": "Un joven espía del Este infiltrado en Occidente durante la Guerra Fría, con la misma ironía gris de Slow Horses.\n\nPoco conocidas",
+      "releaseInfo": "2015",
+      "poster": "https://image.tmdb.org/t/p/w342/4fuXvK2RSPrDupmiidke165u7lt.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_474"
+        }
+      ]
+    },
+    {
       "id": "tt1888075",
       "type": "series",
       "name": "Crimen en el paraíso",
       "posterShape": "poster",
-      "description": "Como Poirot, cada episodio esconde un asesinato en una isla caribeña que no se resuelve hasta el final, con humor británico.\n\nPoco conocidas",
+      "description": "Un detective inglés fuera de lugar resuelve crímenes imposibles en una isla caribeña, al estilo clásico de Poirot.\n\nPoco conocidas",
       "releaseInfo": "2011",
       "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
       "links": [
@@ -17,210 +81,50 @@
       ]
     },
     {
-      "id": "tt2275990",
+      "id": "tt12013558",
       "type": "series",
-      "name": "Las mujeres de Bletchley",
+      "name": "BNA",
       "posterShape": "poster",
-      "description": "Como en Agatha Christie, cuatro expertas en descifrar códigos nazis se reúnen para resolver una serie de crímenes sin pistas fáciles.\n\nPoco conocidas",
-      "releaseInfo": "2012",
-      "poster": "https://image.tmdb.org/t/p/w342/1BUErHvxmwmuxPhBBsL3gNDu0oF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_389"
-        }
-      ]
-    },
-    {
-      "id": "tt0071042",
-      "type": "series",
-      "name": "Los casos de Rockford",
-      "posterShape": "poster",
-      "description": "Si te gustan Sherlock Holmes o Poirot, aquí hay un detective de los 70 que resuelve casos sin prisas.\n\nPoco conocidas",
-      "releaseInfo": "1974",
-      "poster": "https://image.tmdb.org/t/p/w342/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_391"
-        }
-      ]
-    },
-    {
-      "id": "tt0112084",
-      "type": "series",
-      "name": "Mr. Show with Bob and David",
-      "posterShape": "poster",
-      "description": "Si los Monty Python te marcaron, este programa de sketches de los 90 tiene la misma vena absurda y sin filtros.\n\nPoco conocidas",
-      "releaseInfo": "1995",
-      "poster": "https://image.tmdb.org/t/p/w342/rNPF7Zad87aXa7bQt4W4AYmnwL4.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_393"
-        }
-      ]
-    },
-    {
-      "id": "tt0840979",
-      "type": "series",
-      "name": "The Whitest Kids U' Know",
-      "posterShape": "poster",
-      "description": "Si te ríes con el descaro de South Park, aquí sketches gamberros de los 2000 sin ningún filtro.\n\nPoco conocidas",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/7nBZbpqjImz5azIM91ZUaFjTdVR.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_394"
-        }
-      ]
-    },
-    {
-      "id": "tt0083505",
-      "type": "series",
-      "name": "Los jóvenes",
-      "posterShape": "poster",
-      "description": "Directamente heredera del espíritu Monty Python, esta sitcom británica de los 80 mete a cuatro universitarios en un caos anárquico.\n\nPoco conocidas",
-      "releaseInfo": "1982",
-      "poster": "https://image.tmdb.org/t/p/w342/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_396"
-        }
-      ]
-    },
-    {
-      "id": "tt0397150",
-      "type": "series",
-      "name": "Garth Marenghi's Darkplace",
-      "posterShape": "poster",
-      "description": "Con la misma puntería satírica de ¿Teléfono rojo?, esta serie parodia el terror ochentero sin tomarse nada en serio.\n\nPoco conocidas",
-      "releaseInfo": "2004",
-      "poster": "https://image.tmdb.org/t/p/w342/4aSD7ssvpkmNqOxenPiWaLpq4vg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_397"
-        }
-      ]
-    },
-    {
-      "id": "tt0090525",
-      "type": "series",
-      "name": "Martillo Hammer",
-      "posterShape": "poster",
-      "description": "Si te rió El gran Lebowski, aquí un policía de gatillo rápido convierte cada caso en una sátira gamberra del género policiaco.\n\nPoco conocidas",
-      "releaseInfo": "1986",
-      "poster": "https://image.tmdb.org/t/p/w342/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_398"
-        }
-      ]
-    },
-    {
-      "id": "tt7661390",
-      "type": "series",
-      "name": "Gangs of London",
-      "posterShape": "poster",
-      "description": "Como en Snatch o The Gentlemen, un vacío de poder desata una guerra de bandas en un Londres de violencia coral.\n\nPoco conocidas",
+      "description": "Una ciudad entera de animales con reglas propias, el mismo gusto por construir un mundo que te atrapó en Alien.\n\nPoco conocidas",
       "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/mFTVdpzjwhp6A5hRJPhmK1KQI52.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_399"
+          "url": "https://t.me/Butacawillybot?start=seen_477"
         }
       ]
     },
     {
-      "id": "tt11712058",
+      "id": "tt12502782",
       "type": "series",
-      "name": "Mayor of Kingstown",
+      "name": "SHAMAN KING",
       "posterShape": "poster",
-      "description": "Con el mismo peso moral que Uno de los nuestros, aquí una familia hace de intermediaria entre policías, presos y narcos.\n\nPoco conocidas",
+      "description": "Un torneo que decide al rey de los chamanes, con la misma aventura desenfadada que disfrutaste en Dragon Ball Z.\n\nPoco conocidas",
       "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tAOwHV9gwx3leW26Xch5gi16aII.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_400"
+          "url": "https://t.me/Butacawillybot?start=seen_479"
         }
       ]
     },
     {
-      "id": "tt0118421",
+      "id": "tt1506339",
       "type": "series",
-      "name": "Oz",
+      "name": "Eve no Jikan",
       "posterShape": "poster",
-      "description": "Como en Infiltrados, esta serie de culto mete la misma tensión moral del crimen dentro de una cárcel de máxima seguridad.\n\nPoco conocidas",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg",
+      "description": "Un bar donde androides y humanos conviven como iguales, la misma pregunta sobre identidad que te atrapó en Altered Carbon.\n\nPoco conocidas",
+      "releaseInfo": "2008",
+      "poster": "https://image.tmdb.org/t/p/w342/dlHmKCDZOFq9CIHC0samQJ42nbr.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_401"
-        }
-      ]
-    },
-    {
-      "id": "tt5011816",
-      "type": "series",
-      "name": "Sneaky Pete",
-      "posterShape": "poster",
-      "description": "Como en El golpe, aquí un estafador se mete en la piel de otro para escapar de su pasado.\n\nPoco conocidas",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_402"
-        }
-      ]
-    },
-    {
-      "id": "tt7908628",
-      "type": "series",
-      "name": "Lo que hacemos en las sombras",
-      "posterShape": "poster",
-      "description": "Con el mismo descaro absurdo de Futurama, tres vampiros centenarios comparten piso en Nueva York sin perder la compostura.\n\nPoco conocidas",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_403"
-        }
-      ]
-    },
-    {
-      "id": "tt0477507",
-      "type": "series",
-      "name": "Espiral",
-      "posterShape": "poster",
-      "description": "Si te gustó El secreto de sus ojos, esta serie francesa retrata un crimen desde dentro del sistema legal parisino.\n\nPoco conocidas",
-      "releaseInfo": "2005",
-      "poster": "https://image.tmdb.org/t/p/w342/4TukohHVnqo1ofTrQMrdPBYShJv.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_404"
+          "url": "https://t.me/Butacawillybot?start=seen_481"
         }
       ]
     }

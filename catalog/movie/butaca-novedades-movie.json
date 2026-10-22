@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "La bola negra",
       "posterShape": "poster",
-      "description": "Tres épocas entrelazadas por el mismo secreto, al estilo de El secreto de sus ojos que tanto te atrapó.\n\nNovedades",
+      "description": "Tres épocas y tres vidas entrelazadas, como la reconstrucción cruzada de El secreto de sus ojos pero en la Guerra Civil.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "links": [
@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "El hombre que desafió al rey",
       "posterShape": "poster",
-      "description": "Un campesino que se planta ante un rey, con el mismo pulso épico y moral de Braveheart.\n\nNovedades",
+      "description": "Un campesino se alza contra la corona, con el mismo pulso moral y rebelde que te enganchó en Braveheart.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "links": [
@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "Batman: Knightfall Part 1: Knightfall",
       "posterShape": "poster",
-      "description": "Batman al límite cuando Bane suelta a toda la galería de Arkham, en la línea de tus blockbusters de superhéroes.\n\nNovedades",
+      "description": "Animación oscura y espectáculo de superhéroes al límite, en la línea de lo que ya te ha gustado de Marvel y DC.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
       "links": [
@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "Tenzing",
       "posterShape": "poster",
-      "description": "Una expedición al Everest contra todo pronóstico, con el mismo aliento de epopeya que te gusta en el cine histórico.\n\nNovedades",
+      "description": "Una conquista real del Everest en los años 50, la épica histórica de resistencia que sueles disfrutar.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
       "links": [
@@ -65,11 +65,27 @@
       ]
     },
     {
+      "id": "tt29552248",
+      "type": "movie",
+      "name": "Intercambiados",
+      "posterShape": "poster",
+      "description": "Una aventura de intercambio de cuerpos entre criaturas del bosque, con el mismo espíritu travieso que D&D: Honor entre ladrones.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_440"
+        }
+      ]
+    },
+    {
       "id": "tt37027309",
       "type": "movie",
       "name": "Lo dejamos acá",
       "posterShape": "poster",
-      "description": "Un psicoanalista que cruza todos los límites con sus pacientes, con un humor negro que no pide perdón.\n\nNovedades",
+      "description": "Un psicoanalista que cruza todos los límites con sus pacientes, con el humor negro y la ironía que no piden perdón.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
       "links": [
@@ -77,6 +93,22 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_343"
+        }
+      ]
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Entrega al límite",
+      "posterShape": "poster",
+      "description": "Una carrera contrarreloj contra un cártel, acción pura y tensión sin respiro al estilo de tus thrillers favoritos.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_441"
         }
       ]
     }

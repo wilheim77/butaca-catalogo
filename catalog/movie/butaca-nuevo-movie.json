@@ -1,27 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0042876",
-      "type": "movie",
-      "name": "Rashomon",
-      "posterShape": "poster",
-      "description": "Como en Doce hombres sin piedad, un mismo crimen contado desde ángulos distintos que te obliga a reconstruir la verdad.\n\nAlgo nuevo",
-      "releaseInfo": "1950",
-      "poster": "https://image.tmdb.org/t/p/w342/hTzw4ectHlJw1gZciFNsemTPARM.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_405"
-        }
-      ]
-    },
-    {
       "id": "tt0364569",
       "type": "movie",
       "name": "Old Boy",
       "posterShape": "poster",
-      "description": "Un misterio sobre el propio pasado que te obliga a reconstruirlo todo, como en El hombre de la tierra, en clave coreana.\n\nAlgo nuevo",
+      "description": "Un thriller coreano intenso sobre un hombre que despierta sin saber por qué estuvo encerrado quince años.\n\nAlgo nuevo",
       "releaseInfo": "2003",
       "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
       "links": [
@@ -33,50 +17,50 @@
       ]
     },
     {
-      "id": "tt0405094",
+      "id": "tt2267998",
       "type": "movie",
-      "name": "La vida de los otros",
+      "name": "Perdida",
       "posterShape": "poster",
-      "description": "Un oficial de la Stasi vigila a una pareja y empieza a dudar de su lealtad: tensión moral en plena Guerra Fría.\n\nAlgo nuevo",
-      "releaseInfo": "2006",
-      "poster": "https://image.tmdb.org/t/p/w342/huApj1ufTmVTDcKqi2SY3zmqcyJ.jpg",
+      "description": "Un thriller americano sobre un matrimonio que se desmorona en televisión, con la tensión de reconstruir la verdad.\n\nAlgo nuevo",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_409"
+          "url": "https://t.me/Butacawillybot?start=seen_487"
         }
       ]
     },
     {
-      "id": "tt0017136",
+      "id": "tt0780536",
       "type": "movie",
-      "name": "Metrópolis",
+      "name": "Escondidos en Brujas",
       "posterShape": "poster",
-      "description": "El germen visual de Blade Runner, casi un siglo antes: una ciudad dividida entre clases y una rebelión que la amenaza.\n\nAlgo nuevo",
-      "releaseInfo": "1927",
-      "poster": "https://image.tmdb.org/t/p/w342/fCWd45ybxghuvaeSMcBsLFKY6PG.jpg",
+      "description": "Dos sicarios ingleses escondidos en una ciudad belga de postal, con el humor negro y la culpa que tanto disfrutas en Snatch.\n\nAlgo nuevo",
+      "releaseInfo": "2008",
+      "poster": "https://image.tmdb.org/t/p/w342/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_410"
+          "url": "https://t.me/Butacawillybot?start=seen_489"
         }
       ]
     },
     {
-      "id": "tt0096257",
+      "id": "tt0096163",
       "type": "movie",
-      "name": "La delgada línea azul",
+      "name": "Desaparecida",
       "posterShape": "poster",
-      "description": "Un documental que reconstruye un crimen como un puzzle de testimonios contradictorios, con el mismo gusto detective que Doce hombres sin piedad.\n\nAlgo nuevo",
+      "description": "Un thriller holandés de los 80 sobre una desaparición que se investiga durante años, con la tensión silenciosa que admiras en Hitchcock.\n\nAlgo nuevo",
       "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6pBloz1mwz8S0gYjUao6iUoyCng.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_411"
+          "url": "https://t.me/Butacawillybot?start=seen_491"
         }
       ]
     }

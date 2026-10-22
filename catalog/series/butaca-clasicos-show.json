@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Hotel Fawlty",
       "posterShape": "poster",
-      "description": "John Cleese al mando de un hotel catastrófico: el mismo humor absurdo y muy serio de Monty Python.\n\nClásicos que te faltan",
+      "description": "John Cleese al mando de un hotel al borde del caos, el mismo humor absurdo de La vida de Brian.\n\nClásicos que te faltan",
       "releaseInfo": "1975",
       "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
       "links": [
@@ -17,59 +17,11 @@
       ]
     },
     {
-      "id": "tt0083466",
-      "type": "series",
-      "name": "Police Squad!",
-      "posterShape": "poster",
-      "description": "De los mismos creadores de ¿Teléfono rojo? Volamos hacia Moscú, aquí el chiste visual y el disparate no paran nunca.\n\nClásicos que te faltan",
-      "releaseInfo": "1982",
-      "poster": "https://image.tmdb.org/t/p/w342/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_372"
-        }
-      ]
-    },
-    {
-      "id": "tt0056751",
-      "type": "series",
-      "name": "Doctor Who",
-      "posterShape": "poster",
-      "description": "Un viajero del tiempo con una nave imposible: la construcción de mundo que te enganchó en Blade Runner, ahora en serie clásica.\n\nClásicos que te faltan",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_298"
-        }
-      ]
-    },
-    {
-      "id": "tt0060009",
-      "type": "series",
-      "name": "Misión. Imposible",
-      "posterShape": "poster",
-      "description": "Un equipo de especialistas monta un golpe de guante blanco cada semana: el mismo ingenio de Lupin, sesenta años antes.\n\nClásicos que te faltan",
-      "releaseInfo": "1966",
-      "poster": "https://image.tmdb.org/t/p/w342/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_374"
-        }
-      ]
-    },
-    {
       "id": "tt0084988",
       "type": "series",
       "name": "La víbora negra",
       "posterShape": "poster",
-      "description": "Rowan Atkinson antes de Mr. Bean, haciendo sátira histórica con el mismo filo del humor británico absurdo que te gusta.\n\nClásicos que te faltan",
+      "description": "Rowan Atkinson satiriza la historia inglesa con la misma mala leche que Monty Python.\n\nClásicos que te faltan",
       "releaseInfo": "1983",
       "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
       "links": [
@@ -81,11 +33,27 @@
       ]
     },
     {
+      "id": "tt0083466",
+      "type": "series",
+      "name": "Police Squad!",
+      "posterShape": "poster",
+      "description": "Parodia policial a chiste por segundo, con el mismo absurdo literal que te hace gracia en Los Simpson.\n\nClásicos que te faltan",
+      "releaseInfo": "1982",
+      "poster": "https://image.tmdb.org/t/p/w342/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_372"
+        }
+      ]
+    },
+    {
       "id": "tt0094535",
       "type": "series",
       "name": "Enano rojo",
       "posterShape": "poster",
-      "description": "Sátira espacial con tripulación mínima y mala suerte máxima: el mismo tono gamberro que te encanta en Futurama.\n\nClásicos que te faltan",
+      "description": "Una nave varada a años luz de todo, con el humor gamberro de Futurama y la soledad del espacio.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
       "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
       "links": [
@@ -97,18 +65,18 @@
       ]
     },
     {
-      "id": "tt0096684",
+      "id": "tt0056751",
       "type": "series",
-      "name": "A través del tiempo",
+      "name": "Doctor Who",
       "posterShape": "poster",
-      "description": "Un científico salta de cuerpo en cuerpo arreglando el pasado: viaje en el tiempo clásico, con un dilema moral en cada episodio.\n\nClásicos que te faltan",
-      "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
+      "description": "Un viajero del tiempo explora universos nuevos cada episodio, la misma curiosidad que The Expanse.\n\nClásicos que te faltan",
+      "releaseInfo": "1963",
+      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_377"
+          "url": "https://t.me/Butacawillybot?start=seen_298"
         }
       ]
     },
@@ -117,7 +85,7 @@
       "type": "series",
       "name": "Historias de la cripta",
       "posterShape": "poster",
-      "description": "Antología de crimen y humor negro con un titiritero siniestro de presentador: el mismo gusto por lo retorcido que tienes con Fargo.\n\nClásicos que te faltan",
+      "description": "Relatos cortos con un giro final macabro, pensados para que no te fíes de cómo empiezan.\n\nClásicos que te faltan",
       "releaseInfo": "1989",
       "poster": "https://image.tmdb.org/t/p/w342/sKhEcYlHSpLuodvr3wX6Q9QfFv0.jpg",
       "links": [
@@ -125,6 +93,38 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_379"
+        }
+      ]
+    },
+    {
+      "id": "tt0081912",
+      "type": "series",
+      "name": "Only Fools and Horses",
+      "posterShape": "poster",
+      "description": "Dos hermanos con más labia que suerte intentan un timo tras otro en el Londres obrero, puro Snatch doméstico.\n\nClásicos que te faltan",
+      "releaseInfo": "1981",
+      "poster": "https://image.tmdb.org/t/p/w342/8QznQBwr4aqPIQTiymL7obM3qOK.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_462"
+        }
+      ]
+    },
+    {
+      "id": "tt0096684",
+      "type": "series",
+      "name": "A través del tiempo",
+      "posterShape": "poster",
+      "description": "Un científico salta de cuerpo en cuerpo por el tiempo arreglando errores ajenos, aventura episódica sin parar.\n\nClásicos que te faltan",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_377"
         }
       ]
     }

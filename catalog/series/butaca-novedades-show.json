@@ -1,34 +1,18 @@
 {
   "metas": [
     {
-      "id": "tt39395275",
+      "id": "tt32604054",
       "type": "series",
-      "name": "Dragon Ball Super: Beerus",
+      "name": "Historias corrientes: Las cintas perdidas",
       "posterShape": "poster",
-      "description": "Goku vuelve a medirse con un dios de la destrucción, la misma aventura marcial que ya disfrutaste con Dragon Ball Z.\n\nNovedades",
+      "description": "El caos absurdo y surrealista de Mordecai y Rigby, con el mismo humor gamberro que Futurama o South Park.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_257"
-        }
-      ]
-    },
-    {
-      "id": "tt35854736",
-      "type": "series",
-      "name": "Avatar: Los Siete Refugios",
-      "posterShape": "poster",
-      "description": "Una nueva Avatar en un mundo hecho pedazos, la misma aventura de artes marciales y mundo propio que viviste con Aang.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_259"
+          "url": "https://t.me/Butacawillybot?start=seen_349"
         }
       ]
     },
@@ -37,7 +21,7 @@
       "type": "series",
       "name": "THE GHOST IN THE SHELL",
       "posterShape": "poster",
-      "description": "Una cíborg policía y una conspiración en un Japón cyberpunk, el mismo terreno de Blade Runner y Altered Carbon.\n\nNovedades",
+      "description": "Una Tokio cyberpunk de hackers y conspiraciones, el mismo terreno de construcción de mundo que te atrapó en Blade Runner.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/n0YA8GrukYlUnskWZzDjGIh24BY.jpg",
       "links": [
@@ -49,43 +33,11 @@
       ]
     },
     {
-      "id": "tt36022742",
-      "type": "series",
-      "name": "Némesis",
-      "posterShape": "poster",
-      "description": "Un policía obsesionado con atrapar a un maestro del robo, puro gato y ratón como en tus películas de golpes favoritas.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_342"
-        }
-      ]
-    },
-    {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "La maldición de Widow's Bay",
-      "posterShape": "poster",
-      "description": "Un alcalde liando misterios sobrenaturales en su pueblo, con el tono ligero de misterio y humor de Solo asesinatos en el edificio.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_265"
-        }
-      ]
-    },
-    {
       "id": "tt32140872",
       "type": "series",
       "name": "Ciudad de las estrellas",
       "posterShape": "poster",
-      "description": "Guerra Fría, carrera espacial y un universo alternativo con la construcción de mundo que te enganchó en The Expanse.\n\nNovedades",
+      "description": "La carrera espacial vista desde el lado soviético, la misma ciencia ficción histórica que te enganchó en The Expanse.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
       "links": [
@@ -97,11 +49,27 @@
       ]
     },
     {
+      "id": "tt36022742",
+      "type": "series",
+      "name": "Némesis",
+      "posterShape": "poster",
+      "description": "Un detective obsesionado persigue al ladrón perfecto, el mismo duelo de ingenio que disfrutas en los golpes de Lupin.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_342"
+        }
+      ]
+    },
+    {
       "id": "tt34771210",
       "type": "series",
       "name": "Te encontraré",
       "posterShape": "poster",
-      "description": "Un padre encarcelado injustamente que reconstruye la verdad para encontrar a su hijo, puro misterio con mucho en juego.\n\nNovedades",
+      "description": "Un padre encarcelado injustamente busca a su hijo que creía muerto, el mismo misterio que te hace reconstruir todo el caso.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/kfdFCPn5FuImr8a3TFlCC8cqHUI.jpg",
       "links": [
@@ -113,18 +81,34 @@
       ]
     },
     {
-      "id": "tt6037988",
+      "id": "tt35854736",
       "type": "series",
-      "name": "Causa abierta",
+      "name": "Avatar: Los Siete Refugios",
       "posterShape": "poster",
-      "description": "Una llamada de emergencia que podría ser la hija desaparecida de un telefonista, el misterio que se reconstruye pieza a pieza.\n\nNovedades",
+      "description": "Una nueva Avatar debe salvar un mundo roto, la misma aventura de artes marciales y fantasía que te gustó en Aang.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_345"
+          "url": "https://t.me/Butacawillybot?start=seen_259"
+        }
+      ]
+    },
+    {
+      "id": "tt39395275",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "posterShape": "poster",
+      "description": "El dios de la destrucción despierta y Goku vuelve a la batalla, la misma acción marcial que ya disfrutaste en DBZ.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_257"
         }
       ]
     },
@@ -133,7 +117,7 @@
       "type": "series",
       "name": "The Drop: Una historia de Snowfall",
       "posterShape": "poster",
-      "description": "El ascenso del rap entre bandas en el Los Ángeles de los noventa, con el pulso de Uno de los nuestros.\n\nNovedades",
+      "description": "Rap y bandas se cruzan en el Los Ángeles de los 90, con la misma mirada al crimen organizado que Scorsese.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
       "links": [
@@ -149,7 +133,7 @@
       "type": "series",
       "name": "Los SUPERfrikis",
       "posterShape": "poster",
-      "description": "Vecinos corrientes con superpoderes por accidente, comedia absurda con pinta de caos total como te gusta.\n\nNovedades",
+      "description": "Vecinos normales que de golpe tienen superpoderes y deben salvar el mundo, con un humor disparatado que no se toma en serio.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
       "links": [
@@ -161,27 +145,11 @@
       ]
     },
     {
-      "id": "tt27497393",
-      "type": "series",
-      "name": "Stuart no consigue salvar el universo",
-      "posterShape": "poster",
-      "description": "Un multiverso roto por accidente y un dueño de tienda de cómics intentando arreglarlo, humor absurdo de ciencia ficción.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_347"
-        }
-      ]
-    },
-    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "posterShape": "poster",
-      "description": "Visión busca su lugar hablando con las IA de su propia mente, drama de identidad dentro del universo Marvel que ya sigues.\n\nNovedades",
+      "description": "Visión huye de quienes quieren convertirlo en arma, el mismo dilema de identidad que te gusta del universo Marvel.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
       "links": [
@@ -193,50 +161,50 @@
       ]
     },
     {
-      "id": "tt32604054",
+      "id": "tt33334216",
       "type": "series",
-      "name": "Historias corrientes: Las cintas perdidas",
+      "name": "The Exiled Heavy Knight Knows How to Game the System",
       "posterShape": "poster",
-      "description": "El caos surrealista de dos amigos en un parque, el mismo humor absurdo que te conquistó con Futurama.\n\nNovedades",
+      "description": "Un caballero exiliado usa recuerdos de otra vida para ganar la partida, con la misma diversión fantástica que One Piece.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_349"
+          "url": "https://t.me/Butacawillybot?start=seen_442"
         }
       ]
     },
     {
-      "id": "tt32603995",
+      "id": "tt33332385",
       "type": "series",
-      "name": "Hora de aventuras: Misiones legendarias",
+      "name": "La maldición de Widow's Bay",
       "posterShape": "poster",
-      "description": "Finn y Jake de vuelta a sus aventuras por Ooo, la misma fantasía ligera y divertida que te atrapa en formato largo.\n\nNovedades",
+      "description": "Un alcalde intenta vender turismo en una isla encantada, mezcla de misterio y humor que engancha sin necesidad de violencia.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/q33LoVGyZopnwnNTzaPliKw8SOA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_350"
+          "url": "https://t.me/Butacawillybot?start=seen_265"
         }
       ]
     },
     {
-      "id": "tt41278620",
+      "id": "tt27497393",
       "type": "series",
-      "name": "Neko to Ryuu",
+      "name": "Stuart no consigue salvar el universo",
       "posterShape": "poster",
-      "description": "Un gato que adopta a un bebé dragón en un bosque mágico, fantasía con la misma atmósfera serena que Miyazaki.\n\nNovedades",
+      "description": "Un dueño de tienda de cómics debe arreglar un multiverso roto, la misma comedia friki y absurda que te sienta bien.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/rttLYzY495WbXwjBvRCZbrvg68N.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_351"
+          "url": "https://t.me/Butacawillybot?start=seen_347"
         }
       ]
     }

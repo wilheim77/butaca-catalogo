@@ -1,50 +1,34 @@
 {
   "metas": [
     {
-      "id": "tt0926084",
+      "id": "tt1677720",
       "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "name": "Ready Player One",
       "posterShape": "poster",
-      "description": "Aventura de fantasía con amistad y huida constante, la misma épica larga que disfrutaste en El señor de los anillos.\n\nEn familia",
-      "releaseInfo": "2010",
-      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+      "description": "Si Terminator 2 o Matrix te sorprendieron, esta aventura de mundo virtual tiene ese mismo empuje para ver con Izaro.\n\nEn familia",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_418"
+          "url": "https://t.me/Butacawillybot?start=seen_497"
         }
       ]
     },
     {
-      "id": "tt0796366",
+      "id": "tt12851396",
       "type": "movie",
-      "name": "Star Trek",
+      "name": "Trollhunters: El despertar de los titanes",
       "posterShape": "poster",
-      "description": "Espectáculo de ciencia ficción con mundo propio y tripulación joven, en la línea de lo que te sorprendió con Blade Runner.\n\nEn familia",
-      "releaseInfo": "2009",
-      "poster": "https://image.tmdb.org/t/p/w342/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+      "description": "Fantasía de trolls y magia con el pulso de Guillermo del Toro, ideal para una tarde de aventura con Izaro.\n\nEn familia",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/fhhjAX2iDmnZksQWsJ8DdAcDBc5.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_420"
-        }
-      ]
-    },
-    {
-      "id": "tt11858890",
-      "type": "movie",
-      "name": "The Creator",
-      "posterShape": "poster",
-      "description": "Guerra entre humanos e inteligencia artificial con un mundo futurista sólido, heredero directo de Blade Runner.\n\nEn familia",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/kf8MQ2HfBHWFriUjKCmrFH8vSIa.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_422"
+          "url": "https://t.me/Butacawillybot?start=seen_498"
         }
       ]
     },
@@ -53,7 +37,7 @@
       "type": "movie",
       "name": "Coyote vs. Acme",
       "posterShape": "poster",
-      "description": "Humor absurdo sin complejos mezclando animación y acción real, con el mismo descaro gamberro que La vida de Brian.\n\nEn familia",
+      "description": "El Coyote demanda a ACME en un juicio disparatado, con la misma sátira gamberra que disfrutas en La vida de Brian.\n\nEn familia",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
       "links": [
@@ -65,130 +49,18 @@
       ]
     },
     {
-      "id": "tt0107507",
+      "id": "tt31450459",
       "type": "movie",
-      "name": "Misterioso asesinato en Manhattan",
+      "name": "Digger",
       "posterShape": "poster",
-      "description": "Una vecina sospechosa de asesinato y un misterio que se reconstruye entre risas, en la línea de Puñales por la espalda.\n\nEn familia",
-      "releaseInfo": "1993",
-      "poster": "https://image.tmdb.org/t/p/w342/8eNHNCThbQkHtWrwZcrrtWGQvWB.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_426"
-        }
-      ]
-    },
-    {
-      "id": "tt2935622",
-      "type": "movie",
-      "name": "La escuela del bien y del mal",
-      "posterShape": "poster",
-      "description": "Una academia que entrena héroes y villanos, aventura de fantasía adolescente con el ingenio que buscas en Dungeons & Dragons.\n\nEn familia",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/xEOBNSrM5g1SSaOnvpioZF38cuE.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_428"
-        }
-      ]
-    },
-    {
-      "id": "tt0929629",
-      "type": "movie",
-      "name": "Stargate. El contínuo",
-      "posterShape": "poster",
-      "description": "Viajes en el tiempo y universos alterados con la misma construcción de mundo que te atrapó en Interstellar.\n\nEn familia",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/v2H1OXampxL1ngryrxeIwHf8Np2.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_430"
-        }
-      ]
-    },
-    {
-      "id": "tt0037248",
-      "type": "movie",
-      "name": "Sherlock Holmes. La garra escarlata",
-      "posterShape": "poster",
-      "description": "Un misterio de fantasmas resuelto a la vieja usanza, heredero directo de tu gusto por Sherlock Holmes.\n\nEn familia",
-      "releaseInfo": "1944",
-      "poster": "https://image.tmdb.org/t/p/w342/wV9siZXOwFjVQgrcA9mgATNYC5v.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_432"
-        }
-      ]
-    },
-    {
-      "id": "tt0096454",
-      "type": "movie",
-      "name": "Sin pistas",
-      "posterShape": "poster",
-      "description": "Un Holmes torpe y un Watson que lleva la voz cantante, comedia de detectives con el ingenio del Sherlock Holmes de Guy Ritchie.\n\nEn familia",
-      "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/arv9FRvFwh9y29qbnrgSLyBS4A6.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_434"
-        }
-      ]
-    },
-    {
-      "id": "tt0034172",
-      "type": "movie",
-      "name": "La sombra de los acusados",
-      "posterShape": "poster",
-      "description": "Una pareja de detectives aficionados resolviendo un crimen entre bromas, el mismo misterio con humor que disfrutas en Poirot.\n\nEn familia",
-      "releaseInfo": "1941",
-      "poster": "https://image.tmdb.org/t/p/w342/v4jaKtoNeMWNiqudRhGigD5Jsx0.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_436"
-        }
-      ]
-    },
-    {
-      "id": "tt0043142",
-      "type": "movie",
-      "name": "La fugitiva",
-      "posterShape": "poster",
-      "description": "Un testigo que huye tras ver un asesinato, suspense clásico sin necesidad de violencia como el de Hitchcock.\n\nEn familia",
-      "releaseInfo": "1950",
-      "poster": "https://image.tmdb.org/t/p/w342/6wp0FpyQvYVphtUSvANiCarawop.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_438"
-        }
-      ]
-    },
-    {
-      "id": "tt27165187",
-      "type": "movie",
-      "name": "El final de Oak Street",
-      "posterShape": "poster",
-      "description": "Una calle entera arrancada de su entorno y una familia que debe sobrevivir a lo desconocido, misterio de ciencia ficción con enigma propio.\n\nEn familia",
+      "description": "Sátira sobre un magnate que quiere salvar el mundo mientras lo incendia, con el filo irónico de la comedia negra que te gusta.\n\nEn familia",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_439"
+          "url": "https://t.me/Butacawillybot?start=seen_501"
         }
       ]
     }

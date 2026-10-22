@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Sobrenatural",
       "posterShape": "poster",
-      "description": "Dos hermanos cazando monstruos por carretera, mundo propio y misterio sostenido como en Blade Runner o Alien.\n\nEn familia",
+      "description": "Dos hermanos cazando monstruos por carretera, con el mismo gusto por el misterio sobrenatural bien contado que ya disfrutas.\n\nEn familia",
       "releaseInfo": "2005",
       "poster": "https://image.tmdb.org/t/p/w342/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
       "links": [
@@ -17,18 +17,130 @@
       ]
     },
     {
-      "id": "tt11540908",
+      "id": "tt7908628",
       "type": "series",
-      "name": "Carrie",
+      "name": "Lo que hacemos en las sombras",
       "posterShape": "poster",
-      "description": "Instituto, acoso y un don que despierta: misterio adolescente con la tensión contenida que te gusta en Hitchcock.\n\nEn familia",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "description": "Vampiros compañeros de piso en clave de falso documental, con el humor absurdo que tanto disfrutas en Monty Python o Futurama.\n\nEn familia",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_421"
+          "url": "https://t.me/Butacawillybot?start=seen_499"
+        }
+      ]
+    },
+    {
+      "id": "tt5607976",
+      "type": "series",
+      "name": "La materia oscura",
+      "posterShape": "poster",
+      "description": "Una joven que cruza mundos paralelos buscando a un amigo, con la fantasía de mundo propio que tanto disfrutas.\n\nEn familia",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_500"
+        }
+      ]
+    },
+    {
+      "id": "tt11680468",
+      "type": "series",
+      "name": "El timador timado",
+      "posterShape": "poster",
+      "description": "Un estafador japonés se mete en líos de altos vuelos, con el ingenio de heist que te atrapó en Lupin o Berlín.\n\nEn familia",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/F8GyqlAlKLEZ42ERAP2ymWc8MN.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_502"
+        }
+      ]
+    },
+    {
+      "id": "tt7120662",
+      "type": "series",
+      "name": "Derry Girls",
+      "posterShape": "poster",
+      "description": "Comedia adolescente irlandesa de los 90, con el humor afilado que disfrutas y que a Izaro le hablará de su edad.\n\nEn familia",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_503"
+        }
+      ]
+    },
+    {
+      "id": "tt2934286",
+      "type": "series",
+      "name": "Halo",
+      "posterShape": "poster",
+      "description": "Guerra espacial contra una amenaza alienígena, en la línea de espectáculo de ciencia ficción que te voló la cabeza con Alien o Matrix.\n\nEn familia",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_504"
+        }
+      ]
+    },
+    {
+      "id": "tt2661044",
+      "type": "series",
+      "name": "Los 100",
+      "posterShape": "poster",
+      "description": "Cien jóvenes enviados a una Tierra post-apocalíptica para sobrevivir, ciencia ficción con protagonistas de la edad de Izaro.\n\nEn familia",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_505"
+        }
+      ]
+    },
+    {
+      "id": "tt2403776",
+      "type": "series",
+      "name": "Sombra y hueso",
+      "posterShape": "poster",
+      "description": "Magia y soldados en un mundo de fantasía propio, para seguir explorando universos como el de El señor de los anillos.\n\nEn familia",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/1Ok36olOn9HXOUlFdlOYngItmxX.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_506"
+        }
+      ]
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Los asesinatos de Midsomer",
+      "posterShape": "poster",
+      "description": "Misterio de pueblo inglés episodio a episodio, en la tradición de Agatha Christie que ya disfrutas.\n\nEn familia",
+      "releaseInfo": "1997",
+      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_507"
         }
       ]
     },
@@ -37,7 +149,7 @@
       "type": "series",
       "name": "El mentalista",
       "posterShape": "poster",
-      "description": "Un observador que reconstruye cada caso con pura lógica, en la línea de Poirot pero en clave moderna y ágil.\n\nEn familia",
+      "description": "Un exmédium que lee a la gente para resolver casos, el puzzle de deducción que te gusta al estilo Sherlock Holmes.\n\nEn familia",
       "releaseInfo": "2008",
       "poster": "https://image.tmdb.org/t/p/w342/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
       "links": [
@@ -45,118 +157,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_423"
-        }
-      ]
-    },
-    {
-      "id": "tt11247158",
-      "type": "series",
-      "name": "La leyenda de Vox Machina",
-      "posterShape": "poster",
-      "description": "Mercenarios gamberros en una aventura de fantasía con magia y dragones, como Dungeons & Dragons: Honor entre ladrones.\n\nEn familia",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/zaupUro1dIxKE4GyikKDyxNU6Tu.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_425"
-        }
-      ]
-    },
-    {
-      "id": "tt33204697",
-      "type": "series",
-      "name": "Secret Level",
-      "posterShape": "poster",
-      "description": "Antología animada de mundos de videojuego, variada y con la misma ambición visual que Love, Death & Robots.\n\nEn familia",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_427"
-        }
-      ]
-    },
-    {
-      "id": "tt6908976",
-      "type": "series",
-      "name": "Saint Seiya: Los Caballeros del Zodiaco",
-      "posterShape": "poster",
-      "description": "Aventura de artes marciales y mitología griega, con la misma épica que disfrutas en One Piece o Dragon Ball Z.\n\nEn familia",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/tuxfCX9IX70GJBV2JNn8gXlUJlj.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_429"
-        }
-      ]
-    },
-    {
-      "id": "tt26545355",
-      "type": "series",
-      "name": "Comando Monster",
-      "posterShape": "poster",
-      "description": "Un escuadrón de monstruos para misiones imposibles, aventura con el mismo tono gamberro que El Escuadrón Suicida.\n\nEn familia",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/5LJHcVhKbYyNuBMN2d4LAhDsP2P.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_431"
-        }
-      ]
-    },
-    {
-      "id": "tt3952222",
-      "type": "series",
-      "name": "Killjoys",
-      "posterShape": "poster",
-      "description": "Cazarrecompensas en un sistema de lunas en conflicto, space opera con la construcción de mundo que te atrapa en The Expanse.\n\nEn familia",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_433"
-        }
-      ]
-    },
-    {
-      "id": "tt14016574",
-      "type": "series",
-      "name": "Krapopolis",
-      "posterShape": "poster",
-      "description": "Dioses y monstruos gobernando una ciudad griega con el mismo humor absurdo que tanto disfrutas en Futurama.\n\nEn familia",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_435"
-        }
-      ]
-    },
-    {
-      "id": "tt28454008",
-      "type": "series",
-      "name": "Lazarus",
-      "posterShape": "poster",
-      "description": "Un equipo de fugitivos contra una conspiración global, acción y ciencia ficción con la textura de anime que te gusta.\n\nEn familia",
-      "releaseInfo": "2025",
-      "poster": "https://image.tmdb.org/t/p/w342/ActpqKbShWGYNDRsCjTueRixlrr.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_437"
         }
       ]
     }

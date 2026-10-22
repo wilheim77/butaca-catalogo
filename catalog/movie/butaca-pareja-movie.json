@@ -1,27 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0056923",
-      "type": "movie",
-      "name": "Charada",
-      "posterShape": "poster",
-      "description": "Misterio con chispa romántica al estilo Hitchcock, perfecta para ver juntos sin exigir ritmo trepidante.\n\nPara ver en pareja",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_109"
-        }
-      ]
-    },
-    {
       "id": "tt0088930",
       "type": "movie",
       "name": "El juego de la sospecha (Cluedo)",
       "posterShape": "poster",
-      "description": "Un whodunit de mansión con sospechosos y secretos, en la línea de Poirot pero con mucho humor negro.\n\nPara ver en pareja",
+      "description": "Una mansión, varios sospechosos y un misterio que se resuelve hablando, como en Doce hombres sin piedad pero con humor.\n\nPara ver en pareja",
       "releaseInfo": "1985",
       "poster": "https://image.tmdb.org/t/p/w342/vhrmZCkFkg2rtn7laiFzqwyVxky.jpg",
       "links": [
@@ -33,11 +17,27 @@
       ]
     },
     {
+      "id": "tt1670345",
+      "type": "movie",
+      "name": "Ahora me ves…",
+      "posterShape": "poster",
+      "description": "Un golpe maestro lleno de ingenio y trucos, con el mismo gusto por el caper que tienes con Snatch o Lupin.\n\nPara ver en pareja",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_493"
+        }
+      ]
+    },
+    {
       "id": "tt0064505",
       "type": "movie",
       "name": "Un trabajo en Italia",
       "posterShape": "poster",
-      "description": "Un golpe clásico con humor gamberro británico, el mismo espíritu caper que ya disfrutaste en Snatch o The Gentlemen.\n\nPara ver en pareja",
+      "description": "El golpe clásico con humor británico y una persecución memorable, en la línea de los caper que te encantan.\n\nPara ver en pareja",
       "releaseInfo": "1969",
       "poster": "https://image.tmdb.org/t/p/w342/orjQ2o8leG9gXPTLVIVGGAdgLOF.jpg",
       "links": [
@@ -49,11 +49,27 @@
       ]
     },
     {
+      "id": "tt5439796",
+      "type": "movie",
+      "name": "La suerte de los Logan",
+      "posterShape": "poster",
+      "description": "Un golpe de hermanos torpes y entrañables, con el mismo espíritu gamberro que disfrutaste en Snatch o The Gentlemen.\n\nPara ver en pareja",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/6oRcVB1iFwfFkbL6qSgZYTxxpI7.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_495"
+        }
+      ]
+    },
+    {
       "id": "tt1054486",
       "type": "movie",
       "name": "Futurama: El juego de Bender",
       "posterShape": "poster",
-      "description": "Más aventura con la tripulación de Futurama, la sátira animada que ya te conquistó en la serie.\n\nPara ver en pareja",
+      "description": "Sátira animada con el mismo descaro de Futurama que tanto disfrutas, perfecta para una noche de risas compartidas.\n\nPara ver en pareja",
       "releaseInfo": "2008",
       "poster": "https://image.tmdb.org/t/p/w342/nofwcAAzf3g5zKruFWFzGDp4AD6.jpg",
       "links": [
@@ -61,22 +77,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_415"
-        }
-      ]
-    },
-    {
-      "id": "tt1494772",
-      "type": "movie",
-      "name": "La Liga de la Justicia: Crisis en dos tierras",
-      "posterShape": "poster",
-      "description": "Superhéroes de otro universo en una trama animada con más fondo moral del habitual en el género.\n\nPara ver en pareja",
-      "releaseInfo": "2010",
-      "poster": "https://image.tmdb.org/t/p/w342/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_417"
         }
       ]
     }

@@ -1,50 +1,50 @@
 {
   "metas": [
     {
-      "id": "tt5332206",
+      "id": "tt0920489",
       "type": "series",
-      "name": "Señal",
+      "name": "Comisario Montalbano",
       "posterShape": "poster",
-      "description": "Un detective coreano reconstruye crímenes a través de un walkie-talkie que conecta dos épocas, con el mismo gusto por atar cabos.\n\nAlgo nuevo",
-      "releaseInfo": "2016",
-      "poster": "https://image.tmdb.org/t/p/w342/mB6FlHFK0A4DPyuGTrlM4QgEkIH.jpg",
+      "description": "Un detective siciliano que resuelve casos con ingenio y calma, en la línea de misterio clásico que te gusta en Poirot.\n\nAlgo nuevo",
+      "releaseInfo": "1999",
+      "poster": "https://image.tmdb.org/t/p/w342/s5NP4kc2O1rKyJnnIV3DnGe4wnF.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_406"
+          "url": "https://t.me/Butacawillybot?start=seen_486"
         }
       ]
     },
     {
-      "id": "tt1733785",
+      "id": "tt2707408",
       "type": "series",
-      "name": "El puente",
+      "name": "Narcos",
       "posterShape": "poster",
-      "description": "Un crimen en la frontera entre Suecia y Dinamarca: el mismo suspense frío de Hitchcock, ahora en clave nórdica.\n\nAlgo nuevo",
-      "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/glYSKWScEO8SxbrKUlUsbz8lNMS.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_408"
-        }
-      ]
-    },
-    {
-      "id": "tt4063800",
-      "type": "series",
-      "name": "Oficina de infiltrados",
-      "posterShape": "poster",
-      "description": "Un espía encubierto que vuelve a casa sin poder soltar su identidad: la misma ironía gris que te enganchó en Slow Horses.\n\nAlgo nuevo",
+      "description": "La historia real del narcotráfico colombiano, un ascenso y caída al estilo de Uno de los nuestros en otro continente.\n\nAlgo nuevo",
       "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_314"
+          "url": "https://t.me/Butacawillybot?start=seen_488"
+        }
+      ]
+    },
+    {
+      "id": "tt0826760",
+      "type": "series",
+      "name": "The Killing: Crónica de un asesinato",
+      "posterShape": "poster",
+      "description": "Nordic noir danés con una investigación que se estira episodio a episodio, para quien disfruta reconstruir un caso paso a paso.\n\nAlgo nuevo",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/fr2JGWd99W55MaPQpdAWP448S6K.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_490"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "type": "series",
       "name": "Babylon Berlin",
       "posterShape": "poster",
-      "description": "Crimen y corrupción en el Berlín de los años 20, con la misma ambición coral y el pulso histórico de Scorsese.\n\nAlgo nuevo",
+      "description": "El Berlín de los años 20 lleno de intriga política y crimen, con la ambición narrativa de un drama coral como Fargo.\n\nAlgo nuevo",
       "releaseInfo": "2017",
       "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
       "links": [
@@ -61,22 +61,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_138"
-        }
-      ]
-    },
-    {
-      "id": "tt8001106",
-      "type": "series",
-      "name": "Giri/Haji: Deber/Deshonor",
-      "posterShape": "poster",
-      "description": "Un policía busca a su hermano asesino entre Tokio y Londres: crimen organizado con la ambición moral de Uno de los nuestros.\n\nAlgo nuevo",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_231"
         }
       ]
     }

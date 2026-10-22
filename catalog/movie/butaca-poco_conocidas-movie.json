@@ -1,98 +1,194 @@
 {
   "metas": [
     {
-      "id": "tt0020629",
+      "id": "tt0065531",
       "type": "movie",
-      "name": "Sin novedad en el frente",
+      "name": "Círculo rojo",
       "posterShape": "poster",
-      "description": "Como Apocalypse Now o La chaqueta metálica, esta clásica antibélica pone el peso moral de la guerra por delante de la batalla.\n\nPoco conocidas",
-      "releaseInfo": "1930",
-      "poster": "https://image.tmdb.org/t/p/w342/whhnoAEoobX7dasproRpBipHXJT.jpg",
+      "description": "Si te gustó el pulso frío de Fargo, aquí un atraco francés de Melville con la misma precisión y fatalismo.\n\nPoco conocidas",
+      "releaseInfo": "1970",
+      "poster": "https://image.tmdb.org/t/p/w342/ezov5DqBaCnXR7nPwpqqQ01Iavy.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_386"
+          "url": "https://t.me/Butacawillybot?start=seen_467"
         }
       ]
     },
     {
-      "id": "tt0259534",
+      "id": "tt0035446",
       "type": "movie",
-      "name": "Ramayana, Shree Ram Katha",
+      "name": "Ser o no ser",
       "posterShape": "poster",
-      "description": "Si Avatar Aang te enganchó por su mundo propio, esta epopeya animada indojaponesa narra la mitología hindú con la misma ambición.\n\nPoco conocidas",
+      "description": "La sátira que La vida de Brian hubiera firmado, pero rodada en plena Segunda Guerra Mundial, con actores jugando a espías.\n\nPoco conocidas",
+      "releaseInfo": "1942",
+      "poster": "https://image.tmdb.org/t/p/w342/p0bk9raiEpR2Qm0nE9kk3F3YO7v.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_469"
+        }
+      ]
+    },
+    {
+      "id": "tt0100150",
+      "type": "movie",
+      "name": "Muerte entre las flores",
+      "posterShape": "poster",
+      "description": "Los Coen antes de Fargo: una guerra de gánsteres de la Prohibición con el mismo pulso moral que El padrino.\n\nPoco conocidas",
+      "releaseInfo": "1990",
+      "poster": "https://image.tmdb.org/t/p/w342/6ja0oa1pj7o9StfmaRAJVhTqcsi.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_471"
+        }
+      ]
+    },
+    {
+      "id": "tt0052311",
+      "type": "movie",
+      "name": "Sed de mal",
+      "posterShape": "poster",
+      "description": "Welles dirige y actúa en este noir fronterizo con la misma corrupción turbia que enganchó con Infiltrados.\n\nPoco conocidas",
+      "releaseInfo": "1958",
+      "poster": "https://image.tmdb.org/t/p/w342/vTJXbaDIsJVO2L2IyHLqalRogwu.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_473"
+        }
+      ]
+    },
+    {
+      "id": "tt0039689",
+      "type": "movie",
+      "name": "Retorno al pasado",
+      "posterShape": "poster",
+      "description": "Un detective con pasado oscuro y un chantaje que lo obliga a reconstruir todo lo que creía dejado atrás, puro noir.\n\nPoco conocidas",
+      "releaseInfo": "1947",
+      "poster": "https://image.tmdb.org/t/p/w342/lVrSynBqsFZVKbRKaaP0YQW2ccg.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_475"
+        }
+      ]
+    },
+    {
+      "id": "tt0025878",
+      "type": "movie",
+      "name": "La cena de los acusados",
+      "posterShape": "poster",
+      "description": "Si te gustó Poirot por su ingenio, aquí un matrimonio resuelve un crimen a base de réplicas rápidas y mucho encanto.\n\nPoco conocidas",
+      "releaseInfo": "1934",
+      "poster": "https://image.tmdb.org/t/p/w342/bSTwEucUoveVCm4lhpDCZNbKKYf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_476"
+        }
+      ]
+    },
+    {
+      "id": "tt0059274",
+      "type": "movie",
+      "name": "La colina de los hombres perdidos",
+      "posterShape": "poster",
+      "description": "El mismo peso moral de La chaqueta metálica, aquí entre prisioneros británicos enfrentados a un sargento sin escrúpulos.\n\nPoco conocidas",
+      "releaseInfo": "1965",
+      "poster": "https://image.tmdb.org/t/p/w342/ygREBneYznQa3IMtciRuxUZ3IIg.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_478"
+        }
+      ]
+    },
+    {
+      "id": "tt0119472",
+      "type": "movie",
+      "name": "Llamando a las puertas del cielo",
+      "posterShape": "poster",
+      "description": "Dos amigos con poco tiempo se lanzan a una fuga de líos criminales con el humor negro de Snatch.\n\nPoco conocidas",
       "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/yqcdzIgsYdaIY2CNtDyWshuLdq0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9pTUCXcMDZurDmZRtOrnk9mjSFH.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_388"
+          "url": "https://t.me/Butacawillybot?start=seen_480"
         }
       ]
     },
     {
-      "id": "tt4920274",
+      "id": "tt1527793",
       "type": "movie",
-      "name": "Historias corrientes: La película",
+      "name": "No hay otra opción",
       "posterShape": "poster",
-      "description": "Con el espíritu gamberro de Futurama, Mordecai y Rigby se meten en un viaje en el tiempo sin pedir perdón.\n\nPoco conocidas",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/7eWLv7mxAKnFPqbtPOJy6iHb2Bx.jpg",
+      "description": "Del director de Oldboy, una comedia negra coreana sobre un hombre dispuesto a cualquier cosa por recuperar su empleo.\n\nPoco conocidas",
+      "releaseInfo": "2025",
+      "poster": "https://image.tmdb.org/t/p/w342/xJtG8d6NAGdA8iL0fZqrHweQBUd.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_390"
+          "url": "https://t.me/Butacawillybot?start=seen_482"
         }
       ]
     },
     {
-      "id": "tt0103671",
+      "id": "tt0047034",
       "type": "movie",
-      "name": "American Me (Sin remisión)",
+      "name": "Godzilla. Japón bajo el terror del monstruo",
       "posterShape": "poster",
-      "description": "Como El padrino o Uno de los nuestros, sigue el ascenso y la caída de un líder dentro de una pandilla chicana.\n\nPoco conocidas",
-      "releaseInfo": "1992",
-      "poster": "https://image.tmdb.org/t/p/w342/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+      "description": "El Godzilla original, más tenso y político que espectacular, antes de que se convirtiera en el icono que ya conoces.\n\nPoco conocidas",
+      "releaseInfo": "1954",
+      "poster": "https://image.tmdb.org/t/p/w342/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_392"
+          "url": "https://t.me/Butacawillybot?start=seen_483"
         }
       ]
     },
     {
-      "id": "tt31450459",
+      "id": "tt11657662",
       "type": "movie",
-      "name": "Digger",
+      "name": "The Witcher: La pesadilla del lobo",
       "posterShape": "poster",
-      "description": "Con la misma mala leche satírica de La vida de Brian, esta comedia negra se ríe del poder y la codicia.\n\nPoco conocidas",
+      "description": "Un cazamonstruos solitario en un mundo de fantasía propio, como el que te atrapó en Dragon Ball o Avatar Aang.\n\nPoco conocidas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/y76K8SvpzFQ8gkp3lMmeoB7I6WN.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_484"
+        }
+      ]
+    },
+    {
+      "id": "tt35522483",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "posterShape": "poster",
+      "description": "Un mockumentary absurdo canadiense sobre dos amigos que acaban liados en un viaje en el tiempo sin pretensión alguna.\n\nPoco conocidas",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9Apspq38jYxPHOlufG2XRbvEXxj.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_175"
-        }
-      ]
-    },
-    {
-      "id": "tt7903530",
-      "type": "movie",
-      "name": "La ley de la calle",
-      "posterShape": "poster",
-      "description": "Como en El precio del poder, las calles y el narco atrapan a un chaval que solo quiere proteger a su hermano.\n\nPoco conocidas",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/pkSxhYn2eCW50c3C53Q2DArdtT4.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_395"
+          "url": "https://t.me/Butacawillybot?start=seen_485"
         }
       ]
     }

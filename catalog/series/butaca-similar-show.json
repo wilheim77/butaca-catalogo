@@ -1,130 +1,66 @@
 {
   "metas": [
     {
-      "id": "tt6468322",
+      "id": "tt2149175",
       "type": "series",
-      "name": "La casa de papel",
+      "name": "The Americans",
       "posterShape": "poster",
-      "description": "Un atraco planeado al milímetro por una banda coral con un líder brillante, la misma fiebre de heist que te dio Lupin.\n\nSimilar a tus gustos",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/z01Dc0Ly2GmCpLe6Scx4d3dPP1S.jpg",
+      "description": "Como en Slow Horses, el espionaje de la Guerra Fría se cuela en la vida de un matrimonio con doble identidad.\n\nSimilar a tus gustos",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_353"
+          "url": "https://t.me/Butacawillybot?start=seen_444"
         }
       ]
     },
     {
-      "id": "tt2707408",
+      "id": "tt8001106",
       "type": "series",
-      "name": "Narcos",
+      "name": "Giri/Haji: Deber/Deshonor",
       "posterShape": "poster",
-      "description": "El ascenso y la caída de un cartel contado desde dentro, con el pulso narrativo que valoraste en El precio del poder.\n\nSimilar a tus gustos",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
+      "description": "Con el humor negro y los líos cruzados de The Gentlemen, un policía japonés persigue a su hermano entre Tokio y Londres.\n\nSimilar a tus gustos",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_354"
+          "url": "https://t.me/Butacawillybot?start=seen_446"
         }
       ]
     },
     {
-      "id": "tt2098220",
+      "id": "tt2303687",
       "type": "series",
-      "name": "Hunter × Hunter",
+      "name": "Line of Duty",
       "posterShape": "poster",
-      "description": "Aventura de artes marciales con combates que son casi acertijos tácticos, como la fantasía larga que disfrutas en One Piece.\n\nSimilar a tus gustos",
-      "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_356"
-        }
-      ]
-    },
-    {
-      "id": "tt0118363",
-      "type": "series",
-      "name": "Jonathan Creek",
-      "posterShape": "poster",
-      "description": "Un mago ayuda a resolver crímenes imposibles: el misterio de detective que retiene la solución hasta el final, como en Poirot.\n\nSimilar a tus gustos",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_358"
-        }
-      ]
-    },
-    {
-      "id": "tt4644488",
-      "type": "series",
-      "name": "Dragon Ball Super",
-      "posterShape": "poster",
-      "description": "Nuevos torneos y rivales para Goku, la misma aventura de artes marciales que ya disfrutaste en Dragon Ball Z.\n\nSimilar a tus gustos",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/ruLBbIX15HrECgLJ3uZPo6X3YCN.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_360"
-        }
-      ]
-    },
-    {
-      "id": "tt11858104",
-      "type": "series",
-      "name": "Dragon Quest: La Aventura de Dai",
-      "posterShape": "poster",
-      "description": "Un héroe y su grupo de compañeros contra un señor oscuro: la fantasía épica de aventureros que te gusta en formato largo.\n\nSimilar a tus gustos",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/spo9ZaCbIRaU2esyOycSEVZpMe3.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_361"
-        }
-      ]
-    },
-    {
-      "id": "tt9170108",
-      "type": "series",
-      "name": "Raised by Wolves",
-      "posterShape": "poster",
-      "description": "Androides criando a un niño en un planeta misterioso, ciencia ficción con mundo propio de la mano de Ridley Scott.\n\nSimilar a tus gustos",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/a30f9MpTJU9GWQv8tFmcwASnyEq.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_363"
-        }
-      ]
-    },
-    {
-      "id": "tt2339875",
-      "type": "series",
-      "name": "Accel World",
-      "posterShape": "poster",
-      "description": "Realidad virtual y rivalidad en un futuro cercano, el mismo gusto por mundos de ciencia ficción que mostraste con Altered Carbon.\n\nSimilar a tus gustos",
+      "description": "Si te gustó resolver el caso en Doce hombres sin piedad, aquí una unidad anticorrupción destapa policías corruptos caso a caso.\n\nSimilar a tus gustos",
       "releaseInfo": "2012",
-      "poster": "https://image.tmdb.org/t/p/w342/lUatfX1FkANXzyCLbymsWuwFGEx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_365"
+          "url": "https://t.me/Butacawillybot?start=seen_448"
+        }
+      ]
+    },
+    {
+      "id": "tt5114356",
+      "type": "series",
+      "name": "Legión",
+      "posterShape": "poster",
+      "description": "Con la fantasía mental de X-Men '97 pero más oscura, un mutante debe separar lo real de lo que su mente inventa.\n\nSimilar a tus gustos",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_450"
         }
       ]
     }
