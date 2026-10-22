@@ -49,22 +49,6 @@
       ]
     },
     {
-      "id": "tt36022742",
-      "type": "series",
-      "name": "Némesis",
-      "posterShape": "poster",
-      "description": "Un detective obsesionado persigue al ladrón perfecto, el mismo duelo de ingenio que disfrutas en los golpes de Lupin.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_342"
-        }
-      ]
-    },
-    {
       "id": "tt34771210",
       "type": "series",
       "name": "Te encontraré",
@@ -125,22 +109,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_346"
-        }
-      ]
-    },
-    {
-      "id": "tt34440854",
-      "type": "series",
-      "name": "Los SUPERfrikis",
-      "posterShape": "poster",
-      "description": "Vecinos normales que de golpe tienen superpoderes y deben salvar el mundo, con un humor disparatado que no se toma en serio.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_266"
         }
       ]
     },

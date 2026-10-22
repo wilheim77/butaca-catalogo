@@ -1,22 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0096697",
-      "type": "series",
-      "name": "Los Simpson",
-      "posterShape": "poster",
-      "description": "Temporada 38 estrenada el 27 de septiembre\n\nNuevas temporadas",
-      "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_335"
-        }
-      ]
-    },
-    {
       "id": "tt2531336",
       "type": "series",
       "name": "Lupin",

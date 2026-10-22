@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "tt0096708",
-      "type": "series",
-      "name": "Historias de la cripta",
-      "posterShape": "poster",
-      "description": "Relatos cortos con un giro final macabro, pensados para que no te fíes de cómo empiezan.\n\nClásicos que te faltan",
-      "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/sKhEcYlHSpLuodvr3wX6Q9QfFv0.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_379"
-        }
-      ]
-    },
-    {
       "id": "tt0081912",
       "type": "series",
       "name": "Only Fools and Horses",

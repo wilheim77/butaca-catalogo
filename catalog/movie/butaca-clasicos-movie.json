@@ -33,22 +33,6 @@
       ]
     },
     {
-      "id": "tt0047396",
-      "type": "movie",
-      "name": "La ventana indiscreta",
-      "posterShape": "poster",
-      "description": "Hitchcock monta suspense puro sin salir de un apartamento, la misma tensión que te atrapó en Psicosis.\n\nClásicos que te faltan",
-      "releaseInfo": "1954",
-      "poster": "https://image.tmdb.org/t/p/w342/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_371"
-        }
-      ]
-    },
-    {
       "id": "tt0040746",
       "type": "movie",
       "name": "La soga",
@@ -141,22 +125,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_463"
-        }
-      ]
-    },
-    {
-      "id": "tt0065214",
-      "type": "movie",
-      "name": "Grupo salvaje",
-      "posterShape": "poster",
-      "description": "Forajidos ya mayores que no encajan en un mundo que cambia, un western con el peso moral de Gladiator.\n\nClásicos que te faltan",
-      "releaseInfo": "1969",
-      "poster": "https://image.tmdb.org/t/p/w342/8RLSKxIbW10kFKJirxVYDwwmDAl.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_464"
         }
       ]
     },

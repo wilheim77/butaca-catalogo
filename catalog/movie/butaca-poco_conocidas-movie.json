@@ -129,22 +129,6 @@
       ]
     },
     {
-      "id": "tt1527793",
-      "type": "movie",
-      "name": "No hay otra opción",
-      "posterShape": "poster",
-      "description": "Del director de Oldboy, una comedia negra coreana sobre un hombre dispuesto a cualquier cosa por recuperar su empleo.\n\nPoco conocidas",
-      "releaseInfo": "2025",
-      "poster": "https://image.tmdb.org/t/p/w342/xJtG8d6NAGdA8iL0fZqrHweQBUd.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_482"
-        }
-      ]
-    },
-    {
       "id": "tt0047034",
       "type": "movie",
       "name": "Godzilla. Japón bajo el terror del monstruo",

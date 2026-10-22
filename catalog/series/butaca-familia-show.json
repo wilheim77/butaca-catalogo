@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "tt2403776",
-      "type": "series",
-      "name": "Sombra y hueso",
-      "posterShape": "poster",
-      "description": "Magia y soldados en un mundo de fantasía propio, para seguir explorando universos como el de El señor de los anillos.\n\nEn familia",
-      "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/1Ok36olOn9HXOUlFdlOYngItmxX.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_506"
-        }
-      ]
-    },
-    {
       "id": "tt0118401",
       "type": "series",
       "name": "Los asesinatos de Midsomer",

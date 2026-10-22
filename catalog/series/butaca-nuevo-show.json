@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "tt2707408",
-      "type": "series",
-      "name": "Narcos",
-      "posterShape": "poster",
-      "description": "La historia real del narcotráfico colombiano, un ascenso y caída al estilo de Uno de los nuestros en otro continente.\n\nAlgo nuevo",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_488"
-        }
-      ]
-    },
-    {
       "id": "tt0826760",
       "type": "series",
       "name": "The Killing: Crónica de un asesinato",

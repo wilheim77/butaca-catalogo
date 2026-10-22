@@ -31,54 +31,6 @@
           "url": "https://t.me/Butacawillybot?start=seen_493"
         }
       ]
-    },
-    {
-      "id": "tt0064505",
-      "type": "movie",
-      "name": "Un trabajo en Italia",
-      "posterShape": "poster",
-      "description": "El golpe clásico con humor británico y una persecución memorable, en la línea de los caper que te encantan.\n\nPara ver en pareja",
-      "releaseInfo": "1969",
-      "poster": "https://image.tmdb.org/t/p/w342/orjQ2o8leG9gXPTLVIVGGAdgLOF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_413"
-        }
-      ]
-    },
-    {
-      "id": "tt5439796",
-      "type": "movie",
-      "name": "La suerte de los Logan",
-      "posterShape": "poster",
-      "description": "Un golpe de hermanos torpes y entrañables, con el mismo espíritu gamberro que disfrutaste en Snatch o The Gentlemen.\n\nPara ver en pareja",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/6oRcVB1iFwfFkbL6qSgZYTxxpI7.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_495"
-        }
-      ]
-    },
-    {
-      "id": "tt1054486",
-      "type": "movie",
-      "name": "Futurama: El juego de Bender",
-      "posterShape": "poster",
-      "description": "Sátira animada con el mismo descaro de Futurama que tanto disfrutas, perfecta para una noche de risas compartidas.\n\nPara ver en pareja",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/nofwcAAzf3g5zKruFWFzGDp4AD6.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_415"
-        }
-      ]
     }
   ]
 }

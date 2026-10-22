@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "tt0094721",
-      "type": "movie",
-      "name": "Bitelchús",
-      "posterShape": "poster",
-      "description": "Con el mismo humor gamberro que La vida de Brian, aquí lo macabro y lo absurdo conviven sin pedir permiso.\n\nSimilar a tus gustos",
-      "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_366"
-        }
-      ]
-    },
-    {
       "id": "tt0865556",
       "type": "movie",
       "name": "El reino prohibido",
@@ -141,22 +125,6 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_454"
-        }
-      ]
-    },
-    {
-      "id": "tt0926084",
-      "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
-      "posterShape": "poster",
-      "description": "Si te atrapó el mundo de El señor de los anillos, aquí la saga de magos encara su tramo final más oscuro.\n\nSimilar a tus gustos",
-      "releaseInfo": "2010",
-      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_455"
         }
       ]
     },
