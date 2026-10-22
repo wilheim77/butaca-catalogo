@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "La bola negra",
       "posterShape": "poster",
-      "description": "Tres épocas y tres vidas entrelazadas, como la reconstrucción cruzada de El secreto de sus ojos pero en la Guerra Civil.\n\nNovedades",
+      "description": "Tres vidas entrelazadas en distintas épocas con el peso dramático bélico que te atrapa en Coppola o Kubrick.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "links": [
@@ -17,11 +17,27 @@
       ]
     },
     {
+      "id": "tt34385135",
+      "type": "movie",
+      "name": "Colony",
+      "posterShape": "poster",
+      "description": "Un brote viral sella un centro de biotecnología: ciencia ficción de ideas y tensión de supervivencia cercana a tu gusto por la distopía.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_508"
+        }
+      ]
+    },
+    {
       "id": "tt36983905",
       "type": "movie",
       "name": "El hombre que desafió al rey",
       "posterShape": "poster",
-      "description": "Un campesino se alza contra la corona, con el mismo pulso moral y rebelde que te enganchó en Braveheart.\n\nNovedades",
+      "description": "Un campesino medieval se convierte en leyenda rebelde, con el pulso histórico que valoras en el cine bélico.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "links": [
@@ -33,27 +49,11 @@
       ]
     },
     {
-      "id": "tt32333324",
-      "type": "movie",
-      "name": "Batman: Knightfall Part 1: Knightfall",
-      "posterShape": "poster",
-      "description": "Animación oscura y espectáculo de superhéroes al límite, en la línea de lo que ya te ha gustado de Marvel y DC.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_341"
-        }
-      ]
-    },
-    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
       "posterShape": "poster",
-      "description": "Una conquista real del Everest en los años 50, la épica histórica de resistencia que sueles disfrutar.\n\nNovedades",
+      "description": "Una expedición real al Everest en los años 50, puro hombre contra naturaleza en la línea histórica que te atrapa.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
       "links": [
@@ -65,18 +65,18 @@
       ]
     },
     {
-      "id": "tt29552248",
+      "id": "tt45368240",
       "type": "movie",
-      "name": "Intercambiados",
+      "name": "You Can See Everything",
       "posterShape": "poster",
-      "description": "Una aventura de intercambio de cuerpos entre criaturas del bosque, con el mismo espíritu travieso que D&D: Honor entre ladrones.\n\nNovedades",
+      "description": "La fundadora de Theranos documenta su propia caída: ambición, mentira y un antihéroe real con mucho morbo detrás.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_440"
+          "url": "https://t.me/Butacawillybot?start=seen_509"
         }
       ]
     },
@@ -85,7 +85,7 @@
       "type": "movie",
       "name": "Lo dejamos acá",
       "posterShape": "poster",
-      "description": "Un psicoanalista que cruza todos los límites con sus pacientes, con el humor negro y la ironía que no piden perdón.\n\nNovedades",
+      "description": "Un psicoanalista cruza la línea y empieza a intervenir en secreto en la vida de sus pacientes, una idea que se sostiene sola.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
       "links": [
@@ -97,18 +97,34 @@
       ]
     },
     {
-      "id": "tt31349844",
+      "id": "tt32338669",
       "type": "movie",
-      "name": "Entrega al límite",
+      "name": "El motín",
       "posterShape": "poster",
-      "description": "Una carrera contrarreloj contra un cártel, acción pura y tensión sin respiro al estilo de tus thrillers favoritos.\n\nNovedades",
+      "description": "Un hombre contra una conspiración internacional en un carguero, acción pulp al estilo gamberro que disfrutas en Harry el sucio.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_441"
+          "url": "https://t.me/Butacawillybot?start=seen_510"
+        }
+      ]
+    },
+    {
+      "id": "tt32333324",
+      "type": "movie",
+      "name": "Batman: Knightfall Part 1: Knightfall",
+      "posterShape": "poster",
+      "description": "La fuga masiva de villanos de Arkham lleva a Batman al límite, el tono de antihéroe al borde que te gusta.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_341"
         }
       ]
     }

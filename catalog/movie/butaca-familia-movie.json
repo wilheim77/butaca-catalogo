@@ -1,66 +1,34 @@
 {
   "metas": [
     {
-      "id": "tt1677720",
+      "id": "tt0347149",
       "type": "movie",
-      "name": "Ready Player One",
+      "name": "El castillo ambulante",
       "posterShape": "poster",
-      "description": "Si Terminator 2 o Matrix te sorprendieron, esta aventura de mundo virtual tiene ese mismo empuje para ver con Izaro.\n\nEn familia",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+      "description": "Si te gustó Mi vecino Totoro, aquí tienes otra fantasía de Miyazaki con la misma magia visual, perfecta con Izaro.\n\nEn familia",
+      "releaseInfo": "2004",
+      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_497"
+          "url": "https://t.me/Butacawillybot?start=seen_580"
         }
       ]
     },
     {
-      "id": "tt12851396",
+      "id": "tt31349844",
       "type": "movie",
-      "name": "Trollhunters: El despertar de los titanes",
+      "name": "Entrega al límite",
       "posterShape": "poster",
-      "description": "Fantasía de trolls y magia con el pulso de Guillermo del Toro, ideal para una tarde de aventura con Izaro.\n\nEn familia",
-      "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/fhhjAX2iDmnZksQWsJ8DdAcDBc5.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_498"
-        }
-      ]
-    },
-    {
-      "id": "tt1756855",
-      "type": "movie",
-      "name": "Coyote vs. Acme",
-      "posterShape": "poster",
-      "description": "El Coyote demanda a ACME en un juicio disparatado, con la misma sátira gamberra que disfrutas en La vida de Brian.\n\nEn familia",
+      "description": "Acción trepidante y gamberra, en la línea del cine pulp ochentero que tanto disfrutas, ideal para ver con Izaro.\n\nEn familia",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_424"
-        }
-      ]
-    },
-    {
-      "id": "tt31450459",
-      "type": "movie",
-      "name": "Digger",
-      "posterShape": "poster",
-      "description": "Sátira sobre un magnate que quiere salvar el mundo mientras lo incendia, con el filo irónico de la comedia negra que te gusta.\n\nEn familia",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_501"
+          "url": "https://t.me/Butacawillybot?start=seen_581"
         }
       ]
     }

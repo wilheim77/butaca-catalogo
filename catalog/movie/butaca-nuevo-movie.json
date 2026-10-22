@@ -1,66 +1,114 @@
 {
   "metas": [
     {
-      "id": "tt0364569",
+      "id": "tt0485947",
       "type": "movie",
-      "name": "Old Boy",
+      "name": "Las vidas posibles de Mr. Nobody",
       "posterShape": "poster",
-      "description": "Un thriller coreano intenso sobre un hombre que despierta sin saber por qué estuvo encerrado quince años.\n\nAlgo nuevo",
-      "releaseInfo": "2003",
-      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
+      "description": "Como en Interstellar, el tiempo se bifurca en esta rareza francesa donde cada decisión abre una vida distinta para vivir.\n\nAlgo nuevo",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_407"
+          "url": "https://t.me/Butacawillybot?start=seen_556"
         }
       ]
     },
     {
-      "id": "tt2267998",
+      "id": "tt0405094",
       "type": "movie",
-      "name": "Perdida",
+      "name": "La vida de los otros",
       "posterShape": "poster",
-      "description": "Un thriller americano sobre un matrimonio que se desmorona en televisión, con la tensión de reconstruir la verdad.\n\nAlgo nuevo",
+      "description": "Un thriller alemán de vigilancia y moral en la Guerra Fría, con la tensión silenciosa que tanto disfrutas en Hitchcock.\n\nAlgo nuevo",
+      "releaseInfo": "2006",
+      "poster": "https://image.tmdb.org/t/p/w342/huApj1ufTmVTDcKqi2SY3zmqcyJ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_558"
+        }
+      ]
+    },
+    {
+      "id": "tt0457430",
+      "type": "movie",
+      "name": "El laberinto del fauno",
+      "posterShape": "poster",
+      "description": "Fantasía oscura en la España de posguerra, con el peso dramático bélico que valoras en Coppola o Kubrick.\n\nAlgo nuevo",
+      "releaseInfo": "2006",
+      "poster": "https://image.tmdb.org/t/p/w342/gWPkUFGlO7ZIiArUcWRBmvAwVjB.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_559"
+        }
+      ]
+    },
+    {
+      "id": "tt0338564",
+      "type": "movie",
+      "name": "Juego sucio (Infernal Affairs)",
+      "posterShape": "poster",
+      "description": "Topos cruzados entre policía y mafia en Hong Kong, con el pulso criminal que te atrapa en Scorsese.\n\nAlgo nuevo",
+      "releaseInfo": "2002",
+      "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_561"
+        }
+      ]
+    },
+    {
+      "id": "tt2582802",
+      "type": "movie",
+      "name": "Whiplash",
+      "posterShape": "poster",
+      "description": "Un conservatorio de jazz se convierte en campo de batalla psicológico, con la tensión de poder que buscas más allá del crimen.\n\nAlgo nuevo",
       "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_487"
+          "url": "https://t.me/Butacawillybot?start=seen_563"
         }
       ]
     },
     {
-      "id": "tt0780536",
+      "id": "tt0065988",
       "type": "movie",
-      "name": "Escondidos en Brujas",
+      "name": "Pequeño gran hombre",
       "posterShape": "poster",
-      "description": "Dos sicarios ingleses escondidos en una ciudad belga de postal, con el humor negro y la culpa que tanto disfrutas en Snatch.\n\nAlgo nuevo",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
+      "description": "Western revisionista y gamberro de los 70, narrado con el humor negro absurdo que amas en Monty Python.\n\nAlgo nuevo",
+      "releaseInfo": "1970",
+      "poster": "https://image.tmdb.org/t/p/w342/6JrDqq9qFHaDpBuaCipQS75rlux.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_489"
+          "url": "https://t.me/Butacawillybot?start=seen_565"
         }
       ]
     },
     {
-      "id": "tt0096163",
+      "id": "tt2948372",
       "type": "movie",
-      "name": "Desaparecida",
+      "name": "Soul",
       "posterShape": "poster",
-      "description": "Un thriller holandés de los 80 sobre una desaparición que se investiga durante años, con la tensión silenciosa que admiras en Hitchcock.\n\nAlgo nuevo",
-      "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/6pBloz1mwz8S0gYjUao6iUoyCng.jpg",
+      "description": "Animación con alma filosófica sobre el propósito vital, firmada por Pete Docter como Del revés, pero en clave de jazz.\n\nAlgo nuevo",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_491"
+          "url": "https://t.me/Butacawillybot?start=seen_567"
         }
       ]
     }

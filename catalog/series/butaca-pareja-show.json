@@ -1,43 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt15435876",
-      "type": "series",
-      "name": "El Pingüino",
-      "posterShape": "poster",
-      "description": "El ascenso de un villano desde dentro del crimen, con el mismo pulso moral que Uno de los nuestros o Infiltrados.\n\nPara ver en pareja",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_492"
-        }
-      ]
-    },
-    {
-      "id": "tt7493974",
-      "type": "series",
-      "name": "Guardaespaldas",
-      "posterShape": "poster",
-      "description": "Suspense político que te atrapa desde el primer episodio, con la misma tensión contenida que te gustaba de Hitchcock.\n\nPara ver en pareja",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/mrOJeCkpnWnVX10hm4h10LuSzr2.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_494"
-        }
-      ]
-    },
-    {
       "id": "tt2249364",
       "type": "series",
       "name": "Broadchurch",
       "posterShape": "poster",
-      "description": "Un pueblo pequeño, un misterio que se reconstruye poco a poco y mucho de qué hablar después de cada episodio.\n\nPara ver en pareja",
+      "description": "Un pueblo costero y un misterio que se investiga pista a pista, en la línea detectivesca que tanto disfrutas de Hitchcock.\n\nPara ver en pareja",
       "releaseInfo": "2013",
       "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
       "links": [
@@ -49,34 +17,18 @@
       ]
     },
     {
-      "id": "tt0118363",
+      "id": "tt1358522",
       "type": "series",
-      "name": "Jonathan Creek",
+      "name": "Ladrón de guante blanco",
       "posterShape": "poster",
-      "description": "Misterios resueltos por ingenio puro, en la línea clásica de Poirot o Sherlock Holmes que tanto te gusta.\n\nPara ver en pareja",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+      "description": "Un ladrón encantador que trabaja a la fuerza para el FBI, con el carisma criminal que buscas en el cine de gánsteres.\n\nPara ver en pareja",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/zBPtDQhzQIul3q1URdaNt51Kuw8.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_496"
-        }
-      ]
-    },
-    {
-      "id": "tt15438246",
-      "type": "series",
-      "name": "Caleidoscopio",
-      "posterShape": "poster",
-      "description": "Un golpe contado sin orden fijo, con la misma estructura que te enganchó en Pulp Fiction o Reservoir Dogs.\n\nPara ver en pareja",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/zwVEFJ6f1ipO3wY3qW1vjBSkZnZ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_412"
+          "url": "https://t.me/Butacawillybot?start=seen_574"
         }
       ]
     }

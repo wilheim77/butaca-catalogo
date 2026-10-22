@@ -1,11 +1,59 @@
 {
   "metas": [
     {
+      "id": "tt0364569",
+      "type": "movie",
+      "name": "Old Boy",
+      "posterShape": "poster",
+      "description": "Una venganza obsesiva con un punto de partida muy fuerte, en la línea oscura que te atrapó en Fargo.\n\nSimilar a tus gustos",
+      "releaseInfo": "2003",
+      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_515"
+        }
+      ]
+    },
+    {
+      "id": "tt2267998",
+      "type": "movie",
+      "name": "Perdida",
+      "posterShape": "poster",
+      "description": "La desaparición de una esposa destapa las grietas de un matrimonio, con la tensión detectivesca que te gusta de Hitchcock.\n\nSimilar a tus gustos",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_517"
+        }
+      ]
+    },
+    {
+      "id": "tt0040746",
+      "type": "movie",
+      "name": "La soga",
+      "posterShape": "poster",
+      "description": "Una cena de antiguos alumnos se convierte en un duelo filosófico sobre el crimen perfecto, con Hitchcock en su vena más intelectual.\n\nSimilar a tus gustos",
+      "releaseInfo": "1948",
+      "poster": "https://image.tmdb.org/t/p/w342/25ScofCCdU4XtkiGv8nhbZ7nIX5.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_519"
+        }
+      ]
+    },
+    {
       "id": "tt0069281",
       "type": "movie",
       "name": "La huella",
       "posterShape": "poster",
-      "description": "Como en Puñales por la espalda, aquí el ingenio y las trampas verbales son el verdadero duelo entre dos rivales.\n\nSimilar a tus gustos",
+      "description": "Dos hombres y una mansión de juguetes de ingenio libran un duelo de astucia, con la economía de medios que te atrapa.\n\nSimilar a tus gustos",
       "releaseInfo": "1972",
       "poster": "https://image.tmdb.org/t/p/w342/vGZrvkCm0FSKvjuPnu1svE3pNls.jpg",
       "links": [
@@ -17,178 +65,162 @@
       ]
     },
     {
-      "id": "tt0056923",
+      "id": "tt0046911",
       "type": "movie",
-      "name": "Charada",
+      "name": "Las diabólicas",
       "posterShape": "poster",
-      "description": "Con el pulso de Con la muerte en los talones, esta comedia de espías en París te mantiene adivinando a quién creer.\n\nSimilar a tus gustos",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
+      "description": "Dos mujeres hartas de un marido tirano traman un plan juntas, con el misterio clásico que conecta con Hitchcock.\n\nSimilar a tus gustos",
+      "releaseInfo": "1955",
+      "poster": "https://image.tmdb.org/t/p/w342/eX2SM3UECXJgrGknXHdYS2veReS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_445"
+          "url": "https://t.me/Butacawillybot?start=seen_522"
         }
       ]
     },
     {
-      "id": "tt0077413",
+      "id": "tt0038355",
       "type": "movie",
-      "name": "Muerte en el Nilo",
+      "name": "El sueño eterno",
       "posterShape": "poster",
-      "description": "Si disfrutaste con Poirot, aquí el detective vuelve a reunir sospechosos en un crucero para desenmascarar al culpable.\n\nSimilar a tus gustos",
-      "releaseInfo": "1978",
-      "poster": "https://image.tmdb.org/t/p/w342/xNMrF4eRxaPV8wqf2udKxDVCH9C.jpg",
+      "description": "El detective Philip Marlowe investiga un caso enrevesado con calma y cinismo, puro misterio clásico de pistas como te gustan.\n\nSimilar a tus gustos",
+      "releaseInfo": "1946",
+      "poster": "https://image.tmdb.org/t/p/w342/hkKuvY7u4cOFF3nfCSLewVKGRai.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_447"
+          "url": "https://t.me/Butacawillybot?start=seen_524"
         }
       ]
     },
     {
-      "id": "tt1259014",
+      "id": "tt0036342",
       "type": "movie",
-      "name": "Mesrine Parte 1. Instinto de muerte",
+      "name": "La sombra de una duda",
       "posterShape": "poster",
-      "description": "Como Uno de los nuestros, sigue el ascenso y la caída de un gángster real contado desde dentro del crimen.\n\nSimilar a tus gustos",
+      "description": "Un tío encantador llega a un pueblo tranquilo y despierta sospechas en su sobrina, con la tensión doméstica típica de Hitchcock.\n\nSimilar a tus gustos",
+      "releaseInfo": "1943",
+      "poster": "https://image.tmdb.org/t/p/w342/kF40hCjwn5X1GbT57d2xIALeGHF.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_526"
+        }
+      ]
+    },
+    {
+      "id": "tt0117381",
+      "type": "movie",
+      "name": "Las dos caras de la verdad",
+      "posterShape": "poster",
+      "description": "Un abogado ambicioso defiende un caso imposible en un juicio por asesinato, con el pulso criminal que tanto te gusta.\n\nSimilar a tus gustos",
+      "releaseInfo": "1996",
+      "poster": "https://image.tmdb.org/t/p/w342/8EkX8965Hb2hZdkpEcFShrlrklw.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_528"
+        }
+      ]
+    },
+    {
+      "id": "tt0064169",
+      "type": "movie",
+      "name": "El clan de los sicilianos",
+      "posterShape": "poster",
+      "description": "Un golpe europeo organizado por un viejo clan siciliano reúne gánsteres con código propio, en la línea de Coppola y Scorsese.\n\nSimilar a tus gustos",
+      "releaseInfo": "1969",
+      "poster": "https://image.tmdb.org/t/p/w342/rOEYSSBrO9KIHWVCxVp6SZflJHW.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_530"
+        }
+      ]
+    },
+    {
+      "id": "tt0824747",
+      "type": "movie",
+      "name": "El intercambio",
+      "posterShape": "poster",
+      "description": "Una madre choca con la corrupción policial de Los Ángeles al buscar a su hijo, con el drama histórico que valoras.\n\nSimilar a tus gustos",
       "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/upLFI8XANXVqeFoH4ma2zWMHLEm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/rqMNyKVQII7FWpW3QSe3H6sbhex.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_449"
+          "url": "https://t.me/Butacawillybot?start=seen_532"
         }
       ]
     },
     {
-      "id": "tt0061512",
+      "id": "tt0292963",
       "type": "movie",
-      "name": "La leyenda del indomable",
+      "name": "Antes que el diablo sepa que has muerto",
       "posterShape": "poster",
-      "description": "Si te sorprendió La gran evasión, aquí la paciencia dentro de una cárcel también se convierte en el centro de la historia.\n\nSimilar a tus gustos",
-      "releaseInfo": "1967",
-      "poster": "https://image.tmdb.org/t/p/w342/pFMISXcKgTS27ZYgM5tIGIpzPJo.jpg",
+      "description": "Dos hermanos desesperados por dinero se meten en un plan arriesgado, con el tono de antihéroes al límite que disfrutas en Tarantino.\n\nSimilar a tus gustos",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/JlwN2hZIdluVIVwWNrLjfeoJ7k.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_451"
+          "url": "https://t.me/Butacawillybot?start=seen_534"
         }
       ]
     },
     {
-      "id": "tt0865556",
+      "id": "tt0203119",
       "type": "movie",
-      "name": "El reino prohibido",
+      "name": "Sexy Beast",
       "posterShape": "poster",
-      "description": "Si disfrutas las artes marciales de One Piece, aquí un chaval cualquiera cae en una aventura de kung fu y leyendas.\n\nSimilar a tus gustos",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg",
+      "description": "Un gánster retirado en España recibe la visita de un viejo compinche insistente, con el diálogo afilado del crimen británico.\n\nSimilar a tus gustos",
+      "releaseInfo": "2001",
+      "poster": "https://image.tmdb.org/t/p/w342/6P7hx0JR9m38P01ToCPCx13wYHJ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_452"
+          "url": "https://t.me/Butacawillybot?start=seen_536"
         }
       ]
     },
     {
-      "id": "tt0060635",
+      "id": "tt0067128",
       "type": "movie",
-      "name": "La posada del dragón",
+      "name": "Asesino implacable",
       "posterShape": "poster",
-      "description": "Si te gustan las artes marciales de Dungeons & Dragons, este wuxia clásico reúne espadachines e intriga en una posada.\n\nSimilar a tus gustos",
-      "releaseInfo": "1967",
-      "poster": "https://image.tmdb.org/t/p/w342/v051JgxGnmyZUSeep4vtW1ndSCv.jpg",
+      "description": "Un gánster británico de los 70 investiga la muerte de su hermano, con el tono pulp y gamberro que tanto valoras.\n\nSimilar a tus gustos",
+      "releaseInfo": "1971",
+      "poster": "https://image.tmdb.org/t/p/w342/d41oM8IPJjakqEmqcG3pXAQ11Hy.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_453"
+          "url": "https://t.me/Butacawillybot?start=seen_538"
         }
       ]
     },
     {
-      "id": "tt0075029",
+      "id": "tt1924429",
       "type": "movie",
-      "name": "El fuera de la ley",
+      "name": "En trance",
       "posterShape": "poster",
-      "description": "Con el peso moral de Gladiator trasladado al Oeste, un hombre marcado por la venganza se abre camino tras la guerra.\n\nSimilar a tus gustos",
-      "releaseInfo": "1976",
-      "poster": "https://image.tmdb.org/t/p/w342/5TzrWk1mSoavRcdkNEhVpKftICv.jpg",
+      "description": "Un robo de arte se complica cuando el ladrón pierde la memoria del escondite, con el puzzle narrativo que te atrapa.\n\nSimilar a tus gustos",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/doqPDahogP1zyjOwdmOygCWTCaO.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_454"
-        }
-      ]
-    },
-    {
-      "id": "tt0109842",
-      "type": "movie",
-      "name": "Fresh",
-      "posterShape": "poster",
-      "description": "Como Uno de los nuestros pero en Brooklyn, un chaval de doce años juega al ajedrez con el narcotráfico.\n\nSimilar a tus gustos",
-      "releaseInfo": "1994",
-      "poster": "https://image.tmdb.org/t/p/w342/mAWeaWR3zSEyhvsDj3gMdVvNicz.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_456"
-        }
-      ]
-    },
-    {
-      "id": "tt0280491",
-      "type": "movie",
-      "name": "Domingo sangriento",
-      "posterShape": "poster",
-      "description": "Con el conflicto moral de La chaqueta metálica, este docudrama reconstruye una manifestación que terminó en tragedia en Irlanda del Norte.\n\nSimilar a tus gustos",
-      "releaseInfo": "2002",
-      "poster": "https://image.tmdb.org/t/p/w342/lLFalh1ctjAyeYVt3MDAdNUIz5c.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_457"
-        }
-      ]
-    },
-    {
-      "id": "tt4920274",
-      "type": "movie",
-      "name": "Historias corrientes: La película",
-      "posterShape": "poster",
-      "description": "Con el mismo humor absurdo y los viajes en el tiempo de Futurama, esta película de Historias corrientes es pura diversión gamberra.\n\nSimilar a tus gustos",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/7eWLv7mxAKnFPqbtPOJy6iHb2Bx.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_458"
-        }
-      ]
-    },
-    {
-      "id": "tt1494772",
-      "type": "movie",
-      "name": "La Liga de la Justicia: Crisis en dos tierras",
-      "posterShape": "poster",
-      "description": "Si te entretienen los Guardianes de la Galaxia, esta aventura de la Liga de la Justicia cruza universos alternativos con mucha acción.\n\nSimilar a tus gustos",
-      "releaseInfo": "2010",
-      "poster": "https://image.tmdb.org/t/p/w342/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_459"
+          "url": "https://t.me/Butacawillybot?start=seen_539"
         }
       ]
     }

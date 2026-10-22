@@ -1,34 +1,18 @@
 {
   "metas": [
     {
-      "id": "tt0920489",
+      "id": "tt1733785",
       "type": "series",
-      "name": "Comisario Montalbano",
+      "name": "El puente",
       "posterShape": "poster",
-      "description": "Un detective siciliano que resuelve casos con ingenio y calma, en la línea de misterio clásico que te gusta en Poirot.\n\nAlgo nuevo",
-      "releaseInfo": "1999",
-      "poster": "https://image.tmdb.org/t/p/w342/s5NP4kc2O1rKyJnnIV3DnGe4wnF.jpg",
+      "description": "Detectives sueco y danesa cruzan fronteras para atar pistas, con la deducción clásica que amas en Poirot o Colombo.\n\nAlgo nuevo",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/glYSKWScEO8SxbrKUlUsbz8lNMS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_486"
-        }
-      ]
-    },
-    {
-      "id": "tt0826760",
-      "type": "series",
-      "name": "The Killing: Crónica de un asesinato",
-      "posterShape": "poster",
-      "description": "Nordic noir danés con una investigación que se estira episodio a episodio, para quien disfruta reconstruir un caso paso a paso.\n\nAlgo nuevo",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/fr2JGWd99W55MaPQpdAWP448S6K.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_490"
+          "url": "https://t.me/Butacawillybot?start=seen_557"
         }
       ]
     },
@@ -37,7 +21,7 @@
       "type": "series",
       "name": "Babylon Berlin",
       "posterShape": "poster",
-      "description": "El Berlín de los años 20 lleno de intriga política y crimen, con la ambición narrativa de un drama coral como Fargo.\n\nAlgo nuevo",
+      "description": "Noir histórico en el Berlín de los años 20, con la atmósfera de misterio y conspiración de un buen clásico detectivesco.\n\nAlgo nuevo",
       "releaseInfo": "2017",
       "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
       "links": [
@@ -45,6 +29,134 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_138"
+        }
+      ]
+    },
+    {
+      "id": "tt7772588",
+      "type": "series",
+      "name": "Para toda la humanidad",
+      "posterShape": "poster",
+      "description": "Ucronía espacial donde la carrera lunar nunca termina, con la ciencia ficción de ideas que te dan Nolan o Scott.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_560"
+        }
+      ]
+    },
+    {
+      "id": "tt6077448",
+      "type": "series",
+      "name": "Juegos sagrados",
+      "posterShape": "poster",
+      "description": "Crimen y corrupción en los bajos fondos de Bombay, con la épica criminal a gran escala que tanto disfrutas en El padrino.\n\nAlgo nuevo",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/uEbNtFbK4At9WBDGap23lt1qO9n.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_562"
+        }
+      ]
+    },
+    {
+      "id": "tt11093718",
+      "type": "series",
+      "name": "Imperio",
+      "posterShape": "poster",
+      "description": "Saga histórica otomana con mitología propia y guerra de imperios, como si Juego de Tronos se trasladara al siglo XIII.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/6B4kOE4KYUVJfo2nXxp06p4Eivp.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_564"
+        }
+      ]
+    },
+    {
+      "id": "tt0055666",
+      "type": "series",
+      "name": "Combat",
+      "posterShape": "poster",
+      "description": "Serie bélica clásica de los 60 sobre un pelotón en la Segunda Guerra Mundial, con el peso dramático que valoras en Kubrick.\n\nAlgo nuevo",
+      "releaseInfo": "1962",
+      "poster": "https://image.tmdb.org/t/p/w342/4Xk9VQ5Xa6jkRHBINkHiRzRNgde.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_566"
+        }
+      ]
+    },
+    {
+      "id": "tt4236770",
+      "type": "series",
+      "name": "Yellowstone",
+      "posterShape": "poster",
+      "description": "Un patriarca y su familia luchan por un rancho, con la mezcla de clan criminal y lealtad de sangre que tanto disfrutas.\n\nAlgo nuevo",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_568"
+        }
+      ]
+    },
+    {
+      "id": "tt0386950",
+      "type": "series",
+      "name": "Mayday Catástrofes Aéreas",
+      "posterShape": "poster",
+      "description": "Cada episodio reconstruye un accidente aéreo y explica paso a paso su causa, puro ejercicio de deducción que tanto disfrutas.\n\nAlgo nuevo",
+      "releaseInfo": "2003",
+      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_569"
+        }
+      ]
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Operaciones Especiales: Lioness",
+      "posterShape": "poster",
+      "description": "Thriller de espías e infiltración de la CIA con el pulso de acción encubierta que conecta con tu gusto por lo bélico.\n\nAlgo nuevo",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_570"
+        }
+      ]
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam SEED",
+      "posterShape": "poster",
+      "description": "Anime mecha con guerra espacial y mitología propia entre colonias, un salto al robot gigante en la línea de Star Wars.\n\nAlgo nuevo",
+      "releaseInfo": "2002",
+      "poster": "https://image.tmdb.org/t/p/w342/uyUrtOMfgYMDtaxpggZmavWaXSL.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_571"
         }
       ]
     }

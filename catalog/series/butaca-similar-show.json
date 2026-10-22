@@ -1,66 +1,194 @@
 {
   "metas": [
     {
-      "id": "tt2149175",
+      "id": "tt2098220",
       "type": "series",
-      "name": "The Americans",
+      "name": "Hunter × Hunter",
       "posterShape": "poster",
-      "description": "Como en Slow Horses, el espionaje de la Guerra Fría se cuela en la vida de un matrimonio con doble identidad.\n\nSimilar a tus gustos",
-      "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "description": "Un shounen con la ambición narrativa y el mundo propio que valoras en Dragon Ball y One Piece, pero con más estrategia.\n\nSimilar a tus gustos",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_444"
+          "url": "https://t.me/Butacawillybot?start=seen_516"
         }
       ]
     },
     {
-      "id": "tt8001106",
+      "id": "tt12590266",
       "type": "series",
-      "name": "Giri/Haji: Deber/Deshonor",
+      "name": "Cyberpunk: Edgerunners",
       "posterShape": "poster",
-      "description": "Con el humor negro y los líos cruzados de The Gentlemen, un policía japonés persigue a su hermano entre Tokio y Londres.\n\nSimilar a tus gustos",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
+      "description": "Una distopía cyberpunk con la misma idea de tecnología descontrolada que te atrapó en Blade Runner y Terminator, en formato anime.\n\nSimilar a tus gustos",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_446"
+          "url": "https://t.me/Butacawillybot?start=seen_518"
         }
       ]
     },
     {
-      "id": "tt2303687",
+      "id": "tt5290382",
       "type": "series",
-      "name": "Line of Duty",
+      "name": "MINDHUNTER",
       "posterShape": "poster",
-      "description": "Si te gustó resolver el caso en Doce hombres sin piedad, aquí una unidad anticorrupción destapa policías corruptos caso a caso.\n\nSimilar a tus gustos",
-      "releaseInfo": "2012",
-      "poster": "https://image.tmdb.org/t/p/w342/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_448"
-        }
-      ]
-    },
-    {
-      "id": "tt5114356",
-      "type": "series",
-      "name": "Legión",
-      "posterShape": "poster",
-      "description": "Con la fantasía mental de X-Men '97 pero más oscura, un mutante debe separar lo real de lo que su mente inventa.\n\nSimilar a tus gustos",
+      "description": "Perfiles psicológicos de asesinos en serie con el mismo pulso de investigación y deducción que te gusta de los clásicos detectivescos.\n\nSimilar a tus gustos",
       "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fbKE87mojpIETWepSbD5Qt741fp.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_450"
+          "url": "https://t.me/Butacawillybot?start=seen_520"
+        }
+      ]
+    },
+    {
+      "id": "tt1489428",
+      "type": "series",
+      "name": "Justified: La ley de Raylan",
+      "posterShape": "poster",
+      "description": "Un marshal con ley propia frente a clanes criminales, con el diálogo afilado y los antihéroes carismáticos que tanto buscas.\n\nSimilar a tus gustos",
+      "releaseInfo": "2010",
+      "poster": "https://image.tmdb.org/t/p/w342/ie1quhMk09lDtvtAyQAHTu09R9Z.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_521"
+        }
+      ]
+    },
+    {
+      "id": "tt12074628",
+      "type": "series",
+      "name": "Smiling Friends",
+      "posterShape": "poster",
+      "description": "Humor absurdo y surrealista con tramas cortas e ideas rarísimas, en la línea del disparate inteligente que disfrutas con Monty Python.\n\nSimilar a tus gustos",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_523"
+        }
+      ]
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "Naruto",
+      "posterShape": "poster",
+      "description": "Mitología propia, torneos de poder y una saga que crece capítulo a capítulo, como el mundo que te atrapó en Dragon Ball.\n\nSimilar a tus gustos",
+      "releaseInfo": "2002",
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_525"
+        }
+      ]
+    },
+    {
+      "id": "tt7790776",
+      "type": "series",
+      "name": "Houseki no Kuni",
+      "posterShape": "poster",
+      "description": "Un futuro lejano con criaturas inmortales y una idea de fondo muy fuerte, para tu gusto por la ciencia ficción conceptual.\n\nSimilar a tus gustos",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/viEgkNkUhGeBhsV15mON4YRIftk.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_527"
+        }
+      ]
+    },
+    {
+      "id": "tt6951546",
+      "type": "series",
+      "name": "Animaniacs",
+      "posterShape": "poster",
+      "description": "Caos satírico y gags inteligentes con los mismos hermanos Warner ingeniosos que conectan con el humor que te gusta de los Simpson.\n\nSimilar a tus gustos",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_529"
+        }
+      ]
+    },
+    {
+      "id": "tt0476922",
+      "type": "series",
+      "name": "Moral Orel",
+      "posterShape": "poster",
+      "description": "Comedia negra en stop-motion que desmonta la hipocresía religiosa de un pueblo pequeño, con el filo del humor oscuro que buscas.\n\nSimilar a tus gustos",
+      "releaseInfo": "2005",
+      "poster": "https://image.tmdb.org/t/p/w342/1OSdgNEIYzCDYDmvJcGGBXgsAnR.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_531"
+        }
+      ]
+    },
+    {
+      "id": "tt0437745",
+      "type": "series",
+      "name": "Robot Chicken",
+      "posterShape": "poster",
+      "description": "Sketches satíricos y mordaces sobre cine y cultura pop, con el ingenio de South Park y Team America.\n\nSimilar a tus gustos",
+      "releaseInfo": "2005",
+      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_533"
+        }
+      ]
+    },
+    {
+      "id": "tt14837566",
+      "type": "series",
+      "name": "Capitán Laserhawk: Un remix de Blood Dragon",
+      "posterShape": "poster",
+      "description": "Un supersoldado cíborg en una sociedad distópica conecta con tu gusto por la ciencia ficción de ideas y la estética cyberpunk.\n\nSimilar a tus gustos",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/xo27H3RmU01DQSfRiikpTbUVrxZ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_535"
+        }
+      ]
+    },
+    {
+      "id": "tt10625492",
+      "type": "series",
+      "name": "El ocaso de los dioses",
+      "posterShape": "poster",
+      "description": "Mitología nórdica a gran escala con dioses y guerra, para tu gusto por el worldbuilding épico de Tolkien y Juego de Tronos.\n\nSimilar a tus gustos",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/m8kRULSibaOT7ganTCkd7NeDgAm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_537"
         }
       ]
     }

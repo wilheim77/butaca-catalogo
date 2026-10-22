@@ -1,11 +1,59 @@
 {
   "metas": [
     {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "El mentalista",
+      "posterShape": "poster",
+      "description": "Un detective que lee a la gente como Poirot, puro ingenio de deducción en cada caso, perfecta para ver juntos.\n\nEn familia",
+      "releaseInfo": "2008",
+      "poster": "https://image.tmdb.org/t/p/w342/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_423"
+        }
+      ]
+    },
+    {
+      "id": "tt5607976",
+      "type": "series",
+      "name": "La materia oscura",
+      "posterShape": "poster",
+      "description": "Mundos paralelos y una protagonista adolescente en una aventura de fantasía, ideal para ver con Izaro.\n\nEn familia",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_500"
+        }
+      ]
+    },
+    {
+      "id": "tt5897304",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "posterShape": "poster",
+      "description": "Un chaval con poderes psíquicos que solo quiere ser normal, comedia absurda con mucho corazón, apta para los dos.\n\nEn familia",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_582"
+        }
+      ]
+    },
+    {
       "id": "tt0460681",
       "type": "series",
       "name": "Sobrenatural",
       "posterShape": "poster",
-      "description": "Dos hermanos cazando monstruos por carretera, con el mismo gusto por el misterio sobrenatural bien contado que ya disfrutas.\n\nEn familia",
+      "description": "Hermanos cazando monstruos con una mitología que crece temporada a temporada, misterio de pista en pista para ver juntos.\n\nEn familia",
       "releaseInfo": "2005",
       "poster": "https://image.tmdb.org/t/p/w342/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
       "links": [
@@ -21,7 +69,7 @@
       "type": "series",
       "name": "Lo que hacemos en las sombras",
       "posterShape": "poster",
-      "description": "Vampiros compañeros de piso en clave de falso documental, con el humor absurdo que tanto disfrutas en Monty Python o Futurama.\n\nEn familia",
+      "description": "Vampiros con el mismo humor absurdo e ingenioso que tanto disfrutas en Monty Python, aquí en clave de mockumentary.\n\nEn familia",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
       "links": [
@@ -33,114 +81,66 @@
       ]
     },
     {
-      "id": "tt5607976",
+      "id": "tt3007572",
       "type": "series",
-      "name": "La materia oscura",
+      "name": "Locke & Key",
       "posterShape": "poster",
-      "description": "Una joven que cruza mundos paralelos buscando a un amigo, con la fantasía de mundo propio que tanto disfrutas.\n\nEn familia",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_500"
-        }
-      ]
-    },
-    {
-      "id": "tt11680468",
-      "type": "series",
-      "name": "El timador timado",
-      "posterShape": "poster",
-      "description": "Un estafador japonés se mete en líos de altos vuelos, con el ingenio de heist que te atrapó en Lupin o Berlín.\n\nEn familia",
+      "description": "Hermanos adolescentes, unas llaves mágicas y secretos de familia: misterio y fantasía ideal para ver con Izaro.\n\nEn familia",
       "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/F8GyqlAlKLEZ42ERAP2ymWc8MN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/OPL8TSMru7vqbxk8TwfBWCxByz.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_502"
+          "url": "https://t.me/Butacawillybot?start=seen_583"
         }
       ]
     },
     {
-      "id": "tt7120662",
+      "id": "tt2234222",
       "type": "series",
-      "name": "Derry Girls",
+      "name": "Orphan Black",
       "posterShape": "poster",
-      "description": "Comedia adolescente irlandesa de los 90, con el humor afilado que disfrutas y que a Izaro le hablará de su edad.\n\nEn familia",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg",
+      "description": "Ciencia ficción de identidad y clones, con la intriga de ideas que tanto te atrapa, apta para los dos.\n\nEn familia",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_503"
+          "url": "https://t.me/Butacawillybot?start=seen_584"
         }
       ]
     },
     {
-      "id": "tt2934286",
+      "id": "tt0083505",
       "type": "series",
-      "name": "Halo",
+      "name": "Los jóvenes",
       "posterShape": "poster",
-      "description": "Guerra espacial contra una amenaza alienígena, en la línea de espectáculo de ciencia ficción que te voló la cabeza con Alien o Matrix.\n\nEn familia",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/lfTm372lHNjQnnUwpdumVfUB0rh.jpg",
+      "description": "Humor anárquico y surrealista, heredero directo de Monty Python: gamberro pero con mucho ingenio detrás, para ver juntos.\n\nEn familia",
+      "releaseInfo": "1982",
+      "poster": "https://image.tmdb.org/t/p/w342/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_504"
+          "url": "https://t.me/Butacawillybot?start=seen_585"
         }
       ]
     },
     {
-      "id": "tt2661044",
+      "id": "tt1235547",
       "type": "series",
-      "name": "Los 100",
+      "name": "Better Off Ted",
       "posterShape": "poster",
-      "description": "Cien jóvenes enviados a una Tierra post-apocalíptica para sobrevivir, ciencia ficción con protagonistas de la edad de Izaro.\n\nEn familia",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
+      "description": "Sátira de oficina con humor inteligente sobre una empresa sin escrúpulos, ingenio por encima del gag fácil, apta para los dos.\n\nEn familia",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/tvmafNGqMFA03fJcbUXxjgzSToX.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_505"
-        }
-      ]
-    },
-    {
-      "id": "tt0118401",
-      "type": "series",
-      "name": "Los asesinatos de Midsomer",
-      "posterShape": "poster",
-      "description": "Misterio de pueblo inglés episodio a episodio, en la tradición de Agatha Christie que ya disfrutas.\n\nEn familia",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_507"
-        }
-      ]
-    },
-    {
-      "id": "tt1196946",
-      "type": "series",
-      "name": "El mentalista",
-      "posterShape": "poster",
-      "description": "Un exmédium que lee a la gente para resolver casos, el puzzle de deducción que te gusta al estilo Sherlock Holmes.\n\nEn familia",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_423"
+          "url": "https://t.me/Butacawillybot?start=seen_586"
         }
       ]
     }
