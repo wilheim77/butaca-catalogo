@@ -22,27 +22,6 @@
       ]
     },
     {
-      "id": "tt36517689",
-      "type": "series",
-      "name": "THE GHOST IN THE SHELL",
-      "posterShape": "poster",
-      "description": "Si te va el cyberpunk de ideas: en el Japón de 2029 una cíborg se enfrenta a una conspiración de hackers.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/n0YA8GrukYlUnskWZzDjGIh24BY.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_251"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_251"
-        }
-      ]
-    },
-    {
       "id": "tt39395275",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
@@ -81,27 +60,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_590"
-        }
-      ]
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "posterShape": "poster",
-      "description": "Te presentamos a una IA que huye de quienes quieren convertirla en arma, con Paul Bettany dando voz a Visión.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_348"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_348"
         }
       ]
     },
