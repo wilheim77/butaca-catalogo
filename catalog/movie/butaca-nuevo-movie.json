@@ -1,86 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt0485947",
+      "id": "tt0156887",
       "type": "movie",
-      "name": "Las vidas posibles de Mr. Nobody",
+      "name": "Perfect Blue",
       "posterShape": "poster",
-      "description": "Como en Interstellar, el tiempo se bifurca en esta rareza francesa donde cada decisión abre una vida distinta para vivir.\n\nAlgo nuevo",
-      "releaseInfo": "2009",
-      "poster": "https://image.tmdb.org/t/p/w342/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg",
+      "description": "Anime psicológico japonés sobre una ídolo pop acosada, que juega con la realidad hasta encajar todas las piezas.\n\nAlgo nuevo",
+      "releaseInfo": "1998",
+      "poster": "https://image.tmdb.org/t/p/w342/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_556"
+          "url": "https://t.me/Butacawillybot?start=seen_643"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_556"
-        }
-      ]
-    },
-    {
-      "id": "tt0405094",
-      "type": "movie",
-      "name": "La vida de los otros",
-      "posterShape": "poster",
-      "description": "Un thriller alemán de vigilancia y moral en la Guerra Fría, con la tensión silenciosa que tanto disfrutas en Hitchcock.\n\nAlgo nuevo",
-      "releaseInfo": "2006",
-      "poster": "https://image.tmdb.org/t/p/w342/huApj1ufTmVTDcKqi2SY3zmqcyJ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_558"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_558"
-        }
-      ]
-    },
-    {
-      "id": "tt0457430",
-      "type": "movie",
-      "name": "El laberinto del fauno",
-      "posterShape": "poster",
-      "description": "Fantasía oscura en la España de posguerra, con el peso dramático bélico que valoras en Coppola o Kubrick.\n\nAlgo nuevo",
-      "releaseInfo": "2006",
-      "poster": "https://image.tmdb.org/t/p/w342/gWPkUFGlO7ZIiArUcWRBmvAwVjB.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_559"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_559"
-        }
-      ]
-    },
-    {
-      "id": "tt0338564",
-      "type": "movie",
-      "name": "Juego sucio (Infernal Affairs)",
-      "posterShape": "poster",
-      "description": "Topos cruzados entre policía y mafia en Hong Kong, con el pulso criminal que te atrapa en Scorsese.\n\nAlgo nuevo",
-      "releaseInfo": "2002",
-      "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_561"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_561"
+          "url": "https://t.me/Butacawillybot?start=nope_643"
         }
       ]
     },
@@ -89,7 +26,7 @@
       "type": "movie",
       "name": "Whiplash",
       "posterShape": "poster",
-      "description": "Un conservatorio de jazz se convierte en campo de batalla psicológico, con la tensión de poder que buscas más allá del crimen.\n\nAlgo nuevo",
+      "description": "Un drama de jazz sobre la obsesión de un batería y su profesor, tan tenso como un thriller de una sola idea.\n\nAlgo nuevo",
       "releaseInfo": "2014",
       "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
       "links": [
@@ -106,11 +43,158 @@
       ]
     },
     {
+      "id": "tt0065531",
+      "type": "movie",
+      "name": "Círculo rojo",
+      "posterShape": "poster",
+      "description": "Un atraco francés de los setenta, con ladrones taciturnos y un plan milimétrico que recuerda al mejor cine de gánsteres.\n\nAlgo nuevo",
+      "releaseInfo": "1970",
+      "poster": "https://image.tmdb.org/t/p/w342/ezov5DqBaCnXR7nPwpqqQ01Iavy.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_646"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_646"
+        }
+      ]
+    },
+    {
+      "id": "tt0096163",
+      "type": "movie",
+      "name": "Desaparecida",
+      "posterShape": "poster",
+      "description": "Misterio holandés sobre una desaparición sin rastro, con un enigma que se revela pieza a pieza hasta el final.\n\nAlgo nuevo",
+      "releaseInfo": "1988",
+      "poster": "https://image.tmdb.org/t/p/w342/6pBloz1mwz8S0gYjUao6iUoyCng.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_648"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_648"
+        }
+      ]
+    },
+    {
+      "id": "tt0071994",
+      "type": "movie",
+      "name": "El fantasma del paraíso",
+      "posterShape": "poster",
+      "description": "De Palma, al que le diste un 9, firma esta sátira musical de terror sobre un productor obsesionado con el sonido perfecto.\n\nAlgo nuevo",
+      "releaseInfo": "1974",
+      "poster": "https://image.tmdb.org/t/p/w342/aY1dUNxJWXlvZiBIfBaj3GNR10P.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_649"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_649"
+        }
+      ]
+    },
+    {
+      "id": "tt0082085",
+      "type": "movie",
+      "name": "Impacto",
+      "posterShape": "poster",
+      "description": "Otro De Palma, al que le diste un 9, con un técnico de sonido atrapado en una conspiración que no debía oír.\n\nAlgo nuevo",
+      "releaseInfo": "1981",
+      "poster": "https://image.tmdb.org/t/p/w342/vbHo8X0Zpny7rSovAdAEJeXVRwK.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_651"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_651"
+        }
+      ]
+    },
+    {
+      "id": "tt1186830",
+      "type": "movie",
+      "name": "Ágora",
+      "posterShape": "poster",
+      "description": "De Amenábar, al que le diste un 9, una epopeya en la Alejandría antigua sobre ciencia y fe enfrentadas.\n\nAlgo nuevo",
+      "releaseInfo": "2009",
+      "poster": "https://image.tmdb.org/t/p/w342/9geLqKZ87tgFBS7GuivL5UWelQu.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_652"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_652"
+        }
+      ]
+    },
+    {
+      "id": "tt7818580",
+      "type": "movie",
+      "name": "Mientras dure la guerra",
+      "posterShape": "poster",
+      "description": "También de Amenábar, al que le diste un 9, un drama sobre el estallido de la Guerra Civil española.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_654"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_654"
+        }
+      ]
+    },
+    {
+      "id": "tt0068762",
+      "type": "movie",
+      "name": "Las aventuras de Jeremiah Johnson",
+      "posterShape": "poster",
+      "description": "Escrita por Milius, al que le diste un 9, la historia de un soldado que elige la montaña y la supervivencia salvaje.\n\nAlgo nuevo",
+      "releaseInfo": "1972",
+      "poster": "https://image.tmdb.org/t/p/w342/bsUDN5vJbVdyL7GLynDiQTEGKCL.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_655"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_655"
+        }
+      ]
+    },
+    {
       "id": "tt0065988",
       "type": "movie",
       "name": "Pequeño gran hombre",
       "posterShape": "poster",
-      "description": "Western revisionista y gamberro de los 70, narrado con el humor negro absurdo que amas en Monty Python.\n\nAlgo nuevo",
+      "description": "Western de los setenta con Dustin Hoffman, que repasa el salvaje oeste desde el humor y la tragedia a la vez.\n\nAlgo nuevo",
       "releaseInfo": "1970",
       "poster": "https://image.tmdb.org/t/p/w342/6JrDqq9qFHaDpBuaCipQS75rlux.jpg",
       "links": [
@@ -123,27 +207,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_565"
-        }
-      ]
-    },
-    {
-      "id": "tt2948372",
-      "type": "movie",
-      "name": "Soul",
-      "posterShape": "poster",
-      "description": "Animación con alma filosófica sobre el propósito vital, firmada por Pete Docter como Del revés, pero en clave de jazz.\n\nAlgo nuevo",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_567"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_567"
         }
       ]
     }

@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "El castillo ambulante",
       "posterShape": "poster",
-      "description": "Si te gustó Mi vecino Totoro, aquí tienes otra fantasía de Miyazaki con la misma magia visual, perfecta con Izaro.\n\nEn familia",
+      "description": "Una fantasía de Miyazaki con magia y castillos voladores, ideal para disfrutar con Izaro sin nada infantil.\n\nEn familia",
       "releaseInfo": "2004",
       "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
       "links": [
@@ -22,23 +22,128 @@
       ]
     },
     {
-      "id": "tt31349844",
+      "id": "tt0446029",
       "type": "movie",
-      "name": "Entrega al límite",
+      "name": "Scott Pilgrim contra el mundo",
       "posterShape": "poster",
-      "description": "Acción trepidante y gamberra, en la línea del cine pulp ochentero que tanto disfrutas, ideal para ver con Izaro.\n\nEn familia",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "description": "Comedia de acción con ritmo de videojuego y romance adolescente, perfecta para ver juntos sin aburrir a nadie.\n\nEn familia",
+      "releaseInfo": "2010",
+      "poster": "https://image.tmdb.org/t/p/w342/fgrVbga0oZQNeljO6dyoWknjOzJ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_581"
+          "url": "https://t.me/Butacawillybot?start=seen_665"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_581"
+          "url": "https://t.me/Butacawillybot?start=nope_665"
+        }
+      ]
+    },
+    {
+      "id": "tt10473036",
+      "type": "movie",
+      "name": "El asombroso Mauricio",
+      "posterShape": "poster",
+      "description": "Si te gustó Shrek, esta fantasía animada basada en Pratchett tiene ese mismo ingenio con gato callejero y ratas parlantes.\n\nEn familia",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_666"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_666"
+        }
+      ]
+    },
+    {
+      "id": "tt35522483",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "posterShape": "poster",
+      "description": "Con el mismo espíritu de Aterriza como puedas: comedia absurda y un viaje en el tiempo accidental muy gamberro.\n\nEn familia",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/9Apspq38jYxPHOlufG2XRbvEXxj.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_668"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_668"
+        }
+      ]
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "El final de Oak Street",
+      "posterShape": "poster",
+      "description": "Un fenómeno cósmico arranca una calle entera de su barrio y obliga a una familia a sobrevivir unida, misterio con ciencia ficción.\n\nEn familia",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_669"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_669"
+        }
+      ]
+    },
+    {
+      "id": "tt11657662",
+      "type": "movie",
+      "name": "The Witcher: La pesadilla del lobo",
+      "posterShape": "poster",
+      "description": "Si te gustó Conan el bárbaro, esta fantasía animada de monstruos y magia tiene ese mismo pulso de aventura oscura.\n\nEn familia",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/y76K8SvpzFQ8gkp3lMmeoB7I6WN.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_671"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_671"
+        }
+      ]
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "En el corazón de la bestia",
+      "posterShape": "poster",
+      "description": "Una aventura de supervivencia en la naturaleza salvaje de Alaska, con Brad Pitt y su perro de combate tras un accidente.\n\nEn familia",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_673"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_673"
         }
       ]
     }

@@ -1,149 +1,107 @@
 {
   "metas": [
     {
-      "id": "tt7668870",
+      "id": "tt0025878",
       "type": "movie",
-      "name": "Searching",
+      "name": "La cena de los acusados",
       "posterShape": "poster",
-      "description": "Como Contratiempo, pero contada solo a través de pantallas: una idea sencilla que atrapa desde el primer minuto.\n\nPara ver en pareja",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/dhluarMp34GfG369Y1aH2F6lAvC.jpg",
+      "description": "Un detective y su mujer resuelven un asesinato a base de ingenio y réplicas rápidas, con mucho encanto clásico.\n\nPara ver en pareja",
+      "releaseInfo": "1934",
+      "poster": "https://image.tmdb.org/t/p/w342/bSTwEucUoveVCm4lhpDCZNbKKYf.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_572"
+          "url": "https://t.me/Butacawillybot?start=seen_656"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_572"
+          "url": "https://t.me/Butacawillybot?start=nope_656"
         }
       ]
     },
     {
-      "id": "tt2084970",
+      "id": "tt0056923",
       "type": "movie",
-      "name": "The Imitation Game (Descifrando Enigma)",
+      "name": "Charada",
       "posterShape": "poster",
-      "description": "Un genio solitario descifra un código en plena guerra, con el peso dramático que buscas en tu cine bélico e histórico.\n\nPara ver en pareja",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "description": "Espionaje con humor en el París de los 60, con Cary Grant y Audrey Hepburn llevando el misterio con mucha elegancia.\n\nPara ver en pareja",
+      "releaseInfo": "1963",
+      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_573"
+          "url": "https://t.me/Butacawillybot?start=seen_658"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_573"
+          "url": "https://t.me/Butacawillybot?start=nope_658"
         }
       ]
     },
     {
-      "id": "tt9484998",
+      "id": "tt0373469",
       "type": "movie",
-      "name": "Palm Springs",
+      "name": "Kiss Kiss Bang Bang",
       "posterShape": "poster",
-      "description": "Un bucle de tiempo que reordena el mismo día una y otra vez, con el ingenio ligero perfecto para ver en pareja.\n\nPara ver en pareja",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/eYNS3rNpLDxx5NJ16dwczAf4a7e.jpg",
+      "description": "Comedia criminal con Robert Downey Jr. y Val Kilmer metidos en un lío de asesinatos en Los Ángeles, muy ingeniosa.\n\nPara ver en pareja",
+      "releaseInfo": "2005",
+      "poster": "https://image.tmdb.org/t/p/w342/yMAoom93EhCzp39vG59ka42hGIk.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_575"
+          "url": "https://t.me/Butacawillybot?start=seen_659"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_575"
+          "url": "https://t.me/Butacawillybot?start=nope_659"
         }
       ]
     },
     {
-      "id": "tt0076729",
+      "id": "tt0088930",
       "type": "movie",
-      "name": "Los caraduras",
+      "name": "El juego de la sospecha (Cluedo)",
       "posterShape": "poster",
-      "description": "Una persecución gamberra de los 70 con compinches carismáticos, puro pulp de carretera al estilo que tanto disfrutas de esa década.\n\nPara ver en pareja",
-      "releaseInfo": "1977",
-      "poster": "https://image.tmdb.org/t/p/w342/1QhXk2eyso4DvB8Viw70fJUWlwB.jpg",
+      "description": "Un whodunit de mansión con chantajes y sospechosos encerrados que invita a adivinar juntos quién fue.\n\nPara ver en pareja",
+      "releaseInfo": "1985",
+      "poster": "https://image.tmdb.org/t/p/w342/vhrmZCkFkg2rtn7laiFzqwyVxky.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_576"
+          "url": "https://t.me/Butacawillybot?start=seen_661"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_576"
+          "url": "https://t.me/Butacawillybot?start=nope_661"
         }
       ]
     },
     {
-      "id": "tt0085995",
+      "id": "tt14138650",
       "type": "movie",
-      "name": "Las vacaciones de una chiflada familia americana",
+      "name": "Los crímenes de la academia",
       "posterShape": "poster",
-      "description": "Un viaje familiar que se tuerce a cada kilómetro, con el humor absurdo y gamberro que conecta con tu gusto por esa época.\n\nPara ver en pareja",
-      "releaseInfo": "1983",
-      "poster": "https://image.tmdb.org/t/p/w342/b2QxfHag6RKOigl66PS62K1CPFd.jpg",
+      "description": "En la línea de misterio gótico de Sleepy Hollow, que te dio un 9, aquí un detective investiga crímenes en West Point junto a un joven Poe.\n\nPara ver en pareja",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/q6xHynnnKepa4WUfqpwUlJjFuec.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_577"
+          "url": "https://t.me/Butacawillybot?start=seen_663"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_577"
-        }
-      ]
-    },
-    {
-      "id": "tt0102059",
-      "type": "movie",
-      "name": "Hot Shots!",
-      "posterShape": "poster",
-      "description": "Parodia con ingenio propio al estilo Aterriza como puedas, gags inteligentes sobre pilotos sin caer en el chiste fácil.\n\nPara ver en pareja",
-      "releaseInfo": "1991",
-      "poster": "https://image.tmdb.org/t/p/w342/iFhJA8CAl5rxH9zrfgj01SB5fNg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_578"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_578"
-        }
-      ]
-    },
-    {
-      "id": "tt28014327",
-      "type": "movie",
-      "name": "Mayday",
-      "posterShape": "poster",
-      "description": "Un piloto y un ex agente del KGB forzados a aliarse tras las líneas enemigas, en la línea gamberra de Aterriza como puedas.\n\nPara ver en pareja",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_579"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_579"
+          "url": "https://t.me/Butacawillybot?start=nope_663"
         }
       ]
     }

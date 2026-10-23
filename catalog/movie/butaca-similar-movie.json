@@ -1,11 +1,95 @@
 {
   "metas": [
     {
+      "id": "tt0106519",
+      "type": "movie",
+      "name": "Atrapado por su pasado",
+      "posterShape": "poster",
+      "description": "De Brian De Palma, el director que ya te encanta, con Al Pacino como ex traficante atrapado en un mundo de gánsteres.\n\nSimilar a tus gustos",
+      "releaseInfo": "1993",
+      "poster": "https://image.tmdb.org/t/p/w342/yX9vWug1cGtJ6hKhLZDz4fR71Zy.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_595"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_595"
+        }
+      ]
+    },
+    {
+      "id": "tt0087843",
+      "type": "movie",
+      "name": "Érase una vez en América",
+      "posterShape": "poster",
+      "description": "Una épica criminal de Sergio Leone con Robert De Niro, sobre la amistad y ambición de un gángster judío en Nueva York.\n\nSimilar a tus gustos",
+      "releaseInfo": "1984",
+      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_597"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_597"
+        }
+      ]
+    },
+    {
+      "id": "tt0072684",
+      "type": "movie",
+      "name": "Barry Lyndon",
+      "posterShape": "poster",
+      "description": "De Stanley Kubrick, como La naranja mecánica que tanto te marcó, un drama histórico del siglo XVIII con Ryan O'Neal.\n\nSimilar a tus gustos",
+      "releaseInfo": "1975",
+      "poster": "https://image.tmdb.org/t/p/w342/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_599"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_599"
+        }
+      ]
+    },
+    {
+      "id": "tt0106489",
+      "type": "movie",
+      "name": "Una historia del Bronx",
+      "posterShape": "poster",
+      "description": "Como El padrino, un retrato de lealtad y gangsterismo, pero dirigido por Robert De Niro delante y detrás de cámara.\n\nSimilar a tus gustos",
+      "releaseInfo": "1993",
+      "poster": "https://image.tmdb.org/t/p/w342/mwW3SOA1SSxySZQRI7tx7Wo3kLy.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_601"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_601"
+        }
+      ]
+    },
+    {
       "id": "tt0364569",
       "type": "movie",
       "name": "Old Boy",
       "posterShape": "poster",
-      "description": "Una venganza obsesiva con un punto de partida muy fuerte, en la línea oscura que te atrapó en Fargo.\n\nSimilar a tus gustos",
+      "description": "Misterio surcoreano de Park Chan-wook sobre un hombre que busca respuestas tras años de encierro injusto.\n\nSimilar a tus gustos",
       "releaseInfo": "2003",
       "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
       "links": [
@@ -22,275 +106,149 @@
       ]
     },
     {
-      "id": "tt2267998",
+      "id": "tt2948372",
       "type": "movie",
-      "name": "Perdida",
+      "name": "Soul",
       "posterShape": "poster",
-      "description": "La desaparición de una esposa destapa las grietas de un matrimonio, con la tensión detectivesca que te gusta de Hitchcock.\n\nSimilar a tus gustos",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "description": "De Pete Docter, el director de Pixar que ya te encantó, explorando con alma e imaginación las grandes preguntas de la vida.\n\nSimilar a tus gustos",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_517"
+          "url": "https://t.me/Butacawillybot?start=seen_604"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_517"
+          "url": "https://t.me/Butacawillybot?start=nope_604"
         }
       ]
     },
     {
-      "id": "tt0040746",
+      "id": "tt2584384",
       "type": "movie",
-      "name": "La soga",
+      "name": "Jojo Rabbit",
       "posterShape": "poster",
-      "description": "Una cena de antiguos alumnos se convierte en un duelo filosófico sobre el crimen perfecto, con Hitchcock en su vena más intelectual.\n\nSimilar a tus gustos",
-      "releaseInfo": "1948",
-      "poster": "https://image.tmdb.org/t/p/w342/25ScofCCdU4XtkiGv8nhbZ7nIX5.jpg",
+      "description": "Comedia satírica ambientada en la Segunda Guerra Mundial, con el humor negro que disfrutas mezclado con un drama bélico profundo.\n\nSimilar a tus gustos",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_519"
+          "url": "https://t.me/Butacawillybot?start=seen_606"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_519"
+          "url": "https://t.me/Butacawillybot?start=nope_606"
         }
       ]
     },
     {
-      "id": "tt0069281",
+      "id": "tt0113568",
       "type": "movie",
-      "name": "La huella",
+      "name": "Ghost in the Shell",
       "posterShape": "poster",
-      "description": "Dos hombres y una mansión de juguetes de ingenio libran un duelo de astucia, con la economía de medios que te atrapa.\n\nSimilar a tus gustos",
-      "releaseInfo": "1972",
-      "poster": "https://image.tmdb.org/t/p/w342/vGZrvkCm0FSKvjuPnu1svE3pNls.jpg",
+      "description": "Anime japonés de ciencia ficción con una inteligencia artificial que cuestiona qué significa ser humano en un futuro casi distópico.\n\nSimilar a tus gustos",
+      "releaseInfo": "1995",
+      "poster": "https://image.tmdb.org/t/p/w342/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_443"
+          "url": "https://t.me/Butacawillybot?start=seen_608"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_443"
+          "url": "https://t.me/Butacawillybot?start=nope_608"
         }
       ]
     },
     {
-      "id": "tt0046911",
+      "id": "tt0092067",
       "type": "movie",
-      "name": "Las diabólicas",
+      "name": "El castillo en el cielo",
       "posterShape": "poster",
-      "description": "Dos mujeres hartas de un marido tirano traman un plan juntas, con el misterio clásico que conecta con Hitchcock.\n\nSimilar a tus gustos",
-      "releaseInfo": "1955",
-      "poster": "https://image.tmdb.org/t/p/w342/eX2SM3UECXJgrGknXHdYS2veReS.jpg",
+      "description": "Animación de Hayao Miyazaki sobre una huérfana que descubre un cristal que la une a una civilización perdida entre las nubes.\n\nSimilar a tus gustos",
+      "releaseInfo": "1986",
+      "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_522"
+          "url": "https://t.me/Butacawillybot?start=seen_610"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_522"
+          "url": "https://t.me/Butacawillybot?start=nope_610"
         }
       ]
     },
     {
-      "id": "tt0038355",
+      "id": "tt2166834",
       "type": "movie",
-      "name": "El sueño eterno",
+      "name": "Batman: El regreso del Caballero Oscuro, Parte 2",
       "posterShape": "poster",
-      "description": "El detective Philip Marlowe investiga un caso enrevesado con calma y cinismo, puro misterio clásico de pistas como te gustan.\n\nSimilar a tus gustos",
-      "releaseInfo": "1946",
-      "poster": "https://image.tmdb.org/t/p/w342/hkKuvY7u4cOFF3nfCSLewVKGRai.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_524"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_524"
-        }
-      ]
-    },
-    {
-      "id": "tt0036342",
-      "type": "movie",
-      "name": "La sombra de una duda",
-      "posterShape": "poster",
-      "description": "Un tío encantador llega a un pueblo tranquilo y despierta sospechas en su sobrina, con la tensión doméstica típica de Hitchcock.\n\nSimilar a tus gustos",
-      "releaseInfo": "1943",
-      "poster": "https://image.tmdb.org/t/p/w342/kF40hCjwn5X1GbT57d2xIALeGHF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_526"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_526"
-        }
-      ]
-    },
-    {
-      "id": "tt0117381",
-      "type": "movie",
-      "name": "Las dos caras de la verdad",
-      "posterShape": "poster",
-      "description": "Un abogado ambicioso defiende un caso imposible en un juicio por asesinato, con el pulso criminal que tanto te gusta.\n\nSimilar a tus gustos",
-      "releaseInfo": "1996",
-      "poster": "https://image.tmdb.org/t/p/w342/8EkX8965Hb2hZdkpEcFShrlrklw.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_528"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_528"
-        }
-      ]
-    },
-    {
-      "id": "tt0064169",
-      "type": "movie",
-      "name": "El clan de los sicilianos",
-      "posterShape": "poster",
-      "description": "Un golpe europeo organizado por un viejo clan siciliano reúne gánsteres con código propio, en la línea de Coppola y Scorsese.\n\nSimilar a tus gustos",
-      "releaseInfo": "1969",
-      "poster": "https://image.tmdb.org/t/p/w342/rOEYSSBrO9KIHWVCxVp6SZflJHW.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_530"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_530"
-        }
-      ]
-    },
-    {
-      "id": "tt0824747",
-      "type": "movie",
-      "name": "El intercambio",
-      "posterShape": "poster",
-      "description": "Una madre choca con la corrupción policial de Los Ángeles al buscar a su hijo, con el drama histórico que valoras.\n\nSimilar a tus gustos",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/rqMNyKVQII7FWpW3QSe3H6sbhex.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_532"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_532"
-        }
-      ]
-    },
-    {
-      "id": "tt0292963",
-      "type": "movie",
-      "name": "Antes que el diablo sepa que has muerto",
-      "posterShape": "poster",
-      "description": "Dos hermanos desesperados por dinero se meten en un plan arriesgado, con el tono de antihéroes al límite que disfrutas en Tarantino.\n\nSimilar a tus gustos",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/JlwN2hZIdluVIVwWNrLjfeoJ7k.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_534"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_534"
-        }
-      ]
-    },
-    {
-      "id": "tt0203119",
-      "type": "movie",
-      "name": "Sexy Beast",
-      "posterShape": "poster",
-      "description": "Un gánster retirado en España recibe la visita de un viejo compinche insistente, con el diálogo afilado del crimen británico.\n\nSimilar a tus gustos",
-      "releaseInfo": "2001",
-      "poster": "https://image.tmdb.org/t/p/w342/6P7hx0JR9m38P01ToCPCx13wYHJ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_536"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_536"
-        }
-      ]
-    },
-    {
-      "id": "tt0067128",
-      "type": "movie",
-      "name": "Asesino implacable",
-      "posterShape": "poster",
-      "description": "Un gánster británico de los 70 investiga la muerte de su hermano, con el tono pulp y gamberro que tanto valoras.\n\nSimilar a tus gustos",
-      "releaseInfo": "1971",
-      "poster": "https://image.tmdb.org/t/p/w342/d41oM8IPJjakqEmqcG3pXAQ11Hy.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_538"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_538"
-        }
-      ]
-    },
-    {
-      "id": "tt1924429",
-      "type": "movie",
-      "name": "En trance",
-      "posterShape": "poster",
-      "description": "Un robo de arte se complica cuando el ladrón pierde la memoria del escondite, con el puzzle narrativo que te atrapa.\n\nSimilar a tus gustos",
+      "description": "Como X-Men, que te gustó, esta animación de superhéroes con tono oscuro y distópico está basada en una novela gráfica.\n\nSimilar a tus gustos",
       "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/doqPDahogP1zyjOwdmOygCWTCaO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vTpZl5n7wxyxhZZINd3gDVaEGhk.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_539"
+          "url": "https://t.me/Butacawillybot?start=seen_612"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_539"
+          "url": "https://t.me/Butacawillybot?start=nope_612"
+        }
+      ]
+    },
+    {
+      "id": "tt0052216",
+      "type": "movie",
+      "name": "Rufufú",
+      "posterShape": "poster",
+      "description": "Comedia italiana clásica de atracos con un grupo de ladrones torpes planeando el golpe perfecto, con ingenio y mala suerte.\n\nSimilar a tus gustos",
+      "releaseInfo": "1958",
+      "poster": "https://image.tmdb.org/t/p/w342/dicsLg5NGUvznacv8J7VtDK0jC6.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_614"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_614"
+        }
+      ]
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "posterShape": "poster",
+      "description": "Thriller de ciencia ficción sobre un androide con IA creado para aliviar un duelo que acaba volviéndose siniestro.\n\nSimilar a tus gustos",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_616"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_616"
         }
       ]
     }

@@ -1,44 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt0118363",
+      "id": "tt0081874",
       "type": "series",
-      "name": "Jonathan Creek",
+      "name": "Guía del autoestopista galáctico",
       "posterShape": "poster",
-      "description": "Detective británico de pistas y deducción, en la línea de Poirot y Colombo que marcaste como favoritos.\n\nPoco conocidas",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w342/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+      "description": "Sátira espacial británica de Douglas Adams: humor absurdo e ideas de ciencia ficción en episodios de media hora.\n\nPoco conocidas",
+      "releaseInfo": "1981",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_547"
+          "url": "https://t.me/Butacawillybot?start=seen_633"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_547"
-        }
-      ]
-    },
-    {
-      "id": "tt1888075",
-      "type": "series",
-      "name": "Crimen en el paraíso",
-      "posterShape": "poster",
-      "description": "Whodunit caribeño con detective huraño y pistas bien plantadas, al estilo de Poirot que tanto disfrutas.\n\nPoco conocidas",
-      "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_387"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_387"
+          "url": "https://t.me/Butacawillybot?start=nope_633"
         }
       ]
     },
@@ -47,7 +26,7 @@
       "type": "series",
       "name": "Giri/Haji: Deber/Deshonor",
       "posterShape": "poster",
-      "description": "Yakuza y policía cruzando Londres y Tokio, con el pulso criminal que disfrutas en el cine de gánsteres.\n\nPoco conocidas",
+      "description": "Un policía busca a su hermano asesino entre Londres y Tokio, con la yakuza y el crimen organizado de fondo.\n\nPoco conocidas",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
       "links": [
@@ -64,44 +43,107 @@
       ]
     },
     {
-      "id": "tt4445154",
+      "id": "tt0080306",
       "type": "series",
-      "name": "Deutschland 83",
+      "name": "Sí, ministro",
       "posterShape": "poster",
-      "description": "Espionaje de Guerra Fría con el peso histórico y dramático que valoras en el cine bélico.\n\nPoco conocidas",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/4fuXvK2RSPrDupmiidke165u7lt.jpg",
+      "description": "Sátira política británica sobre un ministro y sus asesores, con el ingenio fino que valoras en el humor inteligente.\n\nPoco conocidas",
+      "releaseInfo": "1980",
+      "poster": "https://image.tmdb.org/t/p/w342/2tFCZsypLY6UuRVEZVUeKqJsJAZ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_474"
+          "url": "https://t.me/Butacawillybot?start=seen_636"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_474"
+          "url": "https://t.me/Butacawillybot?start=nope_636"
         }
       ]
     },
     {
-      "id": "tt21056886",
+      "id": "tt1020116",
       "type": "series",
-      "name": "Planeta de recolectores",
+      "name": "Boris",
       "posterShape": "poster",
-      "description": "Náufragos en un planeta extraño y hermoso, ciencia ficción de ideas con atmósfera, como en Alien.\n\nPoco conocidas",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/iMGhp7CG8pwt3o5VdeVjUEvhzfT.jpg",
+      "description": "Comedia italiana que parodia desde dentro el rodaje de una serie, con mirada satírica sobre el negocio audiovisual.\n\nPoco conocidas",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_553"
+          "url": "https://t.me/Butacawillybot?start=seen_638"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_553"
+          "url": "https://t.me/Butacawillybot?start=nope_638"
+        }
+      ]
+    },
+    {
+      "id": "tt23181168",
+      "type": "series",
+      "name": "Nuestro universo",
+      "posterShape": "poster",
+      "description": "Como Cosmos, que valoraste con un 9: un recorrido documental por la historia del universo y su conexión con la Tierra.\n\nPoco conocidas",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_640"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_640"
+        }
+      ]
+    },
+    {
+      "id": "tt1051155",
+      "type": "series",
+      "name": "El Universo",
+      "posterShape": "poster",
+      "description": "Como Cosmos, que puntuaste con un 9: cincuenta años de exploración espacial repasados en clave divulgativa.\n\nPoco conocidas",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/JTPgM9mDjocqVJk6Xp4qGUcR9e.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_641"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_641"
+        }
+      ]
+    },
+    {
+      "id": "tt0108914",
+      "type": "series",
+      "name": "三国演义",
+      "posterShape": "poster",
+      "description": "Serie china de 1994 sobre la guerra entre dinastías feudales, una épica histórica a gran escala muy poco vista fuera de China.\n\nPoco conocidas",
+      "releaseInfo": "1994",
+      "poster": "https://image.tmdb.org/t/p/w342/uDBCI4WlTNgiielf52HFKwYVseM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_642"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_642"
         }
       ]
     }

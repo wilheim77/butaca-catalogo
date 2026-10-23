@@ -1,53 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0072500",
-      "type": "series",
-      "name": "Hotel Fawlty",
-      "posterShape": "poster",
-      "description": "John Cleese al límite de los nervios en un hotel a pique, con el humor absurdo de Monty Python en formato sitcom.\n\nClásicos que te faltan",
-      "releaseInfo": "1975",
-      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_290"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_290"
-        }
-      ]
-    },
-    {
-      "id": "tt0084988",
-      "type": "series",
-      "name": "La víbora negra",
-      "posterShape": "poster",
-      "description": "Rowan Atkinson antes de Mr. Bean, con la mordacidad histórica y la sátira inteligente que te conquistó en La vida de Brian.\n\nClásicos que te faltan",
-      "releaseInfo": "1983",
-      "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_292"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_292"
-        }
-      ]
-    },
-    {
       "id": "tt0083466",
       "type": "series",
       "name": "Police Squad!",
       "posterShape": "poster",
-      "description": "De los mismos creadores de Aterriza como puedas, la misma parodia policial con chistes visuales que no necesita spoof barato.\n\nClásicos que te faltan",
+      "description": "Los creadores de Aterriza como puedas fichan a Leslie Nielsen para esta parodia policial de humor absurdo y gags visuales.\n\nClásicos que te faltan",
       "releaseInfo": "1982",
       "poster": "https://image.tmdb.org/t/p/w342/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
       "links": [
@@ -64,32 +22,11 @@
       ]
     },
     {
-      "id": "tt0096684",
-      "type": "series",
-      "name": "A través del tiempo",
-      "posterShape": "poster",
-      "description": "Un científico salta de vida en vida cambiando el pasado, con la idea de ciencia ficción que tanto te gusta en Origen.\n\nClásicos que te faltan",
-      "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_377"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_377"
-        }
-      ]
-    },
-    {
       "id": "tt0056751",
       "type": "series",
       "name": "Doctor Who",
       "posterShape": "poster",
-      "description": "Una mitología propia que se expande década tras década, para cuando quieras una saga de ciencia ficción con continuidad como Star Wars.\n\nClásicos que te faltan",
+      "description": "Si le diste un 9 a Prison Break, aquí el origen de una space opera con mitología propia y viajes en el tiempo.\n\nClásicos que te faltan",
       "releaseInfo": "1963",
       "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
       "links": [
@@ -106,11 +43,74 @@
       ]
     },
     {
+      "id": "tt0084988",
+      "type": "series",
+      "name": "La víbora negra",
+      "posterShape": "poster",
+      "description": "Rowan Atkinson, antes de Mr. Bean, protagoniza esta sátira histórica mordaz ambientada en guerras y cortes inglesas.\n\nClásicos que te faltan",
+      "releaseInfo": "1983",
+      "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_292"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_292"
+        }
+      ]
+    },
+    {
+      "id": "tt0057729",
+      "type": "series",
+      "name": "La familia Addams",
+      "posterShape": "poster",
+      "description": "Una familia macabra y entrañable que convierte el humor negro y la sátira en comedia atemporal de los 60.\n\nClásicos que te faltan",
+      "releaseInfo": "1964",
+      "poster": "https://image.tmdb.org/t/p/w342/9eqmCtAY9d2WwafLBYXRKYepgeA.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_624"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_624"
+        }
+      ]
+    },
+    {
+      "id": "tt0096684",
+      "type": "series",
+      "name": "A través del tiempo",
+      "posterShape": "poster",
+      "description": "Un científico salta entre distintas épocas intentando corregir el pasado, puro viaje en el tiempo con dilema moral.\n\nClásicos que te faltan",
+      "releaseInfo": "1989",
+      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_377"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_377"
+        }
+      ]
+    },
+    {
       "id": "tt0094535",
       "type": "series",
       "name": "Enano rojo",
       "posterShape": "poster",
-      "description": "Sitcom británico de ciencia ficción con humor negro y absurdo, a bordo de una nave perdida en el espacio.\n\nClásicos que te faltan",
+      "description": "Comedia británica de ciencia ficción sobre los últimos supervivientes humanos derivando por el espacio, con humor muy british.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
       "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
       "links": [
@@ -127,23 +127,23 @@
       ]
     },
     {
-      "id": "tt0081846",
+      "id": "tt0081912",
       "type": "series",
-      "name": "Cosmos. Un viaje personal",
+      "name": "Only Fools and Horses",
       "posterShape": "poster",
-      "description": "Carl Sagan explica el universo con la misma fascinación por las ideas grandes que te atrapa en la ciencia ficción distópica.\n\nClásicos que te faltan",
-      "releaseInfo": "1980",
-      "poster": "https://image.tmdb.org/t/p/w342/s5lqR0KZuEdos2M0kvXRCGPrC4Y.jpg",
+      "description": "Comedia británica clásica sobre dos hermanos de Londres que siempre persiguen el próximo golpe fácil.\n\nClásicos que te faltan",
+      "releaseInfo": "1981",
+      "poster": "https://image.tmdb.org/t/p/w342/8QznQBwr4aqPIQTiymL7obM3qOK.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_543"
+          "url": "https://t.me/Butacawillybot?start=seen_627"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_543"
+          "url": "https://t.me/Butacawillybot?start=nope_627"
         }
       ]
     }

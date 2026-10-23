@@ -1,149 +1,107 @@
 {
   "metas": [
     {
-      "id": "tt0056119",
+      "id": "tt0150742",
       "type": "movie",
-      "name": "La jetée",
+      "name": "El Padrino Épico 1901-1959",
       "posterShape": "poster",
-      "description": "Si te marcó Memento, aquí está su origen: un viaje en el tiempo contado casi solo con fotografías fijas.\n\nPoco conocidas",
-      "releaseInfo": "1962",
-      "poster": "https://image.tmdb.org/t/p/w342/h8DykeLWkZtG1wKcIqBj82ffwoU.jpg",
+      "description": "Firmado por Coppola, a quien le diste un 9 en El padrino: este montaje cronológico de casi diez horas añade escenas nunca vistas.\n\nPoco conocidas",
+      "releaseInfo": "1992",
+      "poster": "https://image.tmdb.org/t/p/w342/w9KSuRoUPyWOIoybwW7zyYoHhsF.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_546"
+          "url": "https://t.me/Butacawillybot?start=seen_632"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_546"
+          "url": "https://t.me/Butacawillybot?start=nope_632"
         }
       ]
     },
     {
-      "id": "tt0029870",
+      "id": "tt0203119",
       "type": "movie",
-      "name": "Ángeles con caras sucias",
+      "name": "Sexy Beast",
       "posterShape": "poster",
-      "description": "Gánster clásico en blanco y negro, con el carisma criminal que tanto disfrutas en Scorsese y Coppola.\n\nPoco conocidas",
-      "releaseInfo": "1938",
-      "poster": "https://image.tmdb.org/t/p/w342/4fVtXV9ERGSej3sSCyyQtE1rmBp.jpg",
+      "description": "Como Reservoir Dogs, que puntuaste con un 9, este atraco británico reúne gánsteres carismáticos y diálogo afilado.\n\nPoco conocidas",
+      "releaseInfo": "2001",
+      "poster": "https://image.tmdb.org/t/p/w342/6P7hx0JR9m38P01ToCPCx13wYHJ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_548"
+          "url": "https://t.me/Butacawillybot?start=seen_634"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_548"
+          "url": "https://t.me/Butacawillybot?start=nope_634"
         }
       ]
     },
     {
-      "id": "tt1259014",
+      "id": "tt0292963",
       "type": "movie",
-      "name": "Mesrine Parte 1. Instinto de muerte",
+      "name": "Antes que el diablo sepa que has muerto",
       "posterShape": "poster",
-      "description": "El antihéroe criminal real que buscas en Scorsese, aquí con acento francés y mil caras distintas.\n\nPoco conocidas",
-      "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/upLFI8XANXVqeFoH4ma2zWMHLEm.jpg",
+      "description": "En la línea de Sospechosos habituales, que valoraste con un 9: un thriller criminal dirigido por Sidney Lumet.\n\nPoco conocidas",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/JlwN2hZIdluVIVwWNrLjfeoJ7k.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_549"
+          "url": "https://t.me/Butacawillybot?start=seen_635"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_549"
+          "url": "https://t.me/Butacawillybot?start=nope_635"
         }
       ]
     },
     {
-      "id": "tt0456912",
+      "id": "tt2338151",
       "type": "movie",
-      "name": "A Bittersweet Life",
+      "name": "P.K. (Peekay)",
       "posterShape": "poster",
-      "description": "Noir coreano de mafia y venganza, con la elegancia visual que te atrapa en el cine de gánsteres.\n\nPoco conocidas",
-      "releaseInfo": "2005",
-      "poster": "https://image.tmdb.org/t/p/w342/bo5882JREd8LjbziR8F0h7HuOLs.jpg",
+      "description": "Una sátira india sobre religión y sociedad, protagonizada por un alienígena ingenuo con preguntas incómodas.\n\nPoco conocidas",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/i9V1uuUzJFPjdXOg6knfHci8Mha.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_551"
+          "url": "https://t.me/Butacawillybot?start=seen_637"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_551"
+          "url": "https://t.me/Butacawillybot?start=nope_637"
         }
       ]
     },
     {
-      "id": "tt0063032",
+      "id": "tt0054042",
       "type": "movie",
-      "name": "El gran silencio",
+      "name": "Macario",
       "posterShape": "poster",
-      "description": "Spaghetti western gélido y violento, en la línea pulp que disfrutaste tanto con Harry el sucio.\n\nPoco conocidas",
-      "releaseInfo": "1968",
-      "poster": "https://image.tmdb.org/t/p/w342/AfJbGNbdgXND7pubq5MDE4ehJ5b.jpg",
+      "description": "Clásico mexicano de 1960: una premisa mínima, un hombre, el hambre y la Muerte, sostenida con pocos medios.\n\nPoco conocidas",
+      "releaseInfo": "1960",
+      "poster": "https://image.tmdb.org/t/p/w342/4tQz97U3qeoabGTtVoKPwuEMVV1.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_552"
+          "url": "https://t.me/Butacawillybot?start=seen_639"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_552"
-        }
-      ]
-    },
-    {
-      "id": "tt0060635",
-      "type": "movie",
-      "name": "La posada del dragón",
-      "posterShape": "poster",
-      "description": "Wuxia clásico de 1967 con espadachines de estilo, en la vena pulp y gamberra que tanto te gusta.\n\nPoco conocidas",
-      "releaseInfo": "1967",
-      "poster": "https://image.tmdb.org/t/p/w342/v051JgxGnmyZUSeep4vtW1ndSCv.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_554"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_554"
-        }
-      ]
-    },
-    {
-      "id": "tt31450459",
-      "type": "movie",
-      "name": "Digger",
-      "posterShape": "poster",
-      "description": "Sátira negra sobre un magnate que se cree salvador del mundo, con el filo de South Park.\n\nPoco conocidas",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_555"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_555"
+          "url": "https://t.me/Butacawillybot?start=nope_639"
         }
       ]
     }

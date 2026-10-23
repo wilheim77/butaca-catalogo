@@ -1,11 +1,32 @@
 {
   "metas": [
     {
+      "id": "tt10155688",
+      "type": "series",
+      "name": "Mare of Easttown",
+      "posterShape": "poster",
+      "description": "Kate Winslet investiga un asesinato en un pequeño pueblo de Pensilvania mientras su vida personal se desmorona.\n\nPara ver en pareja",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/6ZutgKZZfCstXKm3hifLHWz9cWf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_657"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_657"
+        }
+      ]
+    },
+    {
       "id": "tt2249364",
       "type": "series",
       "name": "Broadchurch",
       "posterShape": "poster",
-      "description": "Un pueblo costero y un misterio que se investiga pista a pista, en la línea detectivesca que tanto disfrutas de Hitchcock.\n\nPara ver en pareja",
+      "description": "La desaparición de un niño sacude un pueblo costero británico en este clásico whodunit con David Tennant.\n\nPara ver en pareja",
       "releaseInfo": "2013",
       "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
       "links": [
@@ -22,23 +43,44 @@
       ]
     },
     {
-      "id": "tt1358522",
+      "id": "tt4955642",
       "type": "series",
-      "name": "Ladrón de guante blanco",
+      "name": "The Good Place",
       "posterShape": "poster",
-      "description": "Un ladrón encantador que trabaja a la fuerza para el FBI, con el carisma criminal que buscas en el cine de gánsteres.\n\nPara ver en pareja",
-      "releaseInfo": "2009",
-      "poster": "https://image.tmdb.org/t/p/w342/zBPtDQhzQIul3q1URdaNt51Kuw8.jpg",
+      "description": "Comedia filosófica sobre el más allá con una premisa que no deja de sorprender, ideal para comentar después.\n\nPara ver en pareja",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_574"
+          "url": "https://t.me/Butacawillybot?start=seen_660"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_574"
+          "url": "https://t.me/Butacawillybot?start=nope_660"
+        }
+      ]
+    },
+    {
+      "id": "tt5687612",
+      "type": "series",
+      "name": "Fleabag",
+      "posterShape": "poster",
+      "description": "Comedia dramática londinense muy ingeniosa sobre una mujer caótica y su familia disfuncional, con capítulos cortos para ver juntos.\n\nPara ver en pareja",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_662"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_662"
         }
       ]
     }

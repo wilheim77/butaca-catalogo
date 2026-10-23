@@ -1,44 +1,44 @@
 {
   "metas": [
     {
-      "id": "tt35511966",
+      "id": "tt28014327",
       "type": "movie",
-      "name": "La bola negra",
+      "name": "Mayday",
       "posterShape": "poster",
-      "description": "Tres vidas entrelazadas en distintas épocas con el peso dramático bélico que te atrapa en Coppola o Kubrick.\n\nNovedades",
+      "description": "Si te gustó Hot Shots!: un piloto de la Marina en la Guerra Fría se alía con un excéntrico exagente del KGB.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_250"
+          "url": "https://t.me/Butacawillybot?start=seen_587"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_250"
+          "url": "https://t.me/Butacawillybot?start=nope_587"
         }
       ]
     },
     {
-      "id": "tt34385135",
+      "id": "tt31450459",
       "type": "movie",
-      "name": "Colony",
+      "name": "Digger",
       "posterShape": "poster",
-      "description": "Un brote viral sella un centro de biotecnología: ciencia ficción de ideas y tensión de supervivencia cercana a tu gusto por la distopía.\n\nNovedades",
+      "description": "Te espera una sátira negra de Iñárritu sobre un magnate que corre para salvar el mundo que él mismo puso en peligro.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_508"
+          "url": "https://t.me/Butacawillybot?start=seen_589"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_508"
+          "url": "https://t.me/Butacawillybot?start=nope_589"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "type": "movie",
       "name": "El hombre que desafió al rey",
       "posterShape": "poster",
-      "description": "Un campesino medieval se convierte en leyenda rebelde, con el pulso histórico que valoras en el cine bélico.\n\nNovedades",
+      "description": "Te lleva a la Inglaterra medieval azotada por la peste, donde un campesino desata una rebelión contra el rey, dirigida por Greengrass.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "links": [
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "Tenzing",
       "posterShape": "poster",
-      "description": "Una expedición real al Everest en los años 50, puro hombre contra naturaleza en la línea histórica que te atrapa.\n\nNovedades",
+      "description": "Te sube al Everest de los años 50, la carrera real por ser el primero en coronar la cima, con Hiddleston y Dafoe.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
       "links": [
@@ -85,65 +85,23 @@
       ]
     },
     {
-      "id": "tt45368240",
+      "id": "tt35511966",
       "type": "movie",
-      "name": "You Can See Everything",
+      "name": "La bola negra",
       "posterShape": "poster",
-      "description": "La fundadora de Theranos documenta su propia caída: ambición, mentira y un antihéroe real con mucho morbo detrás.\n\nNovedades",
+      "description": "Te lleva por tres épocas distintas de España, con tres hombres unidos por el deseo y la memoria, basada en una novela.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_509"
+          "url": "https://t.me/Butacawillybot?start=seen_250"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_509"
-        }
-      ]
-    },
-    {
-      "id": "tt37027309",
-      "type": "movie",
-      "name": "Lo dejamos acá",
-      "posterShape": "poster",
-      "description": "Un psicoanalista cruza la línea y empieza a intervenir en secreto en la vida de sus pacientes, una idea que se sostiene sola.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_343"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_343"
-        }
-      ]
-    },
-    {
-      "id": "tt32338669",
-      "type": "movie",
-      "name": "El motín",
-      "posterShape": "poster",
-      "description": "Un hombre contra una conspiración internacional en un carguero, acción pulp al estilo gamberro que disfrutas en Harry el sucio.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_510"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_510"
+          "url": "https://t.me/Butacawillybot?start=nope_250"
         }
       ]
     },
@@ -152,7 +110,7 @@
       "type": "movie",
       "name": "Batman: Knightfall Part 1: Knightfall",
       "posterShape": "poster",
-      "description": "La fuga masiva de villanos de Arkham lleva a Batman al límite, el tono de antihéroe al borde que te gusta.\n\nNovedades",
+      "description": "Te enfrenta a la caída de Batman, llevado al límite cuando Bane libera a toda la galería de villanos de Arkham.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
       "links": [
