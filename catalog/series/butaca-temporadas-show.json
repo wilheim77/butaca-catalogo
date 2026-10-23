@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Lupin",
       "posterShape": "poster",
-      "description": "La temporada 3 llega el 23 de octubre\n\nNuevas temporadas",
+      "description": "Temporada 3 estrenada el 23 de octubre\n\nNuevas temporadas",
       "releaseInfo": "2021",
       "poster": "https://image.tmdb.org/t/p/w342/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
       "links": [
@@ -18,6 +18,48 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_339"
+        }
+      ]
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Operaciones Especiales: Lioness",
+      "posterShape": "poster",
+      "description": "Temporada 3 estrenada el 2 de agosto\n\nNuevas temporadas",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_677"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_677"
+        }
+      ]
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "posterShape": "poster",
+      "description": "Temporada 2 estrenada el 1 de julio\n\nNuevas temporadas",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_678"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_678"
         }
       ]
     },
