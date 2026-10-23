@@ -13,6 +13,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_580"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_580"
         }
       ]
     },
@@ -29,6 +34,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_581"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_581"
         }
       ]
     }

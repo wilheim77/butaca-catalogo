@@ -13,6 +13,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_250"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_250"
         }
       ]
     },
@@ -29,6 +34,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_508"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_508"
         }
       ]
     },
@@ -45,6 +55,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_252"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_252"
         }
       ]
     },
@@ -61,6 +76,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_262"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_262"
         }
       ]
     },
@@ -77,6 +97,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_509"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_509"
         }
       ]
     },
@@ -93,6 +118,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_343"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_343"
         }
       ]
     },
@@ -109,6 +139,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_510"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_510"
         }
       ]
     },
@@ -125,6 +160,11 @@
           "name": "✅ Ya la he visto",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=seen_341"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_341"
         }
       ]
     }
