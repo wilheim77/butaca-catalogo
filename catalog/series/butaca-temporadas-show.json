@@ -83,6 +83,27 @@
           "url": "https://t.me/Butacawillybot?start=nope_340"
         }
       ]
+    },
+    {
+      "id": "tt11691774",
+      "type": "series",
+      "name": "Solo asesinatos en el edificio",
+      "posterShape": "poster",
+      "description": "La temporada 6 llega el 8 de diciembre\n\nNuevas temporadas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_679"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_679"
+        }
+      ]
     }
   ]
 }
