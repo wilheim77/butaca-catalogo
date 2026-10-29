@@ -253,27 +253,6 @@
       ]
     },
     {
-      "id": "tt2395695",
-      "type": "series",
-      "name": "Cosmos. Una odisea en el espacio y tiempo",
-      "posterShape": "poster",
-      "description": "Continuación de la serie de divulgación científica que amaste, ahora con Neil deGrasse Tyson explorando el cosmos.\n\nSimilar a tus gustos",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/yfYCnxBDKLii2Z6iqukcSqBNXf0.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_618"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_618"
-        }
-      ]
-    },
-    {
       "id": "tt7222086",
       "type": "series",
       "name": "Made in Abyss",
