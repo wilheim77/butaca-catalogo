@@ -1,53 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt28014327",
-      "type": "movie",
-      "name": "Mayday",
-      "posterShape": "poster",
-      "description": "Si te gustó Hot Shots!: un piloto de la Marina en la Guerra Fría se alía con un excéntrico exagente del KGB.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_587"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_587"
-        }
-      ]
-    },
-    {
-      "id": "tt31450459",
-      "type": "movie",
-      "name": "Digger",
-      "posterShape": "poster",
-      "description": "Te espera una sátira negra de Iñárritu sobre un magnate que corre para salvar el mundo que él mismo puso en peligro.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_589"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_589"
-        }
-      ]
-    },
-    {
       "id": "tt36983905",
       "type": "movie",
       "name": "El hombre que desafió al rey",
       "posterShape": "poster",
-      "description": "Te lleva a la Inglaterra medieval azotada por la peste, donde un campesino desata una rebelión contra el rey, dirigida por Greengrass.\n\nNovedades",
+      "description": "Si te atrapó Braveheart: una rebelión campesina medieval contra la corona, con Andrew Garfield al frente.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "links": [
@@ -64,23 +22,44 @@
       ]
     },
     {
-      "id": "tt6262770",
+      "id": "tt27165187",
       "type": "movie",
-      "name": "Tenzing",
+      "name": "El final de Oak Street",
       "posterShape": "poster",
-      "description": "Te sube al Everest de los años 50, la carrera real por ser el primero en coronar la cima, con Hiddleston y Dafoe.\n\nNovedades",
+      "description": "Un fenómeno cósmico arranca un barrio entero de su realidad: ciencia ficción conceptual con Anne Hathaway y Ewan McGregor.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_262"
+          "url": "https://t.me/Butacawillybot?start=seen_680"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_262"
+          "url": "https://t.me/Butacawillybot?start=nope_680"
+        }
+      ]
+    },
+    {
+      "id": "tt31450459",
+      "type": "movie",
+      "name": "Digger",
+      "posterShape": "poster",
+      "description": "Sátira feroz sobre un magnate que intenta salvar el mundo que él mismo puso en peligro, con Tom Cruise.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_589"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_589"
         }
       ]
     },
@@ -89,7 +68,7 @@
       "type": "movie",
       "name": "La bola negra",
       "posterShape": "poster",
-      "description": "Te lleva por tres épocas distintas de España, con tres hombres unidos por el deseo y la memoria, basada en una novela.\n\nNovedades",
+      "description": "Drama histórico español sobre la Guerra Civil, tres vidas unidas por el deseo y la herencia a través del tiempo.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/t1azKLExwUxKj6v6m2L535evuRa.jpg",
       "links": [
@@ -106,23 +85,107 @@
       ]
     },
     {
-      "id": "tt32333324",
+      "id": "tt6262770",
       "type": "movie",
-      "name": "Batman: Knightfall Part 1: Knightfall",
+      "name": "Tenzing",
       "posterShape": "poster",
-      "description": "Te enfrenta a la caída de Batman, llevado al límite cuando Bane libera a toda la galería de villanos de Arkham.\n\nNovedades",
+      "description": "Drama histórico real sobre la primera expedición al Everest en los años 50, con Tom Hiddleston y Willem Dafoe.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_341"
+          "url": "https://t.me/Butacawillybot?start=seen_262"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_341"
+          "url": "https://t.me/Butacawillybot?start=nope_262"
+        }
+      ]
+    },
+    {
+      "id": "tt2056785",
+      "type": "movie",
+      "name": "Wildwood: El Bosque Salvaje",
+      "posterShape": "poster",
+      "description": "Animación en stop motion de Travis Knight sobre un bosque mágico y un rescate desesperado, basada en una novela.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_681"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_681"
+        }
+      ]
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Noche de bodas 2",
+      "posterShape": "poster",
+      "description": "Si te gustó El día de la bestia: comedia de terror satánica con la misma mezcla de humor negro y sangre.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_682"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_682"
+        }
+      ]
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Un talento único",
+      "posterShape": "poster",
+      "description": "Un afinador de pianos descubre que también sabe abrir cajas fuertes, thriller de robos con Dustin Hoffman.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_683"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_683"
+        }
+      ]
+    },
+    {
+      "id": "tt34385135",
+      "type": "movie",
+      "name": "Colony",
+      "posterShape": "poster",
+      "description": "Un virus letal se libera en una conferencia científica y atrapa a los supervivientes sin salida, thriller coreano de contagio.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_685"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_685"
         }
       ]
     }

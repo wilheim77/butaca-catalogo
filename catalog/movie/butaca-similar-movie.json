@@ -1,116 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0106519",
-      "type": "movie",
-      "name": "Atrapado por su pasado",
-      "posterShape": "poster",
-      "description": "De Brian De Palma, el director que ya te encanta, con Al Pacino como ex traficante atrapado en un mundo de gánsteres.\n\nSimilar a tus gustos",
-      "releaseInfo": "1993",
-      "poster": "https://image.tmdb.org/t/p/w342/yX9vWug1cGtJ6hKhLZDz4fR71Zy.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_595"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_595"
-        }
-      ]
-    },
-    {
-      "id": "tt0087843",
-      "type": "movie",
-      "name": "Érase una vez en América",
-      "posterShape": "poster",
-      "description": "Una épica criminal de Sergio Leone con Robert De Niro, sobre la amistad y ambición de un gángster judío en Nueva York.\n\nSimilar a tus gustos",
-      "releaseInfo": "1984",
-      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_597"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_597"
-        }
-      ]
-    },
-    {
-      "id": "tt0072684",
-      "type": "movie",
-      "name": "Barry Lyndon",
-      "posterShape": "poster",
-      "description": "De Stanley Kubrick, como La naranja mecánica que tanto te marcó, un drama histórico del siglo XVIII con Ryan O'Neal.\n\nSimilar a tus gustos",
-      "releaseInfo": "1975",
-      "poster": "https://image.tmdb.org/t/p/w342/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_599"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_599"
-        }
-      ]
-    },
-    {
-      "id": "tt0106489",
-      "type": "movie",
-      "name": "Una historia del Bronx",
-      "posterShape": "poster",
-      "description": "Como El padrino, un retrato de lealtad y gangsterismo, pero dirigido por Robert De Niro delante y detrás de cámara.\n\nSimilar a tus gustos",
-      "releaseInfo": "1993",
-      "poster": "https://image.tmdb.org/t/p/w342/mwW3SOA1SSxySZQRI7tx7Wo3kLy.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_601"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_601"
-        }
-      ]
-    },
-    {
-      "id": "tt0364569",
-      "type": "movie",
-      "name": "Old Boy",
-      "posterShape": "poster",
-      "description": "Misterio surcoreano de Park Chan-wook sobre un hombre que busca respuestas tras años de encierro injusto.\n\nSimilar a tus gustos",
-      "releaseInfo": "2003",
-      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_515"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_515"
-        }
-      ]
-    },
-    {
       "id": "tt2948372",
       "type": "movie",
       "name": "Soul",
       "posterShape": "poster",
-      "description": "De Pete Docter, el director de Pixar que ya te encantó, explorando con alma e imaginación las grandes preguntas de la vida.\n\nSimilar a tus gustos",
+      "description": "Del mismo Pete Docter que te encantó en Monstruos, S.A., una fantasía animada sobre el sentido de la vida.\n\nSimilar a tus gustos",
       "releaseInfo": "2020",
       "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
       "links": [
@@ -131,7 +26,7 @@
       "type": "movie",
       "name": "Jojo Rabbit",
       "posterShape": "poster",
-      "description": "Comedia satírica ambientada en la Segunda Guerra Mundial, con el humor negro que disfrutas mezclado con un drama bélico profundo.\n\nSimilar a tus gustos",
+      "description": "Comedia bélica con humor negro y sátira feroz sobre la Alemania nazi, dirigida por Taika Waititi.\n\nSimilar a tus gustos",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg",
       "links": [
@@ -148,11 +43,95 @@
       ]
     },
     {
+      "id": "tt3845232",
+      "type": "movie",
+      "name": "Sherlock: la novia abominable",
+      "posterShape": "poster",
+      "description": "Si disfrutaste Sherlock Holmes, aquí Cumberbatch y Freeman llevan la deducción victoriana a un caso de novia fantasma.\n\nSimilar a tus gustos",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/xmhJiJjDEQ7I6pcVzr01fLPwlhv.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_686"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_686"
+        }
+      ]
+    },
+    {
+      "id": "tt9471678",
+      "type": "movie",
+      "name": "Ultraman: El ascenso",
+      "posterShape": "poster",
+      "description": "Como en Los Increíbles, un héroe familiar hereda el deber de proteger la ciudad de monstruos gigantes.\n\nSimilar a tus gustos",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_687"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_687"
+        }
+      ]
+    },
+    {
+      "id": "tt0071360",
+      "type": "movie",
+      "name": "La conversación",
+      "posterShape": "poster",
+      "description": "De Francis Ford Coppola, el mismo director que te enganchó con su épica criminal, ahora en un thriller de escuchas y paranoia.\n\nSimilar a tus gustos",
+      "releaseInfo": "1974",
+      "poster": "https://image.tmdb.org/t/p/w342/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_688"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_688"
+        }
+      ]
+    },
+    {
+      "id": "tt0088846",
+      "type": "movie",
+      "name": "Brazil",
+      "posterShape": "poster",
+      "description": "Terry Gilliam construye una distopía burocrática y satírica, el tono de humor negro con ideas que tanto te enamora.\n\nSimilar a tus gustos",
+      "releaseInfo": "1985",
+      "poster": "https://image.tmdb.org/t/p/w342/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_690"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_690"
+        }
+      ]
+    },
+    {
       "id": "tt0113568",
       "type": "movie",
       "name": "Ghost in the Shell",
       "posterShape": "poster",
-      "description": "Anime japonés de ciencia ficción con una inteligencia artificial que cuestiona qué significa ser humano en un futuro casi distópico.\n\nSimilar a tus gustos",
+      "description": "Anime japonés de 1995 sobre inteligencia artificial y androides, pura ciencia ficción de ideas con atmósfera futurista.\n\nSimilar a tus gustos",
       "releaseInfo": "1995",
       "poster": "https://image.tmdb.org/t/p/w342/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg",
       "links": [
@@ -169,86 +148,23 @@
       ]
     },
     {
-      "id": "tt0092067",
+      "id": "tt0087843",
       "type": "movie",
-      "name": "El castillo en el cielo",
+      "name": "Érase una vez en América",
       "posterShape": "poster",
-      "description": "Animación de Hayao Miyazaki sobre una huérfana que descubre un cristal que la une a una civilización perdida entre las nubes.\n\nSimilar a tus gustos",
-      "releaseInfo": "1986",
-      "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+      "description": "Sergio Leone y Robert De Niro firman una epopeya criminal de décadas, antihéroes y amistad traicionada.\n\nSimilar a tus gustos",
+      "releaseInfo": "1984",
+      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_610"
+          "url": "https://t.me/Butacawillybot?start=seen_597"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_610"
-        }
-      ]
-    },
-    {
-      "id": "tt2166834",
-      "type": "movie",
-      "name": "Batman: El regreso del Caballero Oscuro, Parte 2",
-      "posterShape": "poster",
-      "description": "Como X-Men, que te gustó, esta animación de superhéroes con tono oscuro y distópico está basada en una novela gráfica.\n\nSimilar a tus gustos",
-      "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/vTpZl5n7wxyxhZZINd3gDVaEGhk.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_612"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_612"
-        }
-      ]
-    },
-    {
-      "id": "tt0052216",
-      "type": "movie",
-      "name": "Rufufú",
-      "posterShape": "poster",
-      "description": "Comedia italiana clásica de atracos con un grupo de ladrones torpes planeando el golpe perfecto, con ingenio y mala suerte.\n\nSimilar a tus gustos",
-      "releaseInfo": "1958",
-      "poster": "https://image.tmdb.org/t/p/w342/dicsLg5NGUvznacv8J7VtDK0jC6.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_614"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_614"
-        }
-      ]
-    },
-    {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Soulm8te",
-      "posterShape": "poster",
-      "description": "Thriller de ciencia ficción sobre un androide con IA creado para aliviar un duelo que acaba volviéndose siniestro.\n\nSimilar a tus gustos",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_616"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_616"
+          "url": "https://t.me/Butacawillybot?start=nope_597"
         }
       ]
     }

@@ -1,65 +1,149 @@
 {
   "metas": [
     {
-      "id": "tt0081874",
+      "id": "tt9735318",
       "type": "series",
-      "name": "Guía del autoestopista galáctico",
+      "name": "The Beatles: Get Back",
       "posterShape": "poster",
-      "description": "Sátira espacial británica de Douglas Adams: humor absurdo e ideas de ciencia ficción en episodios de media hora.\n\nPoco conocidas",
-      "releaseInfo": "1981",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "description": "Peter Jackson, el director de tu trilogía favorita, rescata horas inéditas del proceso creativo de los Beatles.\n\nPoco conocidas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_633"
+          "url": "https://t.me/Butacawillybot?start=seen_703"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_633"
+          "url": "https://t.me/Butacawillybot?start=nope_703"
         }
       ]
     },
     {
-      "id": "tt8001106",
+      "id": "tt5249462",
       "type": "series",
-      "name": "Giri/Haji: Deber/Deshonor",
+      "name": "Desaparecido",
       "posterShape": "poster",
-      "description": "Un policía busca a su hermano asesino entre Londres y Tokio, con la yakuza y el crimen organizado de fondo.\n\nPoco conocidas",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
+      "description": "Un mangaka viaja al pasado para impedir una tragedia: misterio con vueltas de tuerca que invitan a releerlo todo.\n\nPoco conocidas",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_550"
+          "url": "https://t.me/Butacawillybot?start=seen_705"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_550"
+          "url": "https://t.me/Butacawillybot?start=nope_705"
         }
       ]
     },
     {
-      "id": "tt0080306",
+      "id": "tt18311412",
       "type": "series",
-      "name": "Sí, ministro",
+      "name": "NieR:Automata Ver1.1a",
       "posterShape": "poster",
-      "description": "Sátira política británica sobre un ministro y sus asesores, con el ingenio fino que valoras en el humor inteligente.\n\nPoco conocidas",
-      "releaseInfo": "1980",
-      "poster": "https://image.tmdb.org/t/p/w342/2tFCZsypLY6UuRVEZVUeKqJsJAZ.jpg",
+      "description": "Androides luchan contra una invasión alienígena en un futuro devastado: ciencia ficción distópica con mucho peso visual.\n\nPoco conocidas",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_636"
+          "url": "https://t.me/Butacawillybot?start=seen_707"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_636"
+          "url": "https://t.me/Butacawillybot?start=nope_707"
+        }
+      ]
+    },
+    {
+      "id": "tt13851958",
+      "type": "series",
+      "name": "Vivy: Fluorite Eye’s Song",
+      "posterShape": "poster",
+      "description": "Una IA cantante viaja en el tiempo para evitar una guerra entre humanos y máquinas: anime de ideas.\n\nPoco conocidas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/xRakd62ihUP19NBgWyJzjO26NxE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_708"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_708"
+        }
+      ]
+    },
+    {
+      "id": "tt6340502",
+      "type": "series",
+      "name": "Inuyashiki, el último héroe",
+      "posterShape": "poster",
+      "description": "Un hombre mayor y desahuciado se convierte en cyborg tras un extraño accidente: acción y drama con alma.\n\nPoco conocidas",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_710"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_710"
+        }
+      ]
+    },
+    {
+      "id": "tt0495212",
+      "type": "series",
+      "name": "Hellsing Ultimate",
+      "posterShape": "poster",
+      "description": "Una orden protestante de cazadores sobrenaturales se enfrenta a vampiros y nazis en un Londres oscuro y violento.\n\nPoco conocidas",
+      "releaseInfo": "2006",
+      "poster": "https://image.tmdb.org/t/p/w342/evZtiZzMX9VFoM1zzvRUmPoLPBg.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_711"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_711"
+        }
+      ]
+    },
+    {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "पंचायत",
+      "posterShape": "poster",
+      "description": "Un ingeniero forzado a trabajar en un pueblo rural indio protagoniza esta sátira política entrañable y con mucho ingenio.\n\nPoco conocidas",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_712"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_712"
         }
       ]
     },
@@ -68,7 +152,7 @@
       "type": "series",
       "name": "Boris",
       "posterShape": "poster",
-      "description": "Comedia italiana que parodia desde dentro el rodaje de una serie, con mirada satírica sobre el negocio audiovisual.\n\nPoco conocidas",
+      "description": "Una sátira italiana sobre el caos detrás de las cámaras de un rodaje, con humor mordaz y oficio.\n\nPoco conocidas",
       "releaseInfo": "2007",
       "poster": "https://image.tmdb.org/t/p/w342/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg",
       "links": [
@@ -85,65 +169,44 @@
       ]
     },
     {
-      "id": "tt23181168",
+      "id": "tt15582422",
       "type": "series",
-      "name": "Nuestro universo",
+      "name": "Black Rock Shooter: Dawn Fall",
       "posterShape": "poster",
-      "description": "Como Cosmos, que valoraste con un 9: un recorrido documental por la historia del universo y su conexión con la Tierra.\n\nPoco conocidas",
+      "description": "En un 2062 devastado por una IA en guerra contra la humanidad, una guardiana lucha por sobrevivir.\n\nPoco conocidas",
       "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/x607kupq3V7rsIz2gakITqwElum.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_640"
+          "url": "https://t.me/Butacawillybot?start=seen_713"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_640"
+          "url": "https://t.me/Butacawillybot?start=nope_713"
         }
       ]
     },
     {
-      "id": "tt1051155",
+      "id": "tt36742917",
       "type": "series",
-      "name": "El Universo",
+      "name": "No tengo miedo",
       "posterShape": "poster",
-      "description": "Como Cosmos, que puntuaste con un 9: cincuenta años de exploración espacial repasados en clave divulgativa.\n\nPoco conocidas",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/JTPgM9mDjocqVJk6Xp4qGUcR9e.jpg",
+      "description": "Un niño de diez años descubre un oscuro secreto en un pueblo mexicano de los 80: drama inquietante y mínimo.\n\nPoco conocidas",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_641"
+          "url": "https://t.me/Butacawillybot?start=seen_714"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_641"
-        }
-      ]
-    },
-    {
-      "id": "tt0108914",
-      "type": "series",
-      "name": "三国演义",
-      "posterShape": "poster",
-      "description": "Serie china de 1994 sobre la guerra entre dinastías feudales, una épica histórica a gran escala muy poco vista fuera de China.\n\nPoco conocidas",
-      "releaseInfo": "1994",
-      "poster": "https://image.tmdb.org/t/p/w342/uDBCI4WlTNgiielf52HFKwYVseM.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_642"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_642"
+          "url": "https://t.me/Butacawillybot?start=nope_714"
         }
       ]
     }

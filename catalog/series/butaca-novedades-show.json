@@ -1,158 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt34771210",
-      "type": "series",
-      "name": "Te encontraré",
-      "posterShape": "poster",
-      "description": "Si te atrapó Prison Break: un padre encarcelado injustamente descubre que su hijo podría seguir vivo.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/kfdFCPn5FuImr8a3TFlCC8cqHUI.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_588"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_588"
-        }
-      ]
-    },
-    {
-      "id": "tt39395275",
-      "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "posterShape": "poster",
-      "description": "Te esperan nuevas batallas en Dragon Ball Super: Goku se enfrenta a Beerus, el Dios de la Destrucción.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_257"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_257"
-        }
-      ]
-    },
-    {
-      "id": "tt33265765",
-      "type": "series",
-      "name": "Leyendas",
-      "posterShape": "poster",
-      "description": "Como en Prison Break, que te encantó: agentes infiltrados combaten a los cárteles en la Gran Bretaña de los 90.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_590"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_590"
-        }
-      ]
-    },
-    {
-      "id": "tt32604054",
-      "type": "series",
-      "name": "Historias corrientes: Las cintas perdidas",
-      "posterShape": "poster",
-      "description": "Te esperan Mordecai y Rigby de vuelta en el parque, con el mismo caos surrealista y humor absurdo de siempre.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_349"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_349"
-        }
-      ]
-    },
-    {
-      "id": "tt35854736",
-      "type": "series",
-      "name": "Avatar: Los Siete Refugios",
-      "posterShape": "poster",
-      "description": "Te lleva tras el cataclismo que arrasó el mundo, siguiendo a una nueva Avatar entre los Siete Refugios.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_259"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_259"
-        }
-      ]
-    },
-    {
-      "id": "tt32603995",
-      "type": "series",
-      "name": "Hora de aventuras: Misiones legendarias",
-      "posterShape": "poster",
-      "description": "Te invita a volver a Ooo con Finn y Jake, ayudando a la Gente Nube y plantando cara al mal.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/q33LoVGyZopnwnNTzaPliKw8SOA.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_591"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_591"
-        }
-      ]
-    },
-    {
-      "id": "tt32140872",
-      "type": "series",
-      "name": "Ciudad de las estrellas",
-      "posterShape": "poster",
-      "description": "Te cruza al otro lado del telón de acero: cosmonautas soviéticos arriesgándolo todo en la carrera espacial.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_344"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_344"
-        }
-      ]
-    },
-    {
       "id": "tt34866681",
       "type": "series",
       "name": "Lucky",
       "posterShape": "poster",
-      "description": "Te metes en la fuga de una estafadora perseguida tanto por el FBI como por un despiadado jefe criminal.\n\nNovedades",
+      "description": "Una estafadora huye del FBI y de un jefe criminal tras un golpe millonario fallido, con Anya Taylor-Joy.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
       "links": [
@@ -169,11 +22,116 @@
       ]
     },
     {
+      "id": "tt39395275",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "posterShape": "poster",
+      "description": "El Dios de la Destrucción despierta y desafía a Goku: la continuación de la saga de Dragon Ball que sigues.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_257"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_257"
+        }
+      ]
+    },
+    {
+      "id": "tt32140872",
+      "type": "series",
+      "name": "Ciudad de las estrellas",
+      "posterShape": "poster",
+      "description": "La carrera espacial de la Guerra Fría vista desde el lado soviético, ciencia ficción histórica con Rhys Ifans.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_344"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_344"
+        }
+      ]
+    },
+    {
+      "id": "tt36303968",
+      "type": "series",
+      "name": "Furious",
+      "posterShape": "poster",
+      "description": "Una agente del FBI persigue a una metódica asesina en serie mientras la línea entre el bien y el mal se difumina.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_594"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_594"
+        }
+      ]
+    },
+    {
+      "id": "tt32604054",
+      "type": "series",
+      "name": "Historias corrientes: Las cintas perdidas",
+      "posterShape": "poster",
+      "description": "Dos amigos viven un caos surrealista cada día en su trabajo del parque, humor absurdo en animación.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_349"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_349"
+        }
+      ]
+    },
+    {
+      "id": "tt34771210",
+      "type": "series",
+      "name": "Te encontraré",
+      "posterShape": "poster",
+      "description": "Un hombre encarcelado injustamente por el asesinato de su hijo descubre que podría estar vivo, con Sam Worthington.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/kfdFCPn5FuImr8a3TFlCC8cqHUI.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_588"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_588"
+        }
+      ]
+    },
+    {
       "id": "tt21097264",
       "type": "series",
       "name": "Al este del Edén",
       "posterShape": "poster",
-      "description": "Te sumerge en una saga familiar basada en una novela, con Florence Pugh liderando una rivalidad entre hermanos que marca generaciones.\n\nNovedades",
+      "description": "Basada en una novela clásica, retrata rivalidad entre hermanos y secretos familiares en el cambio de siglo, con Florence Pugh.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
       "links": [
@@ -190,44 +148,44 @@
       ]
     },
     {
-      "id": "tt34991493",
+      "id": "tt42127457",
       "type": "series",
-      "name": "Rancho Dutton",
+      "name": "Agente Kim reactivado",
       "posterShape": "poster",
-      "description": "Te lleva a Texas, donde Rip y Beth construyen un nuevo rancho frente a un imperio ganadero rival sin escrúpulos.\n\nNovedades",
+      "description": "Un padre normal recupera su pasado como agente encubierto para encontrar a su hija desaparecida, acción coreana.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/7dAzAtmmfHeW5H6xxuukXsBBfzH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_593"
+          "url": "https://t.me/Butacawillybot?start=seen_684"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_593"
+          "url": "https://t.me/Butacawillybot?start=nope_684"
         }
       ]
     },
     {
-      "id": "tt36303968",
+      "id": "tt35854736",
       "type": "series",
-      "name": "Furious",
+      "name": "Avatar: Los Siete Refugios",
       "posterShape": "poster",
-      "description": "Te enganchas a la persecución de una metódica asesina en serie por parte de una agente del FBI.\n\nNovedades",
+      "description": "Una joven maestra Tierra descubre ser la nueva Avatar en un mundo devastado, fantasía animada de gran escala.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_594"
+          "url": "https://t.me/Butacawillybot?start=seen_259"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_594"
+          "url": "https://t.me/Butacawillybot?start=nope_259"
         }
       ]
     }

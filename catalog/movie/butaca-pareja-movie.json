@@ -1,23 +1,107 @@
 {
   "metas": [
     {
-      "id": "tt0025878",
+      "id": "tt2267998",
       "type": "movie",
-      "name": "La cena de los acusados",
+      "name": "Perdida",
       "posterShape": "poster",
-      "description": "Un detective y su mujer resuelven un asesinato a base de ingenio y réplicas rápidas, con mucho encanto clásico.\n\nPara ver en pareja",
-      "releaseInfo": "1934",
-      "poster": "https://image.tmdb.org/t/p/w342/bSTwEucUoveVCm4lhpDCZNbKKYf.jpg",
+      "description": "Fincher firma este thriller sobre un matrimonio que se resquebraja tras la desaparición de la esposa, ideal para comentar después.\n\nPara ver en pareja",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_656"
+          "url": "https://t.me/Butacawillybot?start=seen_724"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_656"
+          "url": "https://t.me/Butacawillybot?start=nope_724"
+        }
+      ]
+    },
+    {
+      "id": "tt12001534",
+      "type": "movie",
+      "name": "El club del crimen de los jueves",
+      "posterShape": "poster",
+      "description": "Como en Sherlock Holmes, que valoraste con un 8, aquí un grupo de jubilados resuelve un asesinato real con humor negro.\n\nPara ver en pareja",
+      "releaseInfo": "2025",
+      "poster": "https://image.tmdb.org/t/p/w342/xJeCdbeaLgsEr5DkXD6T67eqZFT.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_726"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_726"
+        }
+      ]
+    },
+    {
+      "id": "tt7040874",
+      "type": "movie",
+      "name": "Un pequeño favor",
+      "posterShape": "poster",
+      "description": "Comedia negra de Paul Feig con Anna Kendrick y Blake Lively, sobre la desaparición repentina de una amiga con muchos secretos.\n\nPara ver en pareja",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/kBNMPKuVnsyLwUIE9fyOEQULBv6.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_728"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_728"
+        }
+      ]
+    },
+    {
+      "id": "tt31195136",
+      "type": "movie",
+      "name": "Normal",
+      "posterShape": "poster",
+      "description": "Como Fargo, que valoraste con un 9, un sheriff sustituto destapa una trama oscura bajo la calma de un pueblo de Minnesota.\n\nPara ver en pareja",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_729"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_729"
+        }
+      ]
+    },
+    {
+      "id": "tt0036342",
+      "type": "movie",
+      "name": "La sombra de una duda",
+      "posterShape": "poster",
+      "description": "Como El nombre de la rosa (tu 9), Hitchcock siembra sospecha cuando un encantador forastero llega a un pueblo tranquilo.\n\nPara ver en pareja",
+      "releaseInfo": "1943",
+      "poster": "https://image.tmdb.org/t/p/w342/kF40hCjwn5X1GbT57d2xIALeGHF.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_730"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_730"
         }
       ]
     },
@@ -26,7 +110,7 @@
       "type": "movie",
       "name": "Charada",
       "posterShape": "poster",
-      "description": "Espionaje con humor en el París de los 60, con Cary Grant y Audrey Hepburn llevando el misterio con mucha elegancia.\n\nPara ver en pareja",
+      "description": "Cary Grant y Audrey Hepburn resuelven un enredo de espías y herencias en el París de los 60, con ingenio y misterio.\n\nPara ver en pareja",
       "releaseInfo": "1963",
       "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
       "links": [
@@ -43,65 +127,44 @@
       ]
     },
     {
-      "id": "tt0373469",
+      "id": "tt11674730",
       "type": "movie",
-      "name": "Kiss Kiss Bang Bang",
+      "name": "La última parada en Arizona",
       "posterShape": "poster",
-      "description": "Comedia criminal con Robert Downey Jr. y Val Kilmer metidos en un lío de asesinatos en Los Ángeles, muy ingeniosa.\n\nPara ver en pareja",
-      "releaseInfo": "2005",
-      "poster": "https://image.tmdb.org/t/p/w342/yMAoom93EhCzp39vG59ka42hGIk.jpg",
+      "description": "Como Fargo (tu 9), dos atracadores retienen a un grupo variopinto en una gasolinera del desierto con tensión y humor negro.\n\nPara ver en pareja",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_659"
+          "url": "https://t.me/Butacawillybot?start=seen_731"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_659"
+          "url": "https://t.me/Butacawillybot?start=nope_731"
         }
       ]
     },
     {
-      "id": "tt0088930",
+      "id": "tt31121295",
       "type": "movie",
-      "name": "El juego de la sospecha (Cluedo)",
+      "name": "Deep Cover: Actores encubiertos",
       "posterShape": "poster",
-      "description": "Un whodunit de mansión con chantajes y sospechosos encerrados que invita a adivinar juntos quién fue.\n\nPara ver en pareja",
-      "releaseInfo": "1985",
-      "poster": "https://image.tmdb.org/t/p/w342/vhrmZCkFkg2rtn7laiFzqwyVxky.jpg",
+      "description": "Como RocknRolla (tu 8), una profesora de teatro se infiltra en el crimen organizado londinense en esta comedia disparatada.\n\nPara ver en pareja",
+      "releaseInfo": "2025",
+      "poster": "https://image.tmdb.org/t/p/w342/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_661"
+          "url": "https://t.me/Butacawillybot?start=seen_732"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_661"
-        }
-      ]
-    },
-    {
-      "id": "tt14138650",
-      "type": "movie",
-      "name": "Los crímenes de la academia",
-      "posterShape": "poster",
-      "description": "En la línea de misterio gótico de Sleepy Hollow, que te dio un 9, aquí un detective investiga crímenes en West Point junto a un joven Poe.\n\nPara ver en pareja",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/q6xHynnnKepa4WUfqpwUlJjFuec.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_663"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_663"
+          "url": "https://t.me/Butacawillybot?start=nope_732"
         }
       ]
     }

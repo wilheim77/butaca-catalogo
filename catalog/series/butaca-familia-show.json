@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Veronica Mars",
       "posterShape": "poster",
-      "description": "Una detective adolescente que investiga crímenes mientras lidia con el instituto, misterio y romance juvenil con mucha chispa.\n\nEn familia",
+      "description": "Una detective adolescente investiga el asesinato de su mejor amiga en el instituto, con pistas, deducción y un romance de fondo.\n\nEn familia",
       "releaseInfo": "2004",
       "poster": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
       "links": [
@@ -22,116 +22,11 @@
       ]
     },
     {
-      "id": "tt5607976",
-      "type": "series",
-      "name": "La materia oscura",
-      "posterShape": "poster",
-      "description": "Una aventura de fantasía con universos paralelos, brujas y una huérfana que busca respuestas, perfecta para ver con Izaro.\n\nEn familia",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_500"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_500"
-        }
-      ]
-    },
-    {
-      "id": "tt0925266",
-      "type": "series",
-      "name": "Criando malvas",
-      "posterShape": "poster",
-      "description": "Comedia negra con aire detectivesco y un toque de magia realista, ideal si te gusta el misterio con humor particular.\n\nEn familia",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/wsZUTFqsxgiWXIetpB3jQigqdwa.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_667"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_667"
-        }
-      ]
-    },
-    {
-      "id": "tt7908628",
-      "type": "series",
-      "name": "Lo que hacemos en las sombras",
-      "posterShape": "poster",
-      "description": "Vampiros compañeros de piso contados como mockumentary, humor absurdo con mucho ingenio para ver juntos.\n\nEn familia",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_499"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_499"
-        }
-      ]
-    },
-    {
-      "id": "tt0290223",
-      "type": "series",
-      "name": "InuYasha",
-      "posterShape": "poster",
-      "description": "Si te gustó Dragon Ball Z, este anime con viajes en el tiempo, espadas y romance adolescente puede encajarte también.\n\nEn familia",
-      "releaseInfo": "2000",
-      "poster": "https://image.tmdb.org/t/p/w342/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_670"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_670"
-        }
-      ]
-    },
-    {
-      "id": "tt7120662",
-      "type": "series",
-      "name": "Derry Girls",
-      "posterShape": "poster",
-      "description": "Comedia adolescente ambientada en los 90 en Irlanda del Norte, mucho ingenio y amistad femenina, ideal para ver con Izaro.\n\nEn familia",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_672"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_672"
-        }
-      ]
-    },
-    {
       "id": "tt8778064",
       "type": "series",
       "name": "The Society",
       "posterShape": "poster",
-      "description": "Un grupo de adolescentes debe crear su propia sociedad tras una desaparición misteriosa, drama con tensión y misterio.\n\nEn familia",
+      "description": "Un grupo de adolescentes debe organizar su propia sociedad tras una desaparición misteriosa: puro misterio distópico protagonizado por chicos de su edad.\n\nEn familia",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg",
       "links": [
@@ -148,53 +43,11 @@
       ]
     },
     {
-      "id": "tt1888075",
-      "type": "series",
-      "name": "Crimen en el paraíso",
-      "posterShape": "poster",
-      "description": "Misterio clásico de isla caribeña con un detective inglés resolviendo crímenes, ligero y perfecto para ver en familia.\n\nEn familia",
-      "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_675"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_675"
-        }
-      ]
-    },
-    {
-      "id": "tt5023666",
-      "type": "series",
-      "name": "Arslan Senki",
-      "posterShape": "poster",
-      "description": "Si te gustó Dragon Ball Z, este anime histórico de guerra y traición con un príncipe exiliado puede interesarte.\n\nEn familia",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/3CRKmwqethibNdMYVa3kXe9FHUl.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_676"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_676"
-        }
-      ]
-    },
-    {
       "id": "tt1196946",
       "type": "series",
       "name": "El mentalista",
       "posterShape": "poster",
-      "description": "Un exmédium que usa su astucia para resolver crímenes, misterio con ingenio y pistas hasta el final de cada caso.\n\nEn familia",
+      "description": "Un exmédium que resuelve crímenes solo a base de observación y deducción, al estilo de los detectives clásicos que te atrapan.\n\nEn familia",
       "releaseInfo": "2008",
       "poster": "https://image.tmdb.org/t/p/w342/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
       "links": [
@@ -207,6 +60,90 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_423"
+        }
+      ]
+    },
+    {
+      "id": "tt7908628",
+      "type": "series",
+      "name": "Lo que hacemos en las sombras",
+      "posterShape": "poster",
+      "description": "Comedia de humor negro sobre tres vampiros que llevan siglos compartiendo piso, con un tono absurdo que nunca busca el gag fácil.\n\nEn familia",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_499"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_499"
+        }
+      ]
+    },
+    {
+      "id": "tt6263222",
+      "type": "series",
+      "name": "Bong Soon, una chica superfuerte",
+      "posterShape": "poster",
+      "description": "Comedia coreana de acción con una protagonista de fuerza sobrehumana y un triángulo amoroso, ligera y entretenida para ver juntos.\n\nEn familia",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/zUeMFnFJKPqe8lNdUYl7oxrwSZ3.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_737"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_737"
+        }
+      ]
+    },
+    {
+      "id": "tt4803738",
+      "type": "series",
+      "name": "Te Recuerdo",
+      "posterShape": "poster",
+      "description": "Misterio coreano de investigación criminal con un toque de romance, perfecto si os gusta reconstruir pistas hasta el final.\n\nEn familia",
+      "releaseInfo": "2015",
+      "poster": "https://image.tmdb.org/t/p/w342/6LnvlfevdppZNYg0VptRb7N8fwe.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_739"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_739"
+        }
+      ]
+    },
+    {
+      "id": "tt7942796",
+      "type": "series",
+      "name": "Magnum",
+      "posterShape": "poster",
+      "description": "Un expolicía convertido en investigador privado en Hawái: aventura ligera y detectivesca fácil de disfrutar en familia.\n\nEn familia",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_741"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_741"
         }
       ]
     }
