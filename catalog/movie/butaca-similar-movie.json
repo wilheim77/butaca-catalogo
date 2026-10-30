@@ -43,27 +43,6 @@
       ]
     },
     {
-      "id": "tt3845232",
-      "type": "movie",
-      "name": "Sherlock: la novia abominable",
-      "posterShape": "poster",
-      "description": "Si disfrutaste Sherlock Holmes, aquí Cumberbatch y Freeman llevan la deducción victoriana a un caso de novia fantasma.\n\nSimilar a tus gustos",
-      "releaseInfo": "2016",
-      "poster": "https://image.tmdb.org/t/p/w342/xmhJiJjDEQ7I6pcVzr01fLPwlhv.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_686"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_686"
-        }
-      ]
-    },
-    {
       "id": "tt9471678",
       "type": "movie",
       "name": "Ultraman: El ascenso",

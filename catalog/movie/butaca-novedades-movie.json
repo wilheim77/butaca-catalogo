@@ -64,27 +64,6 @@
       ]
     },
     {
-      "id": "tt35511966",
-      "type": "movie",
-      "name": "La bola negra",
-      "posterShape": "poster",
-      "description": "Drama histórico español sobre la Guerra Civil, tres vidas unidas por el deseo y la herencia a través del tiempo.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_250"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_250"
-        }
-      ]
-    },
-    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
