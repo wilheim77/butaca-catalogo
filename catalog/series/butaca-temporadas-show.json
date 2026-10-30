@@ -43,27 +43,6 @@
       ]
     },
     {
-      "id": "tt16026746",
-      "type": "series",
-      "name": "X-Men '97",
-      "posterShape": "poster",
-      "description": "Temporada 2 estrenada el 1 de julio\n\nNuevas temporadas",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_678"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_678"
-        }
-      ]
-    },
-    {
       "id": "tt7631058",
       "type": "series",
       "name": "El señor de los anillos: Los anillos de poder",
