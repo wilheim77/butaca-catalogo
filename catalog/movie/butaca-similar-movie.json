@@ -106,27 +106,6 @@
       ]
     },
     {
-      "id": "tt0113568",
-      "type": "movie",
-      "name": "Ghost in the Shell",
-      "posterShape": "poster",
-      "description": "Anime japonés de 1995 sobre inteligencia artificial y androides, pura ciencia ficción de ideas con atmósfera futurista.\n\nSimilar a tus gustos",
-      "releaseInfo": "1995",
-      "poster": "https://image.tmdb.org/t/p/w342/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_608"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_608"
-        }
-      ]
-    },
-    {
       "id": "tt0087843",
       "type": "movie",
       "name": "Érase una vez en América",
