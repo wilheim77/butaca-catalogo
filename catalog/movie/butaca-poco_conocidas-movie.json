@@ -1,65 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt0783640",
+      "id": "tt9471678",
       "type": "movie",
-      "name": "Con todos los honores",
+      "name": "Ultraman: El ascenso",
       "posterShape": "poster",
-      "description": "Si te marcó Apocalypse Now, este drama real de Vietnam sobre heroísmo y burocracia militar te atrapará igual.\n\nPoco conocidas",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/LxLwlh4cP3HNj8dnHqlf5BUCpZ.jpg",
+      "description": "Si te gustó Monstruos, S.A. con un 9: animación japonesa sobre un héroe que protege la ciudad de kaijus.\n\nPoco conocidas",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_702"
+          "url": "https://t.me/Butacawillybot?start=seen_762"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_702"
-        }
-      ]
-    },
-    {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Soulm8te",
-      "posterShape": "poster",
-      "description": "Una IA diseñada para el amor se descontrola: ciencia ficción inquietante sobre duelo, obsesión y androides.\n\nPoco conocidas",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_704"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_704"
-        }
-      ]
-    },
-    {
-      "id": "tt4920274",
-      "type": "movie",
-      "name": "Historias corrientes: La película",
-      "posterShape": "poster",
-      "description": "Un viaje en el tiempo para arreglar el pasado, con el mismo espíritu aventurero que te enganchó en Regreso al futuro.\n\nPoco conocidas",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/7eWLv7mxAKnFPqbtPOJy6iHb2Bx.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_706"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_706"
+          "url": "https://t.me/Butacawillybot?start=nope_762"
         }
       ]
     },
@@ -68,7 +26,7 @@
       "type": "movie",
       "name": "P.K. (Peekay)",
       "posterShape": "poster",
-      "description": "Un alien cuestiona con humor e inocencia las religiones humanas: una sátira india que te sacará sonrisas.\n\nPoco conocidas",
+      "description": "Un forastero cuestiona con ingenuidad las religiones establecidas, sátira india con la mordacidad del humor inteligente que te gusta.\n\nPoco conocidas",
       "releaseInfo": "2014",
       "poster": "https://image.tmdb.org/t/p/w342/i9V1uuUzJFPjdXOg6knfHci8Mha.jpg",
       "links": [
@@ -85,23 +43,65 @@
       ]
     },
     {
-      "id": "tt45368240",
+      "id": "tt2056785",
       "type": "movie",
-      "name": "You Can See Everything",
+      "name": "Wildwood: El Bosque Salvaje",
       "posterShape": "poster",
-      "description": "Elizabeth Holmes invita a un equipo a grabar sus últimos días antes de prisión: documental incómodo y fascinante sobre poder y mentira.\n\nPoco conocidas",
+      "description": "Aventura en stop motion dirigida por Travis Knight, con un bosque mágico y una misión de rescate muy visual.\n\nPoco conocidas",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_709"
+          "url": "https://t.me/Butacawillybot?start=seen_763"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_709"
+          "url": "https://t.me/Butacawillybot?start=nope_763"
+        }
+      ]
+    },
+    {
+      "id": "tt8836988",
+      "type": "movie",
+      "name": "Avengement",
+      "posterShape": "poster",
+      "description": "Si te gustó Los intocables de Eliot Ness con un 9: crimen británico crudo sobre un convicto que ajusta cuentas.\n\nPoco conocidas",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/b1YleWsVXKsNH93MR8LxVsSDLaJ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_765"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_765"
+        }
+      ]
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "posterShape": "poster",
+      "description": "El Coyote demanda a ACME Corporation en un pleito absurdo que mezcla animación y acción real con humor gamberro.\n\nPoco conocidas",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_766"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_766"
         }
       ]
     }

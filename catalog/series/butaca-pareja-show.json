@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Barry",
       "posterShape": "poster",
-      "description": "Un sicario que sueña con ser actor en Los Ángeles, comedia negra con Bill Hader que mezcla crimen y humor incómodo.\n\nPara ver en pareja",
+      "description": "Un asesino a sueldo que sueña con ser actor mezcla comedia negra y crimen con el filo que tanto os gusta.\n\nPara ver en pareja",
       "releaseInfo": "2018",
       "poster": "https://image.tmdb.org/t/p/w342/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
       "links": [
@@ -22,11 +22,32 @@
       ]
     },
     {
+      "id": "tt2294189",
+      "type": "series",
+      "name": "La caza",
+      "posterShape": "poster",
+      "description": "Una detective persigue a un asesino en serie en Belfast, puro juego del gato y el ratón con tensión constante.\n\nPara ver en pareja",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/jjLTidTTpkRiCaN3aF5mXhgs6nA.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_769"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_769"
+        }
+      ]
+    },
+    {
       "id": "tt1888075",
       "type": "series",
       "name": "Crimen en el paraíso",
       "posterShape": "poster",
-      "description": "Un detective inglés resuelve crímenes en una isla caribeña, misterio de pistas clásico con un toque de humor.\n\nPara ver en pareja",
+      "description": "Un detective inglés resuelve asesinatos en una isla caribeña, misterio clásico con humor y encanto para ver juntos.\n\nPara ver en pareja",
       "releaseInfo": "2011",
       "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
       "links": [

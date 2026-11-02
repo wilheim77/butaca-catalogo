@@ -1,32 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt2267998",
-      "type": "movie",
-      "name": "Perdida",
-      "posterShape": "poster",
-      "description": "Fincher firma este thriller sobre un matrimonio que se resquebraja tras la desaparición de la esposa, ideal para comentar después.\n\nPara ver en pareja",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_724"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_724"
-        }
-      ]
-    },
-    {
       "id": "tt12001534",
       "type": "movie",
       "name": "El club del crimen de los jueves",
       "posterShape": "poster",
-      "description": "Como en Sherlock Holmes, que valoraste con un 8, aquí un grupo de jubilados resuelve un asesinato real con humor negro.\n\nPara ver en pareja",
+      "description": "Como en el Sherlock Holmes que valoraste con un 8, unos jubilados resuelven un crimen real con ingenio y humor negro.\n\nPara ver en pareja",
       "releaseInfo": "2025",
       "poster": "https://image.tmdb.org/t/p/w342/xJeCdbeaLgsEr5DkXD6T67eqZFT.jpg",
       "links": [
@@ -47,7 +26,7 @@
       "type": "movie",
       "name": "Un pequeño favor",
       "posterShape": "poster",
-      "description": "Comedia negra de Paul Feig con Anna Kendrick y Blake Lively, sobre la desaparición repentina de una amiga con muchos secretos.\n\nPara ver en pareja",
+      "description": "Un misterio con humor negro sobre la desaparición de una amiga, con la mezcla de suspense y comedia que tanto disfrutáis juntos.\n\nPara ver en pareja",
       "releaseInfo": "2018",
       "poster": "https://image.tmdb.org/t/p/w342/kBNMPKuVnsyLwUIE9fyOEQULBv6.jpg",
       "links": [
@@ -64,65 +43,23 @@
       ]
     },
     {
-      "id": "tt31195136",
+      "id": "tt31121295",
       "type": "movie",
-      "name": "Normal",
+      "name": "Deep Cover: Actores encubiertos",
       "posterShape": "poster",
-      "description": "Como Fargo, que valoraste con un 9, un sheriff sustituto destapa una trama oscura bajo la calma de un pueblo de Minnesota.\n\nPara ver en pareja",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "description": "Como en RocknRolla, que valoraste con un 8, aquí unos actores de improvisación se infiltran en el crimen londinense con mucho humor.\n\nPara ver en pareja",
+      "releaseInfo": "2025",
+      "poster": "https://image.tmdb.org/t/p/w342/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_729"
+          "url": "https://t.me/Butacawillybot?start=seen_732"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_729"
-        }
-      ]
-    },
-    {
-      "id": "tt0036342",
-      "type": "movie",
-      "name": "La sombra de una duda",
-      "posterShape": "poster",
-      "description": "Como El nombre de la rosa (tu 9), Hitchcock siembra sospecha cuando un encantador forastero llega a un pueblo tranquilo.\n\nPara ver en pareja",
-      "releaseInfo": "1943",
-      "poster": "https://image.tmdb.org/t/p/w342/kF40hCjwn5X1GbT57d2xIALeGHF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_730"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_730"
-        }
-      ]
-    },
-    {
-      "id": "tt0056923",
-      "type": "movie",
-      "name": "Charada",
-      "posterShape": "poster",
-      "description": "Cary Grant y Audrey Hepburn resuelven un enredo de espías y herencias en el París de los 60, con ingenio y misterio.\n\nPara ver en pareja",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_658"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_658"
+          "url": "https://t.me/Butacawillybot?start=nope_732"
         }
       ]
     },
@@ -131,7 +68,7 @@
       "type": "movie",
       "name": "La última parada en Arizona",
       "posterShape": "poster",
-      "description": "Como Fargo (tu 9), dos atracadores retienen a un grupo variopinto en una gasolinera del desierto con tensión y humor negro.\n\nPara ver en pareja",
+      "description": "Como en Los sospechosos habituales, un grupo variopinto queda atrapado en una gasolinera con tensión creciente y personajes extravagantes.\n\nPara ver en pareja",
       "releaseInfo": "2024",
       "poster": "https://image.tmdb.org/t/p/w342/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
       "links": [
@@ -148,23 +85,44 @@
       ]
     },
     {
-      "id": "tt31121295",
+      "id": "tt1924429",
       "type": "movie",
-      "name": "Deep Cover: Actores encubiertos",
+      "name": "En trance",
       "posterShape": "poster",
-      "description": "Como RocknRolla (tu 8), una profesora de teatro se infiltra en el crimen organizado londinense en esta comedia disparatada.\n\nPara ver en pareja",
-      "releaseInfo": "2025",
-      "poster": "https://image.tmdb.org/t/p/w342/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
+      "description": "Como en Los sospechosos habituales, un ladrón de arte pierde la memoria tras un golpe en la cabeza durante un atraco.\n\nPara ver en pareja",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/doqPDahogP1zyjOwdmOygCWTCaO.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_732"
+          "url": "https://t.me/Butacawillybot?start=seen_770"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_732"
+          "url": "https://t.me/Butacawillybot?start=nope_770"
+        }
+      ]
+    },
+    {
+      "id": "tt0025878",
+      "type": "movie",
+      "name": "La cena de los acusados",
+      "posterShape": "poster",
+      "description": "Un detective y su mujer resuelven un caso de asesinato con ingenio y diálogos chispeantes, ideal para ver en pareja.\n\nPara ver en pareja",
+      "releaseInfo": "1934",
+      "poster": "https://image.tmdb.org/t/p/w342/bSTwEucUoveVCm4lhpDCZNbKKYf.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_771"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_771"
         }
       ]
     }

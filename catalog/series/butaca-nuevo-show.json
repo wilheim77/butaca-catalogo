@@ -1,53 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt8001106",
-      "type": "series",
-      "name": "Giri/Haji: Deber/Deshonor",
-      "posterShape": "poster",
-      "description": "Un policía japonés busca a su hermano asesino entre Tokio y Londres, mezclando yakuza y crimen organizado.\n\nAlgo nuevo",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_715"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_715"
-        }
-      ]
-    },
-    {
-      "id": "tt4378376",
-      "type": "series",
-      "name": "Babylon Berlin",
-      "posterShape": "poster",
-      "description": "Un detective alemán investiga crimen y corrupción en el Berlín de los años 20, puro neo-noir europeo.\n\nAlgo nuevo",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_717"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_717"
-        }
-      ]
-    },
-    {
       "id": "tt5820976",
       "type": "series",
       "name": "El marginal",
       "posterShape": "poster",
-      "description": "Un expolicía se infiltra en una cárcel argentina para resolver un secuestro, crimen y tensión carcelaria sin descanso.\n\nAlgo nuevo",
+      "description": "Un expolicía se infiltra en una cárcel argentina para resolver un secuestro, crimen y tensión carcelaria en clave latinoamericana.\n\nAlgo nuevo",
       "releaseInfo": "2016",
       "poster": "https://image.tmdb.org/t/p/w342/p1GFsUK5nCVHYNtjRxoGyfGdD9C.jpg",
       "links": [
@@ -64,11 +22,32 @@
       ]
     },
     {
+      "id": "tt0088634",
+      "type": "series",
+      "name": "Más allá de los límites de la realidad",
+      "posterShape": "poster",
+      "description": "Antología de ciencia ficción y misterio con historias breves e ingeniosas, con la colaboración de John Milius, el de Conan el bárbaro.\n\nAlgo nuevo",
+      "releaseInfo": "1985",
+      "poster": "https://image.tmdb.org/t/p/w342/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_645"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_645"
+        }
+      ]
+    },
+    {
       "id": "tt0826760",
       "type": "series",
       "name": "The Killing: Crónica de un asesinato",
       "posterShape": "poster",
-      "description": "Una inspectora danesa investiga un asesinato episodio a episodio, el nordic noir que lleva la deducción al extremo.\n\nAlgo nuevo",
+      "description": "La inspectora Sarah Lund investiga un asesinato durante toda una temporada en este thriller nórdico danés, denso y minucioso.\n\nAlgo nuevo",
       "releaseInfo": "2007",
       "poster": "https://image.tmdb.org/t/p/w342/fr2JGWd99W55MaPQpdAWP448S6K.jpg",
       "links": [
@@ -85,44 +64,65 @@
       ]
     },
     {
-      "id": "tt0386950",
+      "id": "tt4378376",
       "type": "series",
-      "name": "Mayday Catástrofes Aéreas",
+      "name": "Babylon Berlin",
       "posterShape": "poster",
-      "description": "Cada episodio reconstruye un accidente aéreo y explica paso a paso cómo los investigadores dieron con la causa.\n\nAlgo nuevo",
-      "releaseInfo": "2003",
-      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+      "description": "Un joven detective investiga crímenes en el Berlín decadente de los años veinte, neo-noir alemán de gran ambición visual.\n\nAlgo nuevo",
+      "releaseInfo": "2017",
+      "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_722"
+          "url": "https://t.me/Butacawillybot?start=seen_717"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_722"
+          "url": "https://t.me/Butacawillybot?start=nope_717"
         }
       ]
     },
     {
-      "id": "tt0088634",
+      "id": "tt5363918",
       "type": "series",
-      "name": "Más allá de los límites de la realidad",
+      "name": "(Des)encanto",
       "posterShape": "poster",
-      "description": "Antología de ciencia ficción con historias autoconclusivas y giros inesperados, con la firma de John Milius entre sus autores.\n\nAlgo nuevo",
-      "releaseInfo": "1985",
-      "poster": "https://image.tmdb.org/t/p/w342/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg",
+      "description": "Matt Groening, el creador de Futurama, construye aquí un reino de fantasía con la misma sátira afilada de siempre.\n\nAlgo nuevo",
+      "releaseInfo": "2018",
+      "poster": "https://image.tmdb.org/t/p/w342/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_645"
+          "url": "https://t.me/Butacawillybot?start=seen_768"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_645"
+          "url": "https://t.me/Butacawillybot?start=nope_768"
+        }
+      ]
+    },
+    {
+      "id": "tt8001106",
+      "type": "series",
+      "name": "Giri/Haji: Deber/Deshonor",
+      "posterShape": "poster",
+      "description": "Un policía japonés viaja a Londres tras su hermano, un asesino, mientras la yakuza se mueve en Tokio: crimen transcontinental.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_715"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_715"
         }
       ]
     }

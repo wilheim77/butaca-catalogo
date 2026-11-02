@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Atraco perfecto",
       "posterShape": "poster",
-      "description": "De Stanley Kubrich, el director al que le diste un 10: un atraco al hipódromo planeado al milímetro.\n\nClásicos que te faltan",
+      "description": "Antes de La naranja mecánica, que tanto te gustó, Kubrick firmó este atraco de precisión milimetrada.\n\nClásicos que te faltan",
       "releaseInfo": "1956",
       "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
       "links": [
@@ -22,44 +22,44 @@
       ]
     },
     {
-      "id": "tt0048021",
+      "id": "tt0038355",
       "type": "movie",
-      "name": "Rififi",
+      "name": "El sueño eterno",
       "posterShape": "poster",
-      "description": "Un clásico francés de atracos meticulosos, dirigido por Jules Dassin, antecesor directo del cine de robos que te gusta.\n\nClásicos que te faltan",
-      "releaseInfo": "1955",
-      "poster": "https://image.tmdb.org/t/p/w342/kKGrux7ERvRY84uOV5TV9Pi15cf.jpg",
+      "description": "Si te gustó El nombre de la rosa: un detective clásico, Bogart como Marlowe, resolviendo un caso a base de pistas.\n\nClásicos que te faltan",
+      "releaseInfo": "1946",
+      "poster": "https://image.tmdb.org/t/p/w342/hkKuvY7u4cOFF3nfCSLewVKGRai.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_621"
+          "url": "https://t.me/Butacawillybot?start=seen_755"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_621"
+          "url": "https://t.me/Butacawillybot?start=nope_755"
         }
       ]
     },
     {
-      "id": "tt0040897",
+      "id": "tt0072890",
       "type": "movie",
-      "name": "El tesoro de Sierra Madre",
+      "name": "Tarde de perros",
       "posterShape": "poster",
-      "description": "Como El bueno, el feo y el malo que tanto te gustó: codicia y traición entre buscadores de oro.\n\nClásicos que te faltan",
-      "releaseInfo": "1948",
-      "poster": "https://image.tmdb.org/t/p/w342/6K9oljorPmH0UVxUdACazNBuAlg.jpg",
+      "description": "Como en Sospechosos habituales, que te encantó: la tensión crece en tiempo real cuando un golpe sencillo se complica.\n\nClásicos que te faltan",
+      "releaseInfo": "1975",
+      "poster": "https://image.tmdb.org/t/p/w342/ctcUXNlnddo9ndUK0w7w6CZQpig.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_695"
+          "url": "https://t.me/Butacawillybot?start=seen_756"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_695"
+          "url": "https://t.me/Butacawillybot?start=nope_756"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "Chinatown",
       "posterShape": "poster",
-      "description": "Un detective de Jack Nicholson investigando corrupción y secretos en el Los Ángeles de los años 30, puro cine negro.\n\nClásicos que te faltan",
+      "description": "Sumérgete en Jack Nicholson como detective en un Los Ángeles de corrupción y secretos, puro cine negro de pistas.\n\nClásicos que te faltan",
       "releaseInfo": "1974",
       "poster": "https://image.tmdb.org/t/p/w342/1wO2OmUCWButQyVPGWQEZn5twca.jpg",
       "links": [
@@ -89,7 +89,7 @@
       "type": "movie",
       "name": "Barry Lyndon",
       "posterShape": "poster",
-      "description": "Otra vez Kubrick, al que le diste un 10: una epopeya británica del siglo XVIII sobre ambición y guerra.\n\nClásicos que te faltan",
+      "description": "Otra cara de Kubrick, el director que te dio un 10 con La naranja mecánica, en un drama de ambición del XVIII.\n\nClásicos que te faltan",
       "releaseInfo": "1975",
       "poster": "https://image.tmdb.org/t/p/w342/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
       "links": [
@@ -110,7 +110,7 @@
       "type": "movie",
       "name": "El silencio de un hombre",
       "posterShape": "poster",
-      "description": "Alain Delon como un sicario frío y hermético en uno de los pilares del cine negro francés.\n\nClásicos que te faltan",
+      "description": "Verás a Alain Delon como un asesino a sueldo frío y hermético, referencia del cine negro francés.\n\nClásicos que te faltan",
       "releaseInfo": "1967",
       "poster": "https://image.tmdb.org/t/p/w342/rjA2UW47qTIeuL6aNHTbUu6yTP6.jpg",
       "links": [
@@ -127,149 +127,65 @@
       ]
     },
     {
-      "id": "tt0057565",
+      "id": "tt0048021",
       "type": "movie",
-      "name": "El infierno del odio",
+      "name": "Rififi",
       "posterShape": "poster",
-      "description": "Akira Kurosawa en clave de cine negro: un secuestro que pone a prueba la moral de un empresario.\n\nClásicos que te faltan",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/9c87PSaPcoZzAGbJKQLAcYiqGRy.jpg",
+      "description": "Te espera uno de los atracos clásicos del cine negro, meticuloso y silencioso, que inspiró el género heist.\n\nClásicos que te faltan",
+      "releaseInfo": "1955",
+      "poster": "https://image.tmdb.org/t/p/w342/kKGrux7ERvRY84uOV5TV9Pi15cf.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_293"
+          "url": "https://t.me/Butacawillybot?start=seen_621"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_293"
+          "url": "https://t.me/Butacawillybot?start=nope_621"
         }
       ]
     },
     {
-      "id": "tt0069293",
+      "id": "tt0095647",
       "type": "movie",
-      "name": "Solaris",
+      "name": "Arde Mississippi",
       "posterShape": "poster",
-      "description": "Ciencia ficción soviética de ideas puras, basada en la novela de Lem, sobre un viaje espacial que remueve la mente.\n\nClásicos que te faltan",
-      "releaseInfo": "1972",
-      "poster": "https://image.tmdb.org/t/p/w342/69J6Hplvaw5o5lfCRqFRd4nmuH7.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_699"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_699"
-        }
-      ]
-    },
-    {
-      "id": "tt0074958",
-      "type": "movie",
-      "name": "Network, un mundo implacable",
-      "posterShape": "poster",
-      "description": "Sidney Lumet retrata con mordacidad la televisión y sus audiencias, una sátira corporativa que no ha perdido filo.\n\nClásicos que te faltan",
-      "releaseInfo": "1976",
-      "poster": "https://image.tmdb.org/t/p/w342/r8CrxsvFK8JIBUpIZX0rBmojsC9.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_544"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_544"
-        }
-      ]
-    },
-    {
-      "id": "tt0056058",
-      "type": "movie",
-      "name": "Harakiri",
-      "posterShape": "poster",
-      "description": "Un samurái cuenta en flashback la historia que lo llevó al harakiri, honor y venganza en el Japón feudal.\n\nClásicos que te faltan",
-      "releaseInfo": "1962",
-      "poster": "https://image.tmdb.org/t/p/w342/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_540"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_540"
-        }
-      ]
-    },
-    {
-      "id": "tt0020629",
-      "type": "movie",
-      "name": "Sin novedad en el frente",
-      "posterShape": "poster",
-      "description": "Clásico antibelicista sobre jóvenes soldados alemanes en la Primera Guerra Mundial, con el mismo peso moral que valoras en el bélico.\n\nClásicos que te faltan",
-      "releaseInfo": "1930",
-      "poster": "https://image.tmdb.org/t/p/w342/whhnoAEoobX7dasproRpBipHXJT.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_628"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_628"
-        }
-      ]
-    },
-    {
-      "id": "tt0091251",
-      "type": "movie",
-      "name": "Masacre (Ven y mira)",
-      "posterShape": "poster",
-      "description": "Un drama bélico soviético sobre el horror nazi en el frente oriental, durísimo y con mucho peso moral.\n\nClásicos que te faltan",
-      "releaseInfo": "1985",
-      "poster": "https://image.tmdb.org/t/p/w342/j2hzNkmwYT184eP9qYdjViiYxCO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_383"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_383"
-        }
-      ]
-    },
-    {
-      "id": "tt0095327",
-      "type": "movie",
-      "name": "La tumba de las luciérnagas",
-      "posterShape": "poster",
-      "description": "Animación japonesa sobre dos hermanos que luchan por sobrevivir entre los bombardeos de la Segunda Guerra Mundial.\n\nClásicos que te faltan",
+      "description": "Gene Hackman investiga al Ku Klux Klan en un thriller criminal con el mismo pulso que Lock & Stock, que te encantó.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/xTPa9c7Bgdq1BlZee24QeIx0jyR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2KcLTGJaY2wD6jaZrOra36Eekqz.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_700"
+          "url": "https://t.me/Butacawillybot?start=seen_757"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_700"
+          "url": "https://t.me/Butacawillybot?start=nope_757"
+        }
+      ]
+    },
+    {
+      "id": "tt0080979",
+      "type": "movie",
+      "name": "Kagemusha, la sombra del guerrero",
+      "posterShape": "poster",
+      "description": "Kurosawa te mete en el poder y el engaño de la guerra feudal japonesa con una épica visual enorme.\n\nClásicos que te faltan",
+      "releaseInfo": "1980",
+      "poster": "https://image.tmdb.org/t/p/w342/cytymlKEDJGOo9TiktGZMKK1uOJ.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_758"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_758"
         }
       ]
     },
@@ -278,7 +194,7 @@
       "type": "movie",
       "name": "Investigación sobre un ciudadano libre de toda sospecha",
       "posterShape": "poster",
-      "description": "Un alto cargo policial investiga su propio crimen en esta sátira política italiana sobre poder y corrupción.\n\nClásicos que te faltan",
+      "description": "Verás a un alto cargo de policía italiano exponer su propio crimen en una sátira negra sobre el poder.\n\nClásicos que te faltan",
       "releaseInfo": "1970",
       "poster": "https://image.tmdb.org/t/p/w342/5eUBcyilUy0sy6AcqNpjgXQX4A4.jpg",
       "links": [
@@ -295,11 +211,95 @@
       ]
     },
     {
+      "id": "tt0000417",
+      "type": "movie",
+      "name": "El viaje a la Luna",
+      "posterShape": "poster",
+      "description": "Remóntate al germen de la ciencia ficción: astrónomos viajan a la Luna en esta sátira pionera de Méliès.\n\nClásicos que te faltan",
+      "releaseInfo": "1902",
+      "poster": "https://image.tmdb.org/t/p/w342/l58KDN46lKx5RPzu1encomzSuJU.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_759"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_759"
+        }
+      ]
+    },
+    {
+      "id": "tt0017925",
+      "type": "movie",
+      "name": "El maquinista de La General",
+      "posterShape": "poster",
+      "description": "Verás a Buster Keaton perseguir a un comando enemigo en plena Guerra de Secesión, acción muda y gamberra.\n\nClásicos que te faltan",
+      "releaseInfo": "1926",
+      "poster": "https://image.tmdb.org/t/p/w342/9jcJ6loloQiifZssTtUDkK7j7dG.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_760"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_760"
+        }
+      ]
+    },
+    {
+      "id": "tt0048434",
+      "type": "movie",
+      "name": "Noche y niebla",
+      "posterShape": "poster",
+      "description": "Te espera un breve y contundente documental sobre los campos nazis, de peso histórico directo.\n\nClásicos que te faltan",
+      "releaseInfo": "1956",
+      "poster": "https://image.tmdb.org/t/p/w342/c0eZtYCYOe4XV55dOZ016XesKg3.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_761"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_761"
+        }
+      ]
+    },
+    {
+      "id": "tt0074958",
+      "type": "movie",
+      "name": "Network, un mundo implacable",
+      "posterShape": "poster",
+      "description": "Sidney Lumet te mete en la corrupción televisiva con una sátira feroz sobre el poder de la audiencia.\n\nClásicos que te faltan",
+      "releaseInfo": "1976",
+      "poster": "https://image.tmdb.org/t/p/w342/r8CrxsvFK8JIBUpIZX0rBmojsC9.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_544"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_544"
+        }
+      ]
+    },
+    {
       "id": "tt0043338",
       "type": "movie",
       "name": "El gran carnaval",
       "posterShape": "poster",
-      "description": "Billy Wilder retrata a un periodista sin escrúpulos que explota una tragedia para volver a la fama, puro cine negro.\n\nClásicos que te faltan",
+      "description": "Billy Wilder y Kirk Douglas te llevan a una sátira de cine negro sobre un periodista sin escrúpulos.\n\nClásicos que te faltan",
       "releaseInfo": "1951",
       "poster": "https://image.tmdb.org/t/p/w342/tJNUItBnWB003o14WgBMHYxPfaZ.jpg",
       "links": [

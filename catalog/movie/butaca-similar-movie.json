@@ -1,11 +1,53 @@
 {
   "metas": [
     {
+      "id": "tt0071360",
+      "type": "movie",
+      "name": "La conversación",
+      "posterShape": "poster",
+      "description": "Coppola, tu director ancla, firma este thriller de vigilancia y paranoia protagonizado por Gene Hackman.\n\nSimilar a tus gustos",
+      "releaseInfo": "1974",
+      "poster": "https://image.tmdb.org/t/p/w342/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_688"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_688"
+        }
+      ]
+    },
+    {
+      "id": "tt6019206",
+      "type": "movie",
+      "name": "Kill Bill: The Whole Bloody Affair",
+      "posterShape": "poster",
+      "description": "La versión completa de Kill Bill, el díptico de Tarantino que ya puntuaste con un 9, sin pausas.\n\nSimilar a tus gustos",
+      "releaseInfo": "2011",
+      "poster": "https://image.tmdb.org/t/p/w342/rrdOoifC74O7YLdQsaIXA393RlR.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_748"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_748"
+        }
+      ]
+    },
+    {
       "id": "tt2948372",
       "type": "movie",
       "name": "Soul",
       "posterShape": "poster",
-      "description": "Del mismo Pete Docter que te encantó en Monstruos, S.A., una fantasía animada sobre el sentido de la vida.\n\nSimilar a tus gustos",
+      "description": "De Pete Docter, el creador de Del revés que mencionas entre tus anclas, una animación sobre el sentido de la vida.\n\nSimilar a tus gustos",
       "releaseInfo": "2020",
       "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
       "links": [
@@ -26,7 +68,7 @@
       "type": "movie",
       "name": "Jojo Rabbit",
       "posterShape": "poster",
-      "description": "Comedia bélica con humor negro y sátira feroz sobre la Alemania nazi, dirigida por Taika Waititi.\n\nSimilar a tus gustos",
+      "description": "Sátira negra ambientada en la Alemania nazi, dirigida por Taika Waititi, con el humor incómodo que tanto disfrutas.\n\nSimilar a tus gustos",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg",
       "links": [
@@ -43,53 +85,11 @@
       ]
     },
     {
-      "id": "tt9471678",
-      "type": "movie",
-      "name": "Ultraman: El ascenso",
-      "posterShape": "poster",
-      "description": "Como en Los Increíbles, un héroe familiar hereda el deber de proteger la ciudad de monstruos gigantes.\n\nSimilar a tus gustos",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_687"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_687"
-        }
-      ]
-    },
-    {
-      "id": "tt0071360",
-      "type": "movie",
-      "name": "La conversación",
-      "posterShape": "poster",
-      "description": "De Francis Ford Coppola, el mismo director que te enganchó con su épica criminal, ahora en un thriller de escuchas y paranoia.\n\nSimilar a tus gustos",
-      "releaseInfo": "1974",
-      "poster": "https://image.tmdb.org/t/p/w342/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_688"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_688"
-        }
-      ]
-    },
-    {
       "id": "tt0088846",
       "type": "movie",
       "name": "Brazil",
       "posterShape": "poster",
-      "description": "Terry Gilliam construye una distopía burocrática y satírica, el tono de humor negro con ideas que tanto te enamora.\n\nSimilar a tus gustos",
+      "description": "Terry Gilliam retrata una distopía burocrática y opresiva con la sátira de ciencia ficción de ideas que te atrapa.\n\nSimilar a tus gustos",
       "releaseInfo": "1985",
       "poster": "https://image.tmdb.org/t/p/w342/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg",
       "links": [
@@ -106,11 +106,32 @@
       ]
     },
     {
+      "id": "tt1931533",
+      "type": "movie",
+      "name": "Siete psicópatas",
+      "posterShape": "poster",
+      "description": "Comedia criminal con humor negro y personajes excéntricos, en la línea de Snatch, que puntuaste con un 9.\n\nSimilar a tus gustos",
+      "releaseInfo": "2012",
+      "poster": "https://image.tmdb.org/t/p/w342/vtFTwRFJoxNFZi6Lin1RtbY0kXL.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_749"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_749"
+        }
+      ]
+    },
+    {
       "id": "tt0087843",
       "type": "movie",
       "name": "Érase una vez en América",
       "posterShape": "poster",
-      "description": "Sergio Leone y Robert De Niro firman una epopeya criminal de décadas, antihéroes y amistad traicionada.\n\nSimilar a tus gustos",
+      "description": "Épica criminal de Sergio Leone con Robert De Niro, recomendada a partir de Snatch, que valoraste con un 9.\n\nSimilar a tus gustos",
       "releaseInfo": "1984",
       "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
       "links": [
@@ -123,6 +144,27 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_597"
+        }
+      ]
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "posterShape": "poster",
+      "description": "Thriller de ciencia ficción sobre un androide con IA que se vuelve obsesivo, inquietante como te gustan estas historias.\n\nSimilar a tus gustos",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_751"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_751"
         }
       ]
     }

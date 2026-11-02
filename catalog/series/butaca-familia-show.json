@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Veronica Mars",
       "posterShape": "poster",
-      "description": "Una detective adolescente investiga el asesinato de su mejor amiga en el instituto, con pistas, deducción y un romance de fondo.\n\nEn familia",
+      "description": "Serie de misterio neo-noir sobre una detective adolescente que investiga casos mientras vive su propio romance de instituto.\n\nEn familia",
       "releaseInfo": "2004",
       "poster": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
       "links": [
@@ -26,7 +26,7 @@
       "type": "series",
       "name": "The Society",
       "posterShape": "poster",
-      "description": "Un grupo de adolescentes debe organizar su propia sociedad tras una desaparición misteriosa: puro misterio distópico protagonizado por chicos de su edad.\n\nEn familia",
+      "description": "Un grupo de adolescentes queda atrapado y debe crear su propia sociedad para sobrevivir, con mucho misterio de fondo.\n\nEn familia",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg",
       "links": [
@@ -47,7 +47,7 @@
       "type": "series",
       "name": "El mentalista",
       "posterShape": "poster",
-      "description": "Un exmédium que resuelve crímenes solo a base de observación y deducción, al estilo de los detectives clásicos que te atrapan.\n\nEn familia",
+      "description": "Serie policiaca de deducción pura, donde un asesor resuelve casos observando los detalles que nadie más ve.\n\nEn familia",
       "releaseInfo": "2008",
       "poster": "https://image.tmdb.org/t/p/w342/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg",
       "links": [
@@ -64,86 +64,23 @@
       ]
     },
     {
-      "id": "tt7908628",
+      "id": "tt2758770",
       "type": "series",
-      "name": "Lo que hacemos en las sombras",
+      "name": "Star contra las fuerzas del mal",
       "posterShape": "poster",
-      "description": "Comedia de humor negro sobre tres vampiros que llevan siglos compartiendo piso, con un tono absurdo que nunca busca el gag fácil.\n\nEn familia",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_499"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_499"
-        }
-      ]
-    },
-    {
-      "id": "tt6263222",
-      "type": "series",
-      "name": "Bong Soon, una chica superfuerte",
-      "posterShape": "poster",
-      "description": "Comedia coreana de acción con una protagonista de fuerza sobrehumana y un triángulo amoroso, ligera y entretenida para ver juntos.\n\nEn familia",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/zUeMFnFJKPqe8lNdUYl7oxrwSZ3.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_737"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_737"
-        }
-      ]
-    },
-    {
-      "id": "tt4803738",
-      "type": "series",
-      "name": "Te Recuerdo",
-      "posterShape": "poster",
-      "description": "Misterio coreano de investigación criminal con un toque de romance, perfecto si os gusta reconstruir pistas hasta el final.\n\nEn familia",
+      "description": "Animación de aventuras con magia y mundos paralelos, protagonizada por una princesa adolescente con mucho ingenio.\n\nEn familia",
       "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/6LnvlfevdppZNYg0VptRb7N8fwe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/drnY78Uwi4nYw4jOEp067WRl4Lt.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_739"
+          "url": "https://t.me/Butacawillybot?start=seen_773"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_739"
-        }
-      ]
-    },
-    {
-      "id": "tt7942796",
-      "type": "series",
-      "name": "Magnum",
-      "posterShape": "poster",
-      "description": "Un expolicía convertido en investigador privado en Hawái: aventura ligera y detectivesca fácil de disfrutar en familia.\n\nEn familia",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_741"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_741"
+          "url": "https://t.me/Butacawillybot?start=nope_773"
         }
       ]
     }

@@ -1,32 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt9735318",
-      "type": "series",
-      "name": "The Beatles: Get Back",
-      "posterShape": "poster",
-      "description": "Peter Jackson, el director de tu trilogía favorita, rescata horas inéditas del proceso creativo de los Beatles.\n\nPoco conocidas",
-      "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_703"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_703"
-        }
-      ]
-    },
-    {
       "id": "tt5249462",
       "type": "series",
       "name": "Desaparecido",
       "posterShape": "poster",
-      "description": "Un mangaka viaja al pasado para impedir una tragedia: misterio con vueltas de tuerca que invitan a releerlo todo.\n\nPoco conocidas",
+      "description": "Un mangaka revive momentos del pasado para impedir una tragedia, un misterio que te obliga a releer cada pista al revés.\n\nPoco conocidas",
       "releaseInfo": "2016",
       "poster": "https://image.tmdb.org/t/p/w342/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg",
       "links": [
@@ -47,7 +26,7 @@
       "type": "series",
       "name": "NieR:Automata Ver1.1a",
       "posterShape": "poster",
-      "description": "Androides luchan contra una invasión alienígena en un futuro devastado: ciencia ficción distópica con mucho peso visual.\n\nPoco conocidas",
+      "description": "Una androide de combate sobrevive a una misión que acaba en desastre, distopía post-apocalíptica adaptada del videojuego de culto.\n\nPoco conocidas",
       "releaseInfo": "2023",
       "poster": "https://image.tmdb.org/t/p/w342/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
       "links": [
@@ -64,11 +43,32 @@
       ]
     },
     {
+      "id": "tt13718450",
+      "type": "series",
+      "name": "86: Eighty-Six",
+      "posterShape": "poster",
+      "description": "Pilotos humanos ocultos tras drones de combate en una guerra que esconde racismo y tragedia, mecha bélico con mucho peso dramático.\n\nPoco conocidas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_764"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_764"
+        }
+      ]
+    },
+    {
       "id": "tt13851958",
       "type": "series",
       "name": "Vivy: Fluorite Eye’s Song",
       "posterShape": "poster",
-      "description": "Una IA cantante viaja en el tiempo para evitar una guerra entre humanos y máquinas: anime de ideas.\n\nPoco conocidas",
+      "description": "Una IA cantante recibe el aviso de una guerra futura entre humanos y máquinas y emprende un viaje para evitarla.\n\nPoco conocidas",
       "releaseInfo": "2021",
       "poster": "https://image.tmdb.org/t/p/w342/xRakd62ihUP19NBgWyJzjO26NxE.jpg",
       "links": [
@@ -89,7 +89,7 @@
       "type": "series",
       "name": "Inuyashiki, el último héroe",
       "posterShape": "poster",
-      "description": "Un hombre mayor y desahuciado se convierte en cyborg tras un extraño accidente: acción y drama con alma.\n\nPoco conocidas",
+      "description": "Un hombre de 58 años con cáncer terminal se convierte en cyborg tras un accidente, tragedia con acción y dilema moral.\n\nPoco conocidas",
       "releaseInfo": "2017",
       "poster": "https://image.tmdb.org/t/p/w342/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
       "links": [
@@ -106,74 +106,11 @@
       ]
     },
     {
-      "id": "tt0495212",
-      "type": "series",
-      "name": "Hellsing Ultimate",
-      "posterShape": "poster",
-      "description": "Una orden protestante de cazadores sobrenaturales se enfrenta a vampiros y nazis en un Londres oscuro y violento.\n\nPoco conocidas",
-      "releaseInfo": "2006",
-      "poster": "https://image.tmdb.org/t/p/w342/evZtiZzMX9VFoM1zzvRUmPoLPBg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_711"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_711"
-        }
-      ]
-    },
-    {
-      "id": "tt12004706",
-      "type": "series",
-      "name": "पंचायत",
-      "posterShape": "poster",
-      "description": "Un ingeniero forzado a trabajar en un pueblo rural indio protagoniza esta sátira política entrañable y con mucho ingenio.\n\nPoco conocidas",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_712"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_712"
-        }
-      ]
-    },
-    {
-      "id": "tt1020116",
-      "type": "series",
-      "name": "Boris",
-      "posterShape": "poster",
-      "description": "Una sátira italiana sobre el caos detrás de las cámaras de un rodaje, con humor mordaz y oficio.\n\nPoco conocidas",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_638"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_638"
-        }
-      ]
-    },
-    {
       "id": "tt15582422",
       "type": "series",
       "name": "Black Rock Shooter: Dawn Fall",
       "posterShape": "poster",
-      "description": "En un 2062 devastado por una IA en guerra contra la humanidad, una guardiana lucha por sobrevivir.\n\nPoco conocidas",
+      "description": "En una Tierra devastada por la guerra entre IA y humanos, una superviviente despierta sin saber en qué bando está.\n\nPoco conocidas",
       "releaseInfo": "2022",
       "poster": "https://image.tmdb.org/t/p/w342/x607kupq3V7rsIz2gakITqwElum.jpg",
       "links": [
@@ -190,23 +127,65 @@
       ]
     },
     {
-      "id": "tt36742917",
+      "id": "tt9735318",
       "type": "series",
-      "name": "No tengo miedo",
+      "name": "The Beatles: Get Back",
       "posterShape": "poster",
-      "description": "Un niño de diez años descubre un oscuro secreto en un pueblo mexicano de los 80: drama inquietante y mínimo.\n\nPoco conocidas",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+      "description": "Si te encantó la trilogía de Jackson con un 10: dirige este documental con horas inéditas de los Beatles en el estudio.\n\nPoco conocidas",
+      "releaseInfo": "2021",
+      "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_714"
+          "url": "https://t.me/Butacawillybot?start=seen_703"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_714"
+          "url": "https://t.me/Butacawillybot?start=nope_703"
+        }
+      ]
+    },
+    {
+      "id": "tt1020116",
+      "type": "series",
+      "name": "Boris",
+      "posterShape": "poster",
+      "description": "Sátira italiana sobre el caos detrás de cámaras de una producción de televisión, humor negro sobre el mundo del cine.\n\nPoco conocidas",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_638"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_638"
+        }
+      ]
+    },
+    {
+      "id": "tt12004706",
+      "type": "series",
+      "name": "पंचायत",
+      "posterShape": "poster",
+      "description": "Comedia satírica sobre un joven graduado que acaba gestionando la burocracia de un panchayat rural en la India.\n\nPoco conocidas",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_712"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_712"
         }
       ]
     }

@@ -1,44 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt2582802",
+      "id": "tt0056058",
       "type": "movie",
-      "name": "Whiplash",
+      "name": "Harakiri",
       "posterShape": "poster",
-      "description": "Un joven batería y un profesor despiadado chocan en una historia de ambición y obsesión en un conservatorio de jazz.\n\nAlgo nuevo",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "description": "Un samurái cuenta en flashback la historia que le llevó al harakiri, puro cine japonés de honor y venganza.\n\nAlgo nuevo",
+      "releaseInfo": "1962",
+      "poster": "https://image.tmdb.org/t/p/w342/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_563"
+          "url": "https://t.me/Butacawillybot?start=seen_767"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_563"
-        }
-      ]
-    },
-    {
-      "id": "tt0369702",
-      "type": "movie",
-      "name": "Mar adentro",
-      "posterShape": "poster",
-      "description": "Alejandro Amenábar, uno de los directores que más te gustan, firma aquí un drama íntimo sobre la lucha por la propia libertad.\n\nAlgo nuevo",
-      "releaseInfo": "2004",
-      "poster": "https://image.tmdb.org/t/p/w342/6mGgn60Riv14B3zPjTNNZnFHp3c.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_716"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_716"
+          "url": "https://t.me/Butacawillybot?start=nope_767"
         }
       ]
     },
@@ -47,7 +26,7 @@
       "type": "movie",
       "name": "Old Boy",
       "posterShape": "poster",
-      "description": "Un thriller surcoreano de venganza y transformación, con ese humor negro retorcido que tanto disfrutas en dosis fuertes.\n\nAlgo nuevo",
+      "description": "Un hombre busca venganza sin saber por qué estuvo encerrado quince años, thriller surcoreano de Park Chan-wook con mucha tensión.\n\nAlgo nuevo",
       "releaseInfo": "2003",
       "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
       "links": [
@@ -64,11 +43,32 @@
       ]
     },
     {
+      "id": "tt0022100",
+      "type": "movie",
+      "name": "M, el vampiro de Düsseldorf",
+      "posterShape": "poster",
+      "description": "Fritz Lang construye en 1931 esta caza de un asesino en Berlín, el germen del cine negro y el thriller de investigación.\n\nAlgo nuevo",
+      "releaseInfo": "1931",
+      "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_723"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_723"
+        }
+      ]
+    },
+    {
       "id": "tt0338564",
       "type": "movie",
       "name": "Juego sucio (Infernal Affairs)",
       "posterShape": "poster",
-      "description": "Dos topos, uno policía infiltrado en la mafia y otro mafioso infiltrado en la policía, en un thriller de Hong Kong.\n\nAlgo nuevo",
+      "description": "Dos topos infiltrados, uno policía en la mafia y otro al revés, en este thriller de Hong Kong tenso y calculado.\n\nAlgo nuevo",
       "releaseInfo": "2002",
       "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
       "links": [
@@ -85,11 +85,32 @@
       ]
     },
     {
+      "id": "tt0369702",
+      "type": "movie",
+      "name": "Mar adentro",
+      "posterShape": "poster",
+      "description": "Alejandro Amenábar, cuyo cine ya conoces, firma este drama íntimo sobre la libertad y la dignidad en sus últimos años.\n\nAlgo nuevo",
+      "releaseInfo": "2004",
+      "poster": "https://image.tmdb.org/t/p/w342/6mGgn60Riv14B3zPjTNNZnFHp3c.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_716"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_716"
+        }
+      ]
+    },
+    {
       "id": "tt0071994",
       "type": "movie",
       "name": "El fantasma del paraíso",
       "posterShape": "poster",
-      "description": "Del mismo De Palma que amas por su puesta en escena operística, aquí mezcla rock, terror y sátira musical.\n\nAlgo nuevo",
+      "description": "Brian De Palma, con la misma puesta en escena operística de sus gánsteres, se pasa al rock gótico entre musical y terror.\n\nAlgo nuevo",
       "releaseInfo": "1974",
       "poster": "https://image.tmdb.org/t/p/w342/aY1dUNxJWXlvZiBIfBaj3GNR10P.jpg",
       "links": [
@@ -110,7 +131,7 @@
       "type": "movie",
       "name": "Círculo rojo",
       "posterShape": "poster",
-      "description": "Un atraco meticuloso con ladrones de honor en el París de los 70, puro cine criminal francés.\n\nAlgo nuevo",
+      "description": "Un expresidiario y un fugitivo se unen para un atraco en este clásico francés de Jean-Pierre Melville, crimen frío y elegante.\n\nAlgo nuevo",
       "releaseInfo": "1970",
       "poster": "https://image.tmdb.org/t/p/w342/ezov5DqBaCnXR7nPwpqqQ01Iavy.jpg",
       "links": [
@@ -123,27 +144,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_646"
-        }
-      ]
-    },
-    {
-      "id": "tt0022100",
-      "type": "movie",
-      "name": "M, el vampiro de Düsseldorf",
-      "posterShape": "poster",
-      "description": "Un clásico alemán de 1931 sobre la caza de un asesino, con la policía y la mafia investigando en paralelo.\n\nAlgo nuevo",
-      "releaseInfo": "1931",
-      "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_723"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_723"
         }
       ]
     }
