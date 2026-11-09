@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "Temporada 3 estrenada el 23 de octubre\n\nNuevas temporadas",
       "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_339"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_339"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg"
     },
     {
       "id": "tt13111078",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "Temporada 3 estrenada el 2 de agosto\n\nNuevas temporadas",
       "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_677"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_677"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
     },
     {
       "id": "tt7631058",
@@ -49,19 +25,7 @@
       "posterShape": "poster",
       "description": "La temporada 3 llega el 11 de noviembre\n\nNuevas temporadas",
       "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_340"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_340"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg"
     },
     {
       "id": "tt11691774",
@@ -70,19 +34,7 @@
       "posterShape": "poster",
       "description": "La temporada 6 llega el 8 de diciembre\n\nNuevas temporadas",
       "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_679"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_679"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg"
     }
   ]
 }

@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "Si te gustó Snatch: crimen británico callejero con venganza en prisión, tiros y pulso de bajos fondos.\n\nPoco conocidas",
       "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/b1YleWsVXKsNH93MR8LxVsSDLaJ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_765"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_765"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/b1YleWsVXKsNH93MR8LxVsSDLaJ.jpg"
     },
     {
       "id": "tt9471678",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "Como en Los Increíbles: una familia con poderes y responsabilidad heredada, aquí entre kaijus y animación vibrante.\n\nPoco conocidas",
       "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_762"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_762"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg"
     }
   ]
 }

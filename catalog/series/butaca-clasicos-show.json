@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "John Cleese, al que ya le diste un 10, protagoniza este sitcom sobre un hotelero histérico y su personal caótico.\n\nClásicos que te faltan",
       "releaseInfo": "1975",
-      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_785"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_785"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg"
     },
     {
       "id": "tt0084988",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "Rowan Atkinson encabeza esta sátira histórica mordaz ambientada en guerras y cortes reales, con Hugh Laurie en el reparto.\n\nClásicos que te faltan",
       "releaseInfo": "1983",
-      "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_787"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_787"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg"
     },
     {
       "id": "tt0096684",
@@ -49,19 +25,7 @@
       "posterShape": "poster",
       "description": "Un científico salta sin control por distintas épocas intentando corregir el pasado, puro viaje en el tiempo conceptual.\n\nClásicos que te faltan",
       "releaseInfo": "1989",
-      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_377"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_377"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg"
     },
     {
       "id": "tt0094535",
@@ -70,19 +34,7 @@
       "posterShape": "poster",
       "description": "Una sitcom espacial británica sobre el último humano vivo, un holograma sarcástico y un gato evolucionado como tripulación.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
-      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_294"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_294"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg"
     }
   ]
 }

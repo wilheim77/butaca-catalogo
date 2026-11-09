@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "Una estudiante investiga el asesinato de su mejor amiga mientras trabaja de detective privado en la agencia de su padre.\n\nEn familia",
       "releaseInfo": "2004",
-      "poster": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_664"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_664"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg"
     },
     {
       "id": "tt8778064",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "Los adolescentes de un pueblo deben crear su propia sociedad para sobrevivir cuando todos los adultos desaparecen sin explicación.\n\nEn familia",
       "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_674"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_674"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg"
     },
     {
       "id": "tt1196946",
@@ -49,19 +25,7 @@
       "posterShape": "poster",
       "description": "Un exmentalista usa su aguda capacidad de observación para resolver crímenes como asesor de la policía de California.\n\nEn familia",
       "releaseInfo": "2008",
-      "poster": "https://image.tmdb.org/t/p/w342/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_423"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_423"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg"
     },
     {
       "id": "tt2249364",
@@ -70,19 +34,7 @@
       "posterShape": "poster",
       "description": "La desaparición de un niño sacude a un pequeño pueblo costero en una investigación cargada de tensión, con David Tennant y Olivia Colman.\n\nEn familia",
       "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_800"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_800"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg"
     }
   ]
 }

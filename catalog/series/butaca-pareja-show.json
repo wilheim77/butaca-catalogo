@@ -1,46 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt5348176",
-      "type": "series",
-      "name": "Barry",
-      "posterShape": "poster",
-      "description": "Un asesino a sueldo que sueña con ser actor en Hollywood mezcla comedia negra y crimen con mucho ingenio.\n\nPara ver en pareja",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_725"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_725"
-        }
-      ]
-    },
-    {
       "id": "tt1888075",
       "type": "series",
       "name": "Crimen en el paraíso",
       "posterShape": "poster",
       "description": "Un detective inglés resuelve crímenes en una isla caribeña, puro misterio de pistas al estilo clásico que te atrapa.\n\nPara ver en pareja",
       "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_727"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_727"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/kczDRg492d3Iy6v4KraPVQ5ebhz.jpg"
     },
     {
       "id": "tt2294189",
@@ -49,19 +16,7 @@
       "posterShape": "poster",
       "description": "Gillian Anderson persigue a un asesino en serie en Belfast, un thriller psicológico de gato y ratón bien tenso.\n\nPara ver en pareja",
       "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/kR26GXWD98DPv0RKI7DJqMbtBFQ.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_769"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_769"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/kR26GXWD98DPv0RKI7DJqMbtBFQ.jpg"
     }
   ]
 }

@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "Un dibujante viaja atrás en el tiempo para evitar un asesinato, misterio animado de deducción y segunda oportunidad.\n\nPoco conocidas",
       "releaseInfo": "2016",
-      "poster": "https://image.tmdb.org/t/p/w342/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_705"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_705"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg"
     },
     {
       "id": "tt9735318",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "De Peter Jackson, el director de la trilogía de El Señor de los Anillos, un documental íntimo sobre los Beatles.\n\nPoco conocidas",
       "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_703"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_703"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg"
     }
   ]
 }

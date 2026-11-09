@@ -7,19 +7,7 @@
       "posterShape": "poster",
       "description": "Del mismo Kubrick que te atrapó con La naranja mecánica, aquí dirige un atraco noir contado en fragmentos que vas recomponiendo.\n\nAlgo nuevo",
       "releaseInfo": "1956",
-      "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_790"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_790"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg"
     },
     {
       "id": "tt2582802",
@@ -28,19 +16,7 @@
       "posterShape": "poster",
       "description": "Te meterá en un duelo de voluntades entre un batería novato y un profesor despiadado, encerrado en una sala de ensayo.\n\nAlgo nuevo",
       "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_792"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_792"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg"
     },
     {
       "id": "tt0022100",
@@ -49,19 +25,7 @@
       "posterShape": "poster",
       "description": "Clásico alemán de 1931: la caza de un asesino en serie con el pulso de investigación que te atrapa en cine negro.\n\nAlgo nuevo",
       "releaseInfo": "1931",
-      "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_723"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_723"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg"
     },
     {
       "id": "tt0364569",
@@ -70,19 +34,7 @@
       "posterShape": "poster",
       "description": "Coreano de Park Chan-wook: un hombre busca venganza tras quince años de encierro, con ese humor negro retorcido que tanto disfrutas.\n\nAlgo nuevo",
       "releaseInfo": "2003",
-      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_718"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_718"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg"
     },
     {
       "id": "tt0338564",
@@ -91,19 +43,7 @@
       "posterShape": "poster",
       "description": "Thriller de Hong Kong que te atrapa: un policía infiltrado en la mafia y un topo infiltrado en la policía, tensión pura.\n\nAlgo nuevo",
       "releaseInfo": "2002",
-      "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_720"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_720"
-        }
-      ]
+      "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg"
     }
   ]
 }
