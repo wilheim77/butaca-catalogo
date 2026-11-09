@@ -1,65 +1,65 @@
 {
   "metas": [
     {
-      "id": "tt5820976",
+      "id": "tt1759761",
       "type": "series",
-      "name": "El marginal",
+      "name": "Veep",
       "posterShape": "poster",
-      "description": "Un expolicía se infiltra en una cárcel argentina para resolver un secuestro, crimen y tensión carcelaria en clave latinoamericana.\n\nAlgo nuevo",
-      "releaseInfo": "2016",
-      "poster": "https://image.tmdb.org/t/p/w342/p1GFsUK5nCVHYNtjRxoGyfGdD9C.jpg",
+      "description": "Sátira política feroz sobre una vicepresidenta torpe rodeada de asesores desastrosos, con el humor afilado y absurdo que tanto disfrutas.\n\nAlgo nuevo",
+      "releaseInfo": "2012",
+      "poster": "https://image.tmdb.org/t/p/w342/cdd78fGdaA3EbK2ToZRWcaaB1fx.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_719"
+          "url": "https://t.me/Butacawillybot?start=seen_791"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_719"
+          "url": "https://t.me/Butacawillybot?start=nope_791"
         }
       ]
     },
     {
-      "id": "tt0088634",
+      "id": "tt0386950",
       "type": "series",
-      "name": "Más allá de los límites de la realidad",
+      "name": "Mayday Catástrofes Aéreas",
       "posterShape": "poster",
-      "description": "Antología de ciencia ficción y misterio con historias breves e ingeniosas, con la colaboración de John Milius, el de Conan el bárbaro.\n\nAlgo nuevo",
-      "releaseInfo": "1985",
-      "poster": "https://image.tmdb.org/t/p/w342/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg",
+      "description": "Cada episodio te hace reconstruir un desastre aéreo real y luego revela la investigación que explica qué falló.\n\nAlgo nuevo",
+      "releaseInfo": "2003",
+      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_645"
+          "url": "https://t.me/Butacawillybot?start=seen_793"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_645"
+          "url": "https://t.me/Butacawillybot?start=nope_793"
         }
       ]
     },
     {
-      "id": "tt0826760",
+      "id": "tt11093718",
       "type": "series",
-      "name": "The Killing: Crónica de un asesinato",
+      "name": "Imperio",
       "posterShape": "poster",
-      "description": "La inspectora Sarah Lund investiga un asesinato durante toda una temporada en este thriller nórdico danés, denso y minucioso.\n\nAlgo nuevo",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/fr2JGWd99W55MaPQpdAWP448S6K.jpg",
+      "description": "Drama histórico turco sobre las guerras y alianzas del imperio otomano, con el peso bélico que tanto valoras en el cine histórico.\n\nAlgo nuevo",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/6B4kOE4KYUVJfo2nXxp06p4Eivp.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_721"
+          "url": "https://t.me/Butacawillybot?start=seen_794"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_721"
+          "url": "https://t.me/Butacawillybot?start=nope_794"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "type": "series",
       "name": "Babylon Berlin",
       "posterShape": "poster",
-      "description": "Un joven detective investiga crímenes en el Berlín decadente de los años veinte, neo-noir alemán de gran ambición visual.\n\nAlgo nuevo",
+      "description": "Serie alemana ambientada en el Berlín de los años veinte, con un joven detective y la atmósfera de neo-noir que te atrae.\n\nAlgo nuevo",
       "releaseInfo": "2017",
       "poster": "https://image.tmdb.org/t/p/w342/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
       "links": [
@@ -89,7 +89,7 @@
       "type": "series",
       "name": "(Des)encanto",
       "posterShape": "poster",
-      "description": "Matt Groening, el creador de Futurama, construye aquí un reino de fantasía con la misma sátira afilada de siempre.\n\nAlgo nuevo",
+      "description": "Del creador de Futurama, que tanto te gusta, ahora en un reino de fantasía medieval con demonios y elfos.\n\nAlgo nuevo",
       "releaseInfo": "2018",
       "poster": "https://image.tmdb.org/t/p/w342/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg",
       "links": [
@@ -106,11 +106,53 @@
       ]
     },
     {
+      "id": "tt5820976",
+      "type": "series",
+      "name": "El marginal",
+      "posterShape": "poster",
+      "description": "Serie argentina que te mete en una cárcel peligrosa: un expolicía infiltrado intenta resolver un secuestro sin ser descubierto.\n\nAlgo nuevo",
+      "releaseInfo": "2016",
+      "poster": "https://image.tmdb.org/t/p/w342/p1GFsUK5nCVHYNtjRxoGyfGdD9C.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_719"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_719"
+        }
+      ]
+    },
+    {
+      "id": "tt0826760",
+      "type": "series",
+      "name": "The Killing: Crónica de un asesinato",
+      "posterShape": "poster",
+      "description": "Nordic noir danés que te sumerge en la investigación pausada de la inspectora Sarah Lund tras un asesinato, atmósfera gélida.\n\nAlgo nuevo",
+      "releaseInfo": "2007",
+      "poster": "https://image.tmdb.org/t/p/w342/fr2JGWd99W55MaPQpdAWP448S6K.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_721"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_721"
+        }
+      ]
+    },
+    {
       "id": "tt8001106",
       "type": "series",
       "name": "Giri/Haji: Deber/Deshonor",
       "posterShape": "poster",
-      "description": "Un policía japonés viaja a Londres tras su hermano, un asesino, mientras la yakuza se mueve en Tokio: crimen transcontinental.\n\nAlgo nuevo",
+      "description": "Te lleva entre Londres y Tokio: un policía busca a su hermano asesino mientras la yakuza mueve sus hilos en la sombra.\n\nAlgo nuevo",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/aMhYWWI6ifbBMEOKxxOK4PGCy1g.jpg",
       "links": [

@@ -1,86 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt0071360",
+      "id": "tt31121295",
       "type": "movie",
-      "name": "La conversación",
+      "name": "Deep Cover: Actores encubiertos",
       "posterShape": "poster",
-      "description": "Coppola, tu director ancla, firma este thriller de vigilancia y paranoia protagonizado por Gene Hackman.\n\nSimilar a tus gustos",
-      "releaseInfo": "1974",
-      "poster": "https://image.tmdb.org/t/p/w342/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
+      "description": "Si te encantó El golpe: una banda se infiltra en el crimen organizado londinense con ingenio y comedia.\n\nSimilar a tus gustos",
+      "releaseInfo": "2025",
+      "poster": "https://image.tmdb.org/t/p/w342/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_688"
+          "url": "https://t.me/Butacawillybot?start=seen_780"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_688"
-        }
-      ]
-    },
-    {
-      "id": "tt6019206",
-      "type": "movie",
-      "name": "Kill Bill: The Whole Bloody Affair",
-      "posterShape": "poster",
-      "description": "La versión completa de Kill Bill, el díptico de Tarantino que ya puntuaste con un 9, sin pausas.\n\nSimilar a tus gustos",
-      "releaseInfo": "2011",
-      "poster": "https://image.tmdb.org/t/p/w342/rrdOoifC74O7YLdQsaIXA393RlR.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_748"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_748"
-        }
-      ]
-    },
-    {
-      "id": "tt2948372",
-      "type": "movie",
-      "name": "Soul",
-      "posterShape": "poster",
-      "description": "De Pete Docter, el creador de Del revés que mencionas entre tus anclas, una animación sobre el sentido de la vida.\n\nSimilar a tus gustos",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_604"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_604"
-        }
-      ]
-    },
-    {
-      "id": "tt2584384",
-      "type": "movie",
-      "name": "Jojo Rabbit",
-      "posterShape": "poster",
-      "description": "Sátira negra ambientada en la Alemania nazi, dirigida por Taika Waititi, con el humor incómodo que tanto disfrutas.\n\nSimilar a tus gustos",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w342/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_606"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_606"
+          "url": "https://t.me/Butacawillybot?start=nope_780"
         }
       ]
     },
@@ -89,7 +26,7 @@
       "type": "movie",
       "name": "Brazil",
       "posterShape": "poster",
-      "description": "Terry Gilliam retrata una distopía burocrática y opresiva con la sátira de ciencia ficción de ideas que te atrapa.\n\nSimilar a tus gustos",
+      "description": "Una distopía burocrática y satírica de Terry Gilliam, con el humor negro y las ideas que tanto disfrutas.\n\nSimilar a tus gustos",
       "releaseInfo": "1985",
       "poster": "https://image.tmdb.org/t/p/w342/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg",
       "links": [
@@ -106,23 +43,86 @@
       ]
     },
     {
-      "id": "tt1931533",
+      "id": "tt0072684",
       "type": "movie",
-      "name": "Siete psicópatas",
+      "name": "Barry Lyndon",
       "posterShape": "poster",
-      "description": "Comedia criminal con humor negro y personajes excéntricos, en la línea de Snatch, que puntuaste con un 9.\n\nSimilar a tus gustos",
-      "releaseInfo": "2012",
-      "poster": "https://image.tmdb.org/t/p/w342/vtFTwRFJoxNFZi6Lin1RtbY0kXL.jpg",
+      "description": "Si te atrapó La naranja mecánica: Kubrick narra un ascenso social del siglo XVIII con igual precisión visual.\n\nSimilar a tus gustos",
+      "releaseInfo": "1975",
+      "poster": "https://image.tmdb.org/t/p/w342/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_749"
+          "url": "https://t.me/Butacawillybot?start=seen_781"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_749"
+          "url": "https://t.me/Butacawillybot?start=nope_781"
+        }
+      ]
+    },
+    {
+      "id": "tt2584384",
+      "type": "movie",
+      "name": "Jojo Rabbit",
+      "posterShape": "poster",
+      "description": "Sátira bélica con humor negro: un niño en la Alemania nazi y un amigo imaginario muy particular.\n\nSimilar a tus gustos",
+      "releaseInfo": "2019",
+      "poster": "https://image.tmdb.org/t/p/w342/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_606"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_606"
+        }
+      ]
+    },
+    {
+      "id": "tt2948372",
+      "type": "movie",
+      "name": "Soul",
+      "posterShape": "poster",
+      "description": "Del director de Del revés: Pixar vuelve a explorar la identidad y el sentido de la vida con ternura.\n\nSimilar a tus gustos",
+      "releaseInfo": "2020",
+      "poster": "https://image.tmdb.org/t/p/w342/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_604"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_604"
+        }
+      ]
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "posterShape": "poster",
+      "description": "Si te marcó Alien: un robot con IA y la soledad tras una pérdida se tuercen en terror.\n\nSimilar a tus gustos",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_751"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_751"
         }
       ]
     },
@@ -131,7 +131,7 @@
       "type": "movie",
       "name": "Érase una vez en América",
       "posterShape": "poster",
-      "description": "Épica criminal de Sergio Leone con Robert De Niro, recomendada a partir de Snatch, que valoraste con un 9.\n\nSimilar a tus gustos",
+      "description": "Epopeya criminal con Robert De Niro: décadas de amistad, ambición y violencia en el Nueva York del siglo XX.\n\nSimilar a tus gustos",
       "releaseInfo": "1984",
       "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
       "links": [
@@ -148,23 +148,44 @@
       ]
     },
     {
-      "id": "tt32654916",
+      "id": "tt14614892",
       "type": "movie",
-      "name": "Soulm8te",
+      "name": "Dragon Ball Super: Super Hero",
       "posterShape": "poster",
-      "description": "Thriller de ciencia ficción sobre un androide con IA que se vuelve obsesivo, inquietante como te gustan estas historias.\n\nSimilar a tus gustos",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
+      "description": "Goku y compañía se enfrentan a nuevos androides en esta aventura de acción y ciencia ficción de Dragon Ball.\n\nSimilar a tus gustos",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_751"
+          "url": "https://t.me/Butacawillybot?start=seen_782"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_751"
+          "url": "https://t.me/Butacawillybot?start=nope_782"
+        }
+      ]
+    },
+    {
+      "id": "tt0092067",
+      "type": "movie",
+      "name": "El castillo en el cielo",
+      "posterShape": "poster",
+      "description": "Miyazaki te lleva a una ciudad flotante con piratas del cielo y una huérfana en busca de un cristal mítico.\n\nSimilar a tus gustos",
+      "releaseInfo": "1986",
+      "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_783"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_783"
         }
       ]
     }

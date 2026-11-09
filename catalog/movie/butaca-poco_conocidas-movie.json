@@ -1,74 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt9471678",
-      "type": "movie",
-      "name": "Ultraman: El ascenso",
-      "posterShape": "poster",
-      "description": "Si te gustó Monstruos, S.A. con un 9: animación japonesa sobre un héroe que protege la ciudad de kaijus.\n\nPoco conocidas",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_762"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_762"
-        }
-      ]
-    },
-    {
-      "id": "tt2338151",
-      "type": "movie",
-      "name": "P.K. (Peekay)",
-      "posterShape": "poster",
-      "description": "Un forastero cuestiona con ingenuidad las religiones establecidas, sátira india con la mordacidad del humor inteligente que te gusta.\n\nPoco conocidas",
-      "releaseInfo": "2014",
-      "poster": "https://image.tmdb.org/t/p/w342/i9V1uuUzJFPjdXOg6knfHci8Mha.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_637"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_637"
-        }
-      ]
-    },
-    {
-      "id": "tt2056785",
-      "type": "movie",
-      "name": "Wildwood: El Bosque Salvaje",
-      "posterShape": "poster",
-      "description": "Aventura en stop motion dirigida por Travis Knight, con un bosque mágico y una misión de rescate muy visual.\n\nPoco conocidas",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_763"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_763"
-        }
-      ]
-    },
-    {
       "id": "tt8836988",
       "type": "movie",
       "name": "Avengement",
       "posterShape": "poster",
-      "description": "Si te gustó Los intocables de Eliot Ness con un 9: crimen británico crudo sobre un convicto que ajusta cuentas.\n\nPoco conocidas",
+      "description": "Si te gustó Snatch: crimen británico callejero con venganza en prisión, tiros y pulso de bajos fondos.\n\nPoco conocidas",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/b1YleWsVXKsNH93MR8LxVsSDLaJ.jpg",
       "links": [
@@ -85,23 +22,23 @@
       ]
     },
     {
-      "id": "tt1756855",
+      "id": "tt9471678",
       "type": "movie",
-      "name": "Coyote vs. Acme",
+      "name": "Ultraman: El ascenso",
       "posterShape": "poster",
-      "description": "El Coyote demanda a ACME Corporation en un pleito absurdo que mezcla animación y acción real con humor gamberro.\n\nPoco conocidas",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "description": "Como en Los Increíbles: una familia con poderes y responsabilidad heredada, aquí entre kaijus y animación vibrante.\n\nPoco conocidas",
+      "releaseInfo": "2024",
+      "poster": "https://image.tmdb.org/t/p/w342/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_766"
+          "url": "https://t.me/Butacawillybot?start=seen_762"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_766"
+          "url": "https://t.me/Butacawillybot?start=nope_762"
         }
       ]
     }

@@ -1,86 +1,23 @@
 {
   "metas": [
     {
-      "id": "tt31195136",
+      "id": "tt2056785",
       "type": "movie",
-      "name": "Normal",
+      "name": "Wildwood: El Bosque Salvaje",
       "posterShape": "poster",
-      "description": "Un sheriff suplente llega a un pueblo tranquilo y un atraco destapa secretos, con el tono de Fargo que te encantó.\n\nNovedades",
+      "description": "Dirigida por Travis Knight, te lleva a un bosque mágico en stop motion donde Prue busca rescatar a su hermano secuestrado.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_742"
+          "url": "https://t.me/Butacawillybot?start=seen_774"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_742"
-        }
-      ]
-    },
-    {
-      "id": "tt21285562",
-      "type": "movie",
-      "name": "La constelación del perro",
-      "posterShape": "poster",
-      "description": "Ridley Scott dirige esta distopía postapocalíptica basada en una novela, ciencia ficción de ideas con un piloto superviviente en un mundo devastado.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/yLF5V8Ca1cyp8avqABzTZuoHc2K.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_743"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_743"
-        }
-      ]
-    },
-    {
-      "id": "tt31450459",
-      "type": "movie",
-      "name": "Digger",
-      "posterShape": "poster",
-      "description": "Iñárritu dirige esta sátira sobre un magnate que se cree salvador del mundo, humor negro con filo crítico.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_589"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_589"
-        }
-      ]
-    },
-    {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity. La sombra de un engaño",
-      "posterShape": "poster",
-      "description": "Una escritora fantasma destapa oscuros secretos familiares, en la estela de intriga literaria que te atrapó en El nombre de la rosa.\n\nNovedades",
-      "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_744"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_744"
+          "url": "https://t.me/Butacawillybot?start=nope_774"
         }
       ]
     },
@@ -89,7 +26,7 @@
       "type": "movie",
       "name": "El hombre que desafió al rey",
       "posterShape": "poster",
-      "description": "Paul Greengrass narra una rebelión campesina en la Inglaterra medieval de la peste, drama histórico con peso real.\n\nNovedades",
+      "description": "Dirigida por Paul Greengrass, un campesino medieval se convierte en líder de una rebelión contra el rey Ricardo II.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "links": [
@@ -106,11 +43,74 @@
       ]
     },
     {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "posterShape": "poster",
+      "description": "El Coyote contrata a un abogado humano para demandar a ACME, una sátira judicial que mezcla animación y acción real.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_777"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_777"
+        }
+      ]
+    },
+    {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "Puedes verlo todo",
+      "posterShape": "poster",
+      "description": "Dirigido por Nathan Fielder, un retrato íntimo de Elizabeth Holmes que se convierte en un viaje insólito de tres años.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_747"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_747"
+        }
+      ]
+    },
+    {
+      "id": "tt34385135",
+      "type": "movie",
+      "name": "Zona cero",
+      "posterShape": "poster",
+      "description": "Del director surcoreano Yeon Sang-ho, un virus mutante se libera en una conferencia de biotecnología y lo cambia todo en horas.\n\nNovedades",
+      "releaseInfo": "2026",
+      "poster": "https://image.tmdb.org/t/p/w342/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_778"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_778"
+        }
+      ]
+    },
+    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
       "posterShape": "poster",
-      "description": "Una expedición al Everest en los años 50, drama histórico de aventura y superación con Tom Hiddleston.\n\nNovedades",
+      "description": "Ambientada en los años 50, sigue la arriesgada expedición de un hombre por ser el primero en coronar el Everest.\n\nNovedades",
       "releaseInfo": "2026",
       "poster": "https://image.tmdb.org/t/p/w342/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
       "links": [
@@ -127,23 +127,23 @@
       ]
     },
     {
-      "id": "tt45368240",
+      "id": "tt31349844",
       "type": "movie",
-      "name": "You Can See Everything",
+      "name": "Entrega al límite",
       "posterShape": "poster",
-      "description": "Nathan Fielder documenta de cerca a Elizabeth Holmes antes de entrar en prisión, un retrato íntimo de engaño y ambición.\n\nNovedades",
+      "description": "Un exsoldado y su compañera corren contrarreloj con una entrega médica crucial, perseguidos por un cártel despiadado.\n\nNovedades",
       "releaseInfo": "2026",
-      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_747"
+          "url": "https://t.me/Butacawillybot?start=seen_779"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_747"
+          "url": "https://t.me/Butacawillybot?start=nope_779"
         }
       ]
     }

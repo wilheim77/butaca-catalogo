@@ -1,44 +1,44 @@
 {
   "metas": [
     {
-      "id": "tt0056058",
+      "id": "tt0049406",
       "type": "movie",
-      "name": "Harakiri",
+      "name": "Atraco perfecto",
       "posterShape": "poster",
-      "description": "Un samurái cuenta en flashback la historia que le llevó al harakiri, puro cine japonés de honor y venganza.\n\nAlgo nuevo",
-      "releaseInfo": "1962",
-      "poster": "https://image.tmdb.org/t/p/w342/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
+      "description": "Del mismo Kubrick que te atrapó con La naranja mecánica, aquí dirige un atraco noir contado en fragmentos que vas recomponiendo.\n\nAlgo nuevo",
+      "releaseInfo": "1956",
+      "poster": "https://image.tmdb.org/t/p/w342/1NL92xMCQRK254IVSPkpsG0ErZG.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_767"
+          "url": "https://t.me/Butacawillybot?start=seen_790"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_767"
+          "url": "https://t.me/Butacawillybot?start=nope_790"
         }
       ]
     },
     {
-      "id": "tt0364569",
+      "id": "tt2582802",
       "type": "movie",
-      "name": "Old Boy",
+      "name": "Whiplash",
       "posterShape": "poster",
-      "description": "Un hombre busca venganza sin saber por qué estuvo encerrado quince años, thriller surcoreano de Park Chan-wook con mucha tensión.\n\nAlgo nuevo",
-      "releaseInfo": "2003",
-      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
+      "description": "Te meterá en un duelo de voluntades entre un batería novato y un profesor despiadado, encerrado en una sala de ensayo.\n\nAlgo nuevo",
+      "releaseInfo": "2014",
+      "poster": "https://image.tmdb.org/t/p/w342/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_718"
+          "url": "https://t.me/Butacawillybot?start=seen_792"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_718"
+          "url": "https://t.me/Butacawillybot?start=nope_792"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "type": "movie",
       "name": "M, el vampiro de Düsseldorf",
       "posterShape": "poster",
-      "description": "Fritz Lang construye en 1931 esta caza de un asesino en Berlín, el germen del cine negro y el thriller de investigación.\n\nAlgo nuevo",
+      "description": "Clásico alemán de 1931: la caza de un asesino en serie con el pulso de investigación que te atrapa en cine negro.\n\nAlgo nuevo",
       "releaseInfo": "1931",
       "poster": "https://image.tmdb.org/t/p/w342/drwll2kXZpmRYBEtWMWZbHcFkJF.jpg",
       "links": [
@@ -64,11 +64,32 @@
       ]
     },
     {
+      "id": "tt0364569",
+      "type": "movie",
+      "name": "Old Boy",
+      "posterShape": "poster",
+      "description": "Coreano de Park Chan-wook: un hombre busca venganza tras quince años de encierro, con ese humor negro retorcido que tanto disfrutas.\n\nAlgo nuevo",
+      "releaseInfo": "2003",
+      "poster": "https://image.tmdb.org/t/p/w342/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_718"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_718"
+        }
+      ]
+    },
+    {
       "id": "tt0338564",
       "type": "movie",
       "name": "Juego sucio (Infernal Affairs)",
       "posterShape": "poster",
-      "description": "Dos topos infiltrados, uno policía en la mafia y otro al revés, en este thriller de Hong Kong tenso y calculado.\n\nAlgo nuevo",
+      "description": "Thriller de Hong Kong que te atrapa: un policía infiltrado en la mafia y un topo infiltrado en la policía, tensión pura.\n\nAlgo nuevo",
       "releaseInfo": "2002",
       "poster": "https://image.tmdb.org/t/p/w342/mysrlEo9tI97grfucr75fRwrTcf.jpg",
       "links": [
@@ -81,69 +102,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_720"
-        }
-      ]
-    },
-    {
-      "id": "tt0369702",
-      "type": "movie",
-      "name": "Mar adentro",
-      "posterShape": "poster",
-      "description": "Alejandro Amenábar, cuyo cine ya conoces, firma este drama íntimo sobre la libertad y la dignidad en sus últimos años.\n\nAlgo nuevo",
-      "releaseInfo": "2004",
-      "poster": "https://image.tmdb.org/t/p/w342/6mGgn60Riv14B3zPjTNNZnFHp3c.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_716"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_716"
-        }
-      ]
-    },
-    {
-      "id": "tt0071994",
-      "type": "movie",
-      "name": "El fantasma del paraíso",
-      "posterShape": "poster",
-      "description": "Brian De Palma, con la misma puesta en escena operística de sus gánsteres, se pasa al rock gótico entre musical y terror.\n\nAlgo nuevo",
-      "releaseInfo": "1974",
-      "poster": "https://image.tmdb.org/t/p/w342/aY1dUNxJWXlvZiBIfBaj3GNR10P.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_649"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_649"
-        }
-      ]
-    },
-    {
-      "id": "tt0065531",
-      "type": "movie",
-      "name": "Círculo rojo",
-      "posterShape": "poster",
-      "description": "Un expresidiario y un fugitivo se unen para un atraco en este clásico francés de Jean-Pierre Melville, crimen frío y elegante.\n\nAlgo nuevo",
-      "releaseInfo": "1970",
-      "poster": "https://image.tmdb.org/t/p/w342/ezov5DqBaCnXR7nPwpqqQ01Iavy.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_646"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_646"
         }
       ]
     }

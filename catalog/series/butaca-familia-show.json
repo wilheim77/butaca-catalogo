@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Veronica Mars",
       "posterShape": "poster",
-      "description": "Serie de misterio neo-noir sobre una detective adolescente que investiga casos mientras vive su propio romance de instituto.\n\nEn familia",
+      "description": "Una estudiante investiga el asesinato de su mejor amiga mientras trabaja de detective privado en la agencia de su padre.\n\nEn familia",
       "releaseInfo": "2004",
       "poster": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
       "links": [
@@ -26,7 +26,7 @@
       "type": "series",
       "name": "The Society",
       "posterShape": "poster",
-      "description": "Un grupo de adolescentes queda atrapado y debe crear su propia sociedad para sobrevivir, con mucho misterio de fondo.\n\nEn familia",
+      "description": "Los adolescentes de un pueblo deben crear su propia sociedad para sobrevivir cuando todos los adultos desaparecen sin explicación.\n\nEn familia",
       "releaseInfo": "2019",
       "poster": "https://image.tmdb.org/t/p/w342/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg",
       "links": [
@@ -47,7 +47,7 @@
       "type": "series",
       "name": "El mentalista",
       "posterShape": "poster",
-      "description": "Serie policiaca de deducción pura, donde un asesor resuelve casos observando los detalles que nadie más ve.\n\nEn familia",
+      "description": "Un exmentalista usa su aguda capacidad de observación para resolver crímenes como asesor de la policía de California.\n\nEn familia",
       "releaseInfo": "2008",
       "poster": "https://image.tmdb.org/t/p/w342/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg",
       "links": [
@@ -64,23 +64,23 @@
       ]
     },
     {
-      "id": "tt2758770",
+      "id": "tt2249364",
       "type": "series",
-      "name": "Star contra las fuerzas del mal",
+      "name": "Broadchurch",
       "posterShape": "poster",
-      "description": "Animación de aventuras con magia y mundos paralelos, protagonizada por una princesa adolescente con mucho ingenio.\n\nEn familia",
-      "releaseInfo": "2015",
-      "poster": "https://image.tmdb.org/t/p/w342/drnY78Uwi4nYw4jOEp067WRl4Lt.jpg",
+      "description": "La desaparición de un niño sacude a un pequeño pueblo costero en una investigación cargada de tensión, con David Tennant y Olivia Colman.\n\nEn familia",
+      "releaseInfo": "2013",
+      "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
       "links": [
         {
           "name": "✅ Ya la he visto",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_773"
+          "url": "https://t.me/Butacawillybot?start=seen_800"
         },
         {
           "name": "🚫 No me interesa",
           "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_773"
+          "url": "https://t.me/Butacawillybot?start=nope_800"
         }
       ]
     }

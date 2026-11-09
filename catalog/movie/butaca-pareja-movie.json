@@ -1,11 +1,32 @@
 {
   "metas": [
     {
+      "id": "tt22687790",
+      "type": "movie",
+      "name": "Misterio en Venecia",
+      "posterShape": "poster",
+      "description": "Poirot vuelve en un misterio de pistas y deducción clásico, justo el estilo que más te atrapa.\n\nPara ver en pareja",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_795"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_795"
+        }
+      ]
+    },
+    {
       "id": "tt12001534",
       "type": "movie",
       "name": "El club del crimen de los jueves",
       "posterShape": "poster",
-      "description": "Como en el Sherlock Holmes que valoraste con un 8, unos jubilados resuelven un crimen real con ingenio y humor negro.\n\nPara ver en pareja",
+      "description": "Como el Sherlock Holmes que valoraste con un 8, aquí un grupo de jubilados resuelve un asesinato con humor negro.\n\nPara ver en pareja",
       "releaseInfo": "2025",
       "poster": "https://image.tmdb.org/t/p/w342/xJeCdbeaLgsEr5DkXD6T67eqZFT.jpg",
       "links": [
@@ -26,7 +47,7 @@
       "type": "movie",
       "name": "Un pequeño favor",
       "posterShape": "poster",
-      "description": "Un misterio con humor negro sobre la desaparición de una amiga, con la mezcla de suspense y comedia que tanto disfrutáis juntos.\n\nPara ver en pareja",
+      "description": "Un thriller con comedia negra sobre la desaparición de una amiga, con ese tono irónico que tanto disfrutas.\n\nPara ver en pareja",
       "releaseInfo": "2018",
       "poster": "https://image.tmdb.org/t/p/w342/kBNMPKuVnsyLwUIE9fyOEQULBv6.jpg",
       "links": [
@@ -43,74 +64,11 @@
       ]
     },
     {
-      "id": "tt31121295",
-      "type": "movie",
-      "name": "Deep Cover: Actores encubiertos",
-      "posterShape": "poster",
-      "description": "Como en RocknRolla, que valoraste con un 8, aquí unos actores de improvisación se infiltran en el crimen londinense con mucho humor.\n\nPara ver en pareja",
-      "releaseInfo": "2025",
-      "poster": "https://image.tmdb.org/t/p/w342/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_732"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_732"
-        }
-      ]
-    },
-    {
-      "id": "tt11674730",
-      "type": "movie",
-      "name": "La última parada en Arizona",
-      "posterShape": "poster",
-      "description": "Como en Los sospechosos habituales, un grupo variopinto queda atrapado en una gasolinera con tensión creciente y personajes extravagantes.\n\nPara ver en pareja",
-      "releaseInfo": "2024",
-      "poster": "https://image.tmdb.org/t/p/w342/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_731"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_731"
-        }
-      ]
-    },
-    {
-      "id": "tt1924429",
-      "type": "movie",
-      "name": "En trance",
-      "posterShape": "poster",
-      "description": "Como en Los sospechosos habituales, un ladrón de arte pierde la memoria tras un golpe en la cabeza durante un atraco.\n\nPara ver en pareja",
-      "releaseInfo": "2013",
-      "poster": "https://image.tmdb.org/t/p/w342/doqPDahogP1zyjOwdmOygCWTCaO.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_770"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_770"
-        }
-      ]
-    },
-    {
       "id": "tt0025878",
       "type": "movie",
       "name": "La cena de los acusados",
       "posterShape": "poster",
-      "description": "Un detective y su mujer resuelven un caso de asesinato con ingenio y diálogos chispeantes, ideal para ver en pareja.\n\nPara ver en pareja",
+      "description": "Un detective y su esposa resuelven un caso de asesinato con ingenio y diálogo chispeante, puro misterio clásico.\n\nPara ver en pareja",
       "releaseInfo": "1934",
       "poster": "https://image.tmdb.org/t/p/w342/bSTwEucUoveVCm4lhpDCZNbKKYf.jpg",
       "links": [
@@ -123,6 +81,48 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_771"
+        }
+      ]
+    },
+    {
+      "id": "tt0106489",
+      "type": "movie",
+      "name": "Una historia del Bronx",
+      "posterShape": "poster",
+      "description": "Robert De Niro dirige y protagoniza este drama de mafia en el Bronx, como el Padrino que valoraste con un 9.\n\nPara ver en pareja",
+      "releaseInfo": "1993",
+      "poster": "https://image.tmdb.org/t/p/w342/mwW3SOA1SSxySZQRI7tx7Wo3kLy.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_796"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_796"
+        }
+      ]
+    },
+    {
+      "id": "tt0056923",
+      "type": "movie",
+      "name": "Charada",
+      "posterShape": "poster",
+      "description": "Cary Grant y Audrey Hepburn protagonizan un misterio con intriga y humor, al estilo detectivesco clásico que más disfrutas.\n\nPara ver en pareja",
+      "releaseInfo": "1963",
+      "poster": "https://image.tmdb.org/t/p/w342/lttpLnsThCunHUHIl86FWBo5aNM.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_797"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_797"
         }
       ]
     }

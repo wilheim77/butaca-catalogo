@@ -1,11 +1,53 @@
 {
   "metas": [
     {
+      "id": "tt0072500",
+      "type": "series",
+      "name": "Hotel Fawlty",
+      "posterShape": "poster",
+      "description": "John Cleese, al que ya le diste un 10, protagoniza este sitcom sobre un hotelero histérico y su personal caótico.\n\nClásicos que te faltan",
+      "releaseInfo": "1975",
+      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_785"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_785"
+        }
+      ]
+    },
+    {
+      "id": "tt0084988",
+      "type": "series",
+      "name": "La víbora negra",
+      "posterShape": "poster",
+      "description": "Rowan Atkinson encabeza esta sátira histórica mordaz ambientada en guerras y cortes reales, con Hugh Laurie en el reparto.\n\nClásicos que te faltan",
+      "releaseInfo": "1983",
+      "poster": "https://image.tmdb.org/t/p/w342/owlFxxbr8K9HLJXvWQMQBRPFPjO.jpg",
+      "links": [
+        {
+          "name": "✅ Ya la he visto",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=seen_787"
+        },
+        {
+          "name": "🚫 No me interesa",
+          "category": "Butaca",
+          "url": "https://t.me/Butacawillybot?start=nope_787"
+        }
+      ]
+    },
+    {
       "id": "tt0096684",
       "type": "series",
       "name": "A través del tiempo",
       "posterShape": "poster",
-      "description": "Te enganchará este científico que salta en el tiempo corrigiendo errores del pasado, puzle temporal clásico.\n\nClásicos que te faltan",
+      "description": "Un científico salta sin control por distintas épocas intentando corregir el pasado, puro viaje en el tiempo conceptual.\n\nClásicos que te faltan",
       "releaseInfo": "1989",
       "poster": "https://image.tmdb.org/t/p/w342/7GOEts6xhhbljqkUqSmTt2Nqbzb.jpg",
       "links": [
@@ -22,32 +64,11 @@
       ]
     },
     {
-      "id": "tt0056751",
-      "type": "series",
-      "name": "Doctor Who",
-      "posterShape": "poster",
-      "description": "Descubre la serie clásica que inventó el viaje en el tiempo en TV, con una mitología que no para de crecer.\n\nClásicos que te faltan",
-      "releaseInfo": "1963",
-      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_298"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_298"
-        }
-      ]
-    },
-    {
       "id": "tt0094535",
       "type": "series",
       "name": "Enano rojo",
       "posterShape": "poster",
-      "description": "Disfruta esta comedia británica de ciencia ficción sobre los últimos humanos perdidos en el espacio.\n\nClásicos que te faltan",
+      "description": "Una sitcom espacial británica sobre el último humano vivo, un holograma sarcástico y un gato evolucionado como tripulación.\n\nClásicos que te faltan",
       "releaseInfo": "1988",
       "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
       "links": [
@@ -60,27 +81,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_294"
-        }
-      ]
-    },
-    {
-      "id": "tt0081912",
-      "type": "series",
-      "name": "Only Fools and Horses",
-      "posterShape": "poster",
-      "description": "Te reirás con esta sitcom británica de estafas rebuscadas y ambición familiar en el Londres popular.\n\nClásicos que te faltan",
-      "releaseInfo": "1981",
-      "poster": "https://image.tmdb.org/t/p/w342/8QznQBwr4aqPIQTiymL7obM3qOK.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_627"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_627"
         }
       ]
     }

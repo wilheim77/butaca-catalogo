@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Desaparecido",
       "posterShape": "poster",
-      "description": "Un mangaka revive momentos del pasado para impedir una tragedia, un misterio que te obliga a releer cada pista al revés.\n\nPoco conocidas",
+      "description": "Un dibujante viaja atrás en el tiempo para evitar un asesinato, misterio animado de deducción y segunda oportunidad.\n\nPoco conocidas",
       "releaseInfo": "2016",
       "poster": "https://image.tmdb.org/t/p/w342/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg",
       "links": [
@@ -22,116 +22,11 @@
       ]
     },
     {
-      "id": "tt18311412",
-      "type": "series",
-      "name": "NieR:Automata Ver1.1a",
-      "posterShape": "poster",
-      "description": "Una androide de combate sobrevive a una misión que acaba en desastre, distopía post-apocalíptica adaptada del videojuego de culto.\n\nPoco conocidas",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_707"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_707"
-        }
-      ]
-    },
-    {
-      "id": "tt13718450",
-      "type": "series",
-      "name": "86: Eighty-Six",
-      "posterShape": "poster",
-      "description": "Pilotos humanos ocultos tras drones de combate en una guerra que esconde racismo y tragedia, mecha bélico con mucho peso dramático.\n\nPoco conocidas",
-      "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_764"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_764"
-        }
-      ]
-    },
-    {
-      "id": "tt13851958",
-      "type": "series",
-      "name": "Vivy: Fluorite Eye’s Song",
-      "posterShape": "poster",
-      "description": "Una IA cantante recibe el aviso de una guerra futura entre humanos y máquinas y emprende un viaje para evitarla.\n\nPoco conocidas",
-      "releaseInfo": "2021",
-      "poster": "https://image.tmdb.org/t/p/w342/xRakd62ihUP19NBgWyJzjO26NxE.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_708"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_708"
-        }
-      ]
-    },
-    {
-      "id": "tt6340502",
-      "type": "series",
-      "name": "Inuyashiki, el último héroe",
-      "posterShape": "poster",
-      "description": "Un hombre de 58 años con cáncer terminal se convierte en cyborg tras un accidente, tragedia con acción y dilema moral.\n\nPoco conocidas",
-      "releaseInfo": "2017",
-      "poster": "https://image.tmdb.org/t/p/w342/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_710"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_710"
-        }
-      ]
-    },
-    {
-      "id": "tt15582422",
-      "type": "series",
-      "name": "Black Rock Shooter: Dawn Fall",
-      "posterShape": "poster",
-      "description": "En una Tierra devastada por la guerra entre IA y humanos, una superviviente despierta sin saber en qué bando está.\n\nPoco conocidas",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/x607kupq3V7rsIz2gakITqwElum.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_713"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_713"
-        }
-      ]
-    },
-    {
       "id": "tt9735318",
       "type": "series",
       "name": "The Beatles: Get Back",
       "posterShape": "poster",
-      "description": "Si te encantó la trilogía de Jackson con un 10: dirige este documental con horas inéditas de los Beatles en el estudio.\n\nPoco conocidas",
+      "description": "De Peter Jackson, el director de la trilogía de El Señor de los Anillos, un documental íntimo sobre los Beatles.\n\nPoco conocidas",
       "releaseInfo": "2021",
       "poster": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
       "links": [
@@ -144,48 +39,6 @@
           "name": "🚫 No me interesa",
           "category": "Butaca",
           "url": "https://t.me/Butacawillybot?start=nope_703"
-        }
-      ]
-    },
-    {
-      "id": "tt1020116",
-      "type": "series",
-      "name": "Boris",
-      "posterShape": "poster",
-      "description": "Sátira italiana sobre el caos detrás de cámaras de una producción de televisión, humor negro sobre el mundo del cine.\n\nPoco conocidas",
-      "releaseInfo": "2007",
-      "poster": "https://image.tmdb.org/t/p/w342/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_638"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_638"
-        }
-      ]
-    },
-    {
-      "id": "tt12004706",
-      "type": "series",
-      "name": "पंचायत",
-      "posterShape": "poster",
-      "description": "Comedia satírica sobre un joven graduado que acaba gestionando la burocracia de un panchayat rural en la India.\n\nPoco conocidas",
-      "releaseInfo": "2020",
-      "poster": "https://image.tmdb.org/t/p/w342/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_712"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_712"
         }
       ]
     }
