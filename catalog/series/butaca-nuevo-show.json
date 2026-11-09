@@ -85,27 +85,6 @@
       ]
     },
     {
-      "id": "tt5363918",
-      "type": "series",
-      "name": "(Des)encanto",
-      "posterShape": "poster",
-      "description": "Del creador de Futurama, que tanto te gusta, ahora en un reino de fantasía medieval con demonios y elfos.\n\nAlgo nuevo",
-      "releaseInfo": "2018",
-      "poster": "https://image.tmdb.org/t/p/w342/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg",
-      "links": [
-        {
-          "name": "✅ Ya la he visto",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=seen_768"
-        },
-        {
-          "name": "🚫 No me interesa",
-          "category": "Butaca",
-          "url": "https://t.me/Butacawillybot?start=nope_768"
-        }
-      ]
-    },
-    {
       "id": "tt5820976",
       "type": "series",
       "name": "El marginal",
