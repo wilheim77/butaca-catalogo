@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "El señor de los anillos: Los anillos de poder",
+      "posterShape": "poster",
+      "description": "Temporada 3 estrenada el 10 de noviembre\n\nNuevas temporadas",
+      "releaseInfo": "2022",
+      "poster": "https://image.tmdb.org/t/p/w342/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg"
+    },
+    {
       "id": "tt2531336",
       "type": "series",
       "name": "Lupin",
@@ -19,13 +28,13 @@
       "poster": "https://image.tmdb.org/t/p/w342/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
     },
     {
-      "id": "tt7631058",
+      "id": "tt12324366",
       "type": "series",
-      "name": "El señor de los anillos: Los anillos de poder",
+      "name": "Percy Jackson y los dioses del Olimpo",
       "posterShape": "poster",
-      "description": "La temporada 3 llega el 11 de noviembre\n\nNuevas temporadas",
-      "releaseInfo": "2022",
-      "poster": "https://image.tmdb.org/t/p/w342/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg"
+      "description": "La temporada 3 llega el 20 de noviembre\n\nNuevas temporadas",
+      "releaseInfo": "2023",
+      "poster": "https://image.tmdb.org/t/p/w342/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg"
     },
     {
       "id": "tt11691774",
