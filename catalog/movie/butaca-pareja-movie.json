@@ -1,15 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt22687790",
-      "type": "movie",
-      "name": "Misterio en Venecia",
-      "posterShape": "poster",
-      "description": "Poirot vuelve en un misterio de pistas y deducción clásico, justo el estilo que más te atrapa.\n\nPara ver en pareja",
-      "releaseInfo": "2023",
-      "poster": "https://image.tmdb.org/t/p/w342/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg"
-    },
-    {
       "id": "tt12001534",
       "type": "movie",
       "name": "El club del crimen de los jueves",
